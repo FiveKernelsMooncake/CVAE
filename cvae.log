@@ -1,0 +1,230 @@
+2019-09-12 09:24:47,306 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-12 09:24:47,410 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-12 09:24:47,929 [INFO]: Loading weights from model/pretrain
+2019-09-12 09:24:47,929 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\training\saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-09-12 09:24:47,955 [INFO]: Restoring parameters from model/pretrain
+2019-09-12 09:29:54,121 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-12 09:29:54,265 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-12 09:29:54,880 [INFO]: Loading weights from model/pretrain
+2019-09-12 09:29:54,880 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\training\saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-09-12 09:29:54,883 [INFO]: Restoring parameters from model/pretrain
+2019-09-12 09:30:45,103 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-12 09:30:45,209 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-12 09:30:45,758 [INFO]: Loading weights from model/pretrain
+2019-09-12 09:30:45,758 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\training\saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-09-12 09:30:45,761 [INFO]: Restoring parameters from model/pretrain
+2019-09-12 09:31:37,369 [INFO]: [#epoch=000000], loss=668670.20768, neg_likelihood=1970.46830, gen_loss=78.52765
+2019-09-12 09:32:25,641 [INFO]: [#epoch=000001], loss=663193.83703, neg_likelihood=1860.32796, gen_loss=77.89558
+2019-09-12 09:33:13,248 [INFO]: [#epoch=000002], loss=649252.82269, neg_likelihood=1823.73547, gen_loss=76.25784
+2019-09-12 09:33:59,604 [INFO]: [#epoch=000003], loss=649024.66280, neg_likelihood=1819.95119, gen_loss=76.23141
+2019-09-12 09:34:46,842 [INFO]: [#epoch=000004], loss=668722.42269, neg_likelihood=1823.76370, gen_loss=78.55108
+2019-09-12 09:35:34,456 [INFO]: [#epoch=000005], loss=654154.39432, neg_likelihood=1828.36123, gen_loss=76.83463
+2019-09-12 09:36:22,208 [INFO]: [#epoch=000006], loss=649724.64519, neg_likelihood=1836.44299, gen_loss=76.31192
+2019-09-12 09:37:08,898 [INFO]: [#epoch=000007], loss=665302.91328, neg_likelihood=1837.83592, gen_loss=78.14665
+2019-09-12 09:37:57,548 [INFO]: [#epoch=000008], loss=664292.55608, neg_likelihood=1839.24172, gen_loss=78.02748
+2019-09-12 09:38:43,856 [INFO]: [#epoch=000009], loss=678488.20776, neg_likelihood=1837.17688, gen_loss=79.69977
+2019-09-12 09:39:31,070 [INFO]: [#epoch=000010], loss=622452.04899, neg_likelihood=1845.82233, gen_loss=73.09850
+2019-09-12 09:40:18,628 [INFO]: [#epoch=000011], loss=673304.75921, neg_likelihood=1842.93250, gen_loss=79.08855
+2019-09-12 09:41:05,979 [INFO]: [#epoch=000012], loss=706922.87623, neg_likelihood=1845.58009, gen_loss=83.04797
+2019-09-12 09:41:53,373 [INFO]: [#epoch=000013], loss=686301.71621, neg_likelihood=1846.31346, gen_loss=80.61901
+2019-09-12 09:42:41,187 [INFO]: [#epoch=000014], loss=684228.25712, neg_likelihood=1846.70942, gen_loss=80.37474
+2019-09-12 09:43:28,916 [INFO]: [#epoch=000015], loss=701154.14149, neg_likelihood=1846.29107, gen_loss=82.36842
+2019-09-12 09:44:16,219 [INFO]: [#epoch=000016], loss=693771.89365, neg_likelihood=1850.49609, gen_loss=81.49840
+2019-09-12 09:45:04,508 [INFO]: [#epoch=000017], loss=686076.54231, neg_likelihood=1851.73343, gen_loss=80.59185
+2019-09-12 09:45:52,397 [INFO]: [#epoch=000018], loss=681118.30465, neg_likelihood=1852.17084, gen_loss=80.00779
+2019-09-12 09:46:39,874 [INFO]: [#epoch=000019], loss=674475.05669, neg_likelihood=1854.75488, gen_loss=79.22501
+2019-09-12 09:47:28,132 [INFO]: [#epoch=000020], loss=678455.07493, neg_likelihood=1852.81854, gen_loss=79.69402
+2019-09-12 09:48:16,192 [INFO]: [#epoch=000021], loss=693023.03897, neg_likelihood=1852.36697, gen_loss=81.40997
+2019-09-12 09:49:04,203 [INFO]: [#epoch=000022], loss=699044.65334, neg_likelihood=1847.57890, gen_loss=82.11980
+2019-09-12 09:49:52,276 [INFO]: [#epoch=000023], loss=694973.85782, neg_likelihood=1847.93116, gen_loss=81.64027
+2019-09-12 09:50:39,924 [INFO]: [#epoch=000024], loss=693839.16634, neg_likelihood=1852.21794, gen_loss=81.50612
+2019-09-12 09:51:27,681 [INFO]: [#epoch=000025], loss=692145.58822, neg_likelihood=1852.20931, gen_loss=81.30664
+2019-09-12 09:52:15,385 [INFO]: [#epoch=000026], loss=692290.82691, neg_likelihood=1854.94617, gen_loss=81.32343
+2019-09-12 09:53:03,040 [INFO]: [#epoch=000027], loss=702809.16544, neg_likelihood=1855.09500, gen_loss=82.56232
+2019-09-12 09:53:50,144 [INFO]: [#epoch=000028], loss=680784.86428, neg_likelihood=1855.09957, gen_loss=79.96817
+2019-09-12 09:54:37,936 [INFO]: [#epoch=000029], loss=734418.69129, neg_likelihood=1850.71919, gen_loss=86.28598
+2019-09-12 09:55:25,528 [INFO]: [#epoch=000030], loss=718806.90934, neg_likelihood=1850.91966, gen_loss=84.44711
+2019-09-12 09:56:12,914 [INFO]: [#epoch=000031], loss=735958.50569, neg_likelihood=1853.58656, gen_loss=86.46701
+2019-09-12 09:57:00,302 [INFO]: [#epoch=000032], loss=699845.59832, neg_likelihood=1850.44887, gen_loss=82.21380
+2019-09-12 09:57:45,776 [INFO]: [#epoch=000033], loss=707270.99152, neg_likelihood=1852.66258, gen_loss=83.08814
+2019-09-12 09:58:32,976 [INFO]: [#epoch=000034], loss=710856.08033, neg_likelihood=1845.73365, gen_loss=83.51123
+2019-09-12 09:59:20,325 [INFO]: [#epoch=000035], loss=703415.72789, neg_likelihood=1845.53135, gen_loss=82.63489
+2019-09-12 10:00:07,962 [INFO]: [#epoch=000036], loss=679311.02304, neg_likelihood=1850.25789, gen_loss=79.79514
+2019-09-12 10:00:55,250 [INFO]: [#epoch=000037], loss=729214.35959, neg_likelihood=1843.29972, gen_loss=85.67386
+2019-09-12 10:01:43,650 [INFO]: [#epoch=000038], loss=728598.86003, neg_likelihood=1842.30692, gen_loss=85.60148
+2019-09-12 10:02:34,451 [INFO]: [#epoch=000039], loss=731483.61475, neg_likelihood=1845.99847, gen_loss=85.94083
+2019-09-12 10:03:21,836 [INFO]: [#epoch=000040], loss=700672.83300, neg_likelihood=1839.96709, gen_loss=82.31247
+2019-09-12 10:04:09,937 [INFO]: [#epoch=000041], loss=741375.75222, neg_likelihood=1841.18946, gen_loss=87.10654
+2019-09-12 10:04:58,029 [INFO]: [#epoch=000042], loss=727902.02419, neg_likelihood=1837.57656, gen_loss=85.51996
+2019-09-12 10:05:47,654 [INFO]: [#epoch=000043], loss=688978.75393, neg_likelihood=1843.21560, gen_loss=80.93469
+2019-09-12 10:06:35,632 [INFO]: [#epoch=000044], loss=701586.74908, neg_likelihood=1842.51919, gen_loss=82.41982
+2019-09-12 10:07:22,627 [INFO]: [#epoch=000045], loss=697959.07793, neg_likelihood=1838.92869, gen_loss=81.99295
+2019-09-12 10:08:10,677 [INFO]: [#epoch=000046], loss=727181.02153, neg_likelihood=1837.24452, gen_loss=85.43507
+2019-09-12 10:08:58,159 [INFO]: [#epoch=000047], loss=715611.61194, neg_likelihood=1834.57901, gen_loss=84.07268
+2019-09-12 10:09:45,900 [INFO]: [#epoch=000048], loss=750805.01847, neg_likelihood=1837.35268, gen_loss=88.21763
+2019-09-12 10:10:33,445 [INFO]: [#epoch=000049], loss=737465.15505, neg_likelihood=1837.66863, gen_loss=86.64635
+2019-09-12 10:11:21,674 [INFO]: [#epoch=000050], loss=708106.57906, neg_likelihood=1828.12203, gen_loss=83.18945
+2019-09-12 10:12:10,200 [INFO]: [#epoch=000051], loss=724154.38644, neg_likelihood=1828.86299, gen_loss=85.07957
+2019-09-12 10:12:58,831 [INFO]: [#epoch=000052], loss=692542.30677, neg_likelihood=1834.50663, gen_loss=81.35545
+2019-09-12 10:13:47,518 [INFO]: [#epoch=000053], loss=722010.97973, neg_likelihood=1833.02365, gen_loss=84.82661
+2019-09-12 10:14:35,829 [INFO]: [#epoch=000054], loss=706026.74855, neg_likelihood=1832.57512, gen_loss=82.94395
+2019-09-12 10:15:24,525 [INFO]: [#epoch=000055], loss=712544.97975, neg_likelihood=1828.04410, gen_loss=83.71224
+2019-09-12 10:16:12,982 [INFO]: [#epoch=000056], loss=705640.57804, neg_likelihood=1834.39823, gen_loss=82.89825
+2019-09-12 10:17:01,560 [INFO]: [#epoch=000057], loss=690197.07560, neg_likelihood=1821.83611, gen_loss=81.08071
+2019-09-12 10:17:50,015 [INFO]: [#epoch=000058], loss=739806.30729, neg_likelihood=1823.26561, gen_loss=86.92380
+2019-09-12 10:18:37,851 [INFO]: [#epoch=000059], loss=724511.53777, neg_likelihood=1828.20517, gen_loss=85.12171
+2019-09-12 10:19:25,749 [INFO]: [#epoch=000060], loss=688836.81847, neg_likelihood=1818.19642, gen_loss=80.92092
+2019-09-12 10:20:12,803 [INFO]: [#epoch=000061], loss=720837.39379, neg_likelihood=1813.57298, gen_loss=84.69067
+2019-09-12 10:20:59,498 [INFO]: [#epoch=000062], loss=703280.04438, neg_likelihood=1820.67541, gen_loss=82.62183
+2019-09-12 10:21:47,745 [INFO]: [#epoch=000063], loss=744416.26772, neg_likelihood=1813.51099, gen_loss=87.46793
+2019-09-12 10:22:34,360 [INFO]: [#epoch=000064], loss=703243.10458, neg_likelihood=1816.25194, gen_loss=82.61800
+2019-09-12 10:23:21,057 [INFO]: [#epoch=000065], loss=713831.96619, neg_likelihood=1814.63655, gen_loss=83.86541
+2019-09-12 10:24:09,498 [INFO]: [#epoch=000066], loss=712085.94358, neg_likelihood=1808.10789, gen_loss=83.66052
+2019-09-12 10:24:58,009 [INFO]: [#epoch=000067], loss=725324.31129, neg_likelihood=1807.73162, gen_loss=85.21986
+2019-09-12 10:25:45,510 [INFO]: [#epoch=000068], loss=680465.88689, neg_likelihood=1810.11433, gen_loss=79.93590
+2019-09-12 10:26:32,013 [INFO]: [#epoch=000069], loss=714279.77985, neg_likelihood=1817.32631, gen_loss=83.91784
+2019-09-12 10:27:18,476 [INFO]: [#epoch=000070], loss=709119.72545, neg_likelihood=1807.48241, gen_loss=83.31122
+2019-09-12 10:28:06,199 [INFO]: [#epoch=000071], loss=710997.15803, neg_likelihood=1806.09312, gen_loss=83.53252
+2019-09-12 10:28:50,624 [INFO]: [#epoch=000072], loss=725959.84366, neg_likelihood=1804.14328, gen_loss=85.29514
+2019-09-12 10:29:35,030 [INFO]: [#epoch=000073], loss=698466.42586, neg_likelihood=1808.46176, gen_loss=82.05630
+2019-09-12 10:30:23,095 [INFO]: [#epoch=000074], loss=731513.14170, neg_likelihood=1804.79270, gen_loss=85.94916
+2019-09-12 10:31:10,551 [INFO]: [#epoch=000075], loss=733913.91975, neg_likelihood=1802.98988, gen_loss=86.23215
+2019-09-12 10:31:58,397 [INFO]: [#epoch=000076], loss=723702.68849, neg_likelihood=1809.39900, gen_loss=85.02866
+2019-09-12 10:32:45,553 [INFO]: [#epoch=000077], loss=699605.60423, neg_likelihood=1798.75151, gen_loss=82.19162
+2019-09-12 10:33:34,120 [INFO]: [#epoch=000078], loss=752044.26513, neg_likelihood=1795.57266, gen_loss=88.36852
+2019-09-12 10:34:22,537 [INFO]: [#epoch=000079], loss=716025.29814, neg_likelihood=1801.32765, gen_loss=84.12532
+2019-09-12 10:35:11,029 [INFO]: [#epoch=000080], loss=699380.62224, neg_likelihood=1796.84965, gen_loss=82.16534
+2019-09-12 10:35:59,192 [INFO]: [#epoch=000081], loss=726337.49192, neg_likelihood=1797.87865, gen_loss=85.34035
+2019-09-12 10:36:47,246 [INFO]: [#epoch=000082], loss=724641.84625, neg_likelihood=1801.82642, gen_loss=85.14017
+2019-09-12 10:37:34,641 [INFO]: [#epoch=000083], loss=727157.50170, neg_likelihood=1796.81879, gen_loss=85.43707
+2019-09-12 10:38:22,322 [INFO]: [#epoch=000084], loss=720682.91167, neg_likelihood=1793.04259, gen_loss=84.67490
+2019-09-12 10:39:08,935 [INFO]: [#epoch=000085], loss=694116.81214, neg_likelihood=1802.43340, gen_loss=81.54469
+2019-09-12 10:39:57,639 [INFO]: [#epoch=000086], loss=724834.14746, neg_likelihood=1792.87617, gen_loss=85.16387
+2019-09-12 10:40:44,511 [INFO]: [#epoch=000087], loss=695198.89499, neg_likelihood=1796.90341, gen_loss=81.67279
+2019-09-12 10:41:30,355 [INFO]: [#epoch=000088], loss=735759.23597, neg_likelihood=1787.68560, gen_loss=86.45130
+2019-09-12 10:42:17,591 [INFO]: [#epoch=000089], loss=713686.72227, neg_likelihood=1788.38166, gen_loss=83.85139
+2019-09-12 10:43:04,584 [INFO]: [#epoch=000090], loss=745880.84759, neg_likelihood=1791.21380, gen_loss=87.64307
+2019-09-12 10:43:52,631 [INFO]: [#epoch=000091], loss=713122.28097, neg_likelihood=1785.65667, gen_loss=83.78523
+2019-09-12 10:44:39,446 [INFO]: [#epoch=000092], loss=722289.57028, neg_likelihood=1787.48731, gen_loss=84.86479
+2019-09-12 10:45:24,367 [INFO]: [#epoch=000093], loss=721373.38257, neg_likelihood=1782.27493, gen_loss=84.75749
+2019-09-12 10:46:12,841 [INFO]: [#epoch=000094], loss=703288.48414, neg_likelihood=1780.79409, gen_loss=82.62753
+2019-09-12 10:47:00,642 [INFO]: [#epoch=000095], loss=703193.42968, neg_likelihood=1783.09429, gen_loss=82.61606
+2019-09-12 10:47:48,690 [INFO]: [#epoch=000096], loss=703977.07916, neg_likelihood=1783.50189, gen_loss=82.70831
+2019-09-12 10:48:37,557 [INFO]: [#epoch=000097], loss=717052.78252, neg_likelihood=1773.65074, gen_loss=84.24960
+2019-09-12 10:49:26,897 [INFO]: [#epoch=000098], loss=699781.32708, neg_likelihood=1775.61953, gen_loss=82.21504
+2019-09-12 10:50:15,170 [INFO]: [#epoch=000099], loss=716541.75621, neg_likelihood=1778.74016, gen_loss=84.18881
+2019-09-12 10:50:15,593 [INFO]: Weights saved at model/cvae
+2019-09-12 10:50:15,650 [INFO]: Weights saved at model/pmf
+2019-09-14 18:56:02,367 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-14 18:56:02,484 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-14 18:56:03,092 [INFO]: Loading weights from model/pretrain
+2019-09-14 18:56:03,092 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\training\saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-09-14 18:57:15,826 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-14 18:57:15,926 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-14 18:58:06,305 [INFO]: [#epoch=000000], loss=946732.96211, neg_likelihood=2703.54331, gen_loss=111.19310
+2019-09-14 18:58:30,434 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-14 18:58:30,537 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-14 18:59:23,947 [INFO]: [#epoch=000000], loss=946732.96211, neg_likelihood=2703.54331, gen_loss=111.19310
+2019-09-14 19:00:13,117 [INFO]: [#epoch=000001], loss=906319.87484, neg_likelihood=2642.05181, gen_loss=106.44026
+2019-09-14 19:15:42,766 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-14 19:15:42,878 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-14 19:15:43,401 [INFO]: Loading weights from model/pretrain
+2019-09-14 19:15:43,401 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\training\saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-09-14 19:15:43,431 [INFO]: Restoring parameters from model/pretrain
+2019-09-14 19:16:29,519 [INFO]: [#epoch=000000], loss=668670.20768, neg_likelihood=1970.46830, gen_loss=78.52765
+2019-09-14 19:17:12,081 [INFO]: [#epoch=000001], loss=663193.83703, neg_likelihood=1860.32796, gen_loss=77.89558
+2019-09-14 19:17:54,874 [INFO]: [#epoch=000002], loss=649252.82269, neg_likelihood=1823.73547, gen_loss=76.25784
+2019-09-14 19:18:37,703 [INFO]: [#epoch=000003], loss=649024.66280, neg_likelihood=1819.95119, gen_loss=76.23141
+2019-09-14 19:20:19,381 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-14 19:20:19,495 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-14 19:20:20,032 [INFO]: Loading weights from model/pretrain
+2019-09-14 19:20:20,032 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\training\saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-09-14 19:20:20,037 [INFO]: Restoring parameters from model/pretrain
+2019-09-14 19:21:03,867 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-14 19:21:03,969 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-14 19:21:04,501 [INFO]: Loading weights from model/pretrain
+2019-09-14 19:21:04,501 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\training\saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-09-14 19:21:04,505 [INFO]: Restoring parameters from model/pretrain
+2019-10-02 20:12:55,875 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-02 20:12:56,038 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-02 20:12:57,010 [INFO]: Loading weights from model/pretrain
+2019-10-02 20:12:57,010 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\training\saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-10-02 20:12:57,015 [INFO]: Restoring parameters from model/pretrain
+2019-10-02 20:14:11,001 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-02 20:14:11,098 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-02 20:14:11,589 [INFO]: Loading weights from model/pretrain
+2019-10-02 20:14:11,590 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\training\saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-10-02 20:14:11,594 [INFO]: Restoring parameters from model/pretrain
+2019-10-10 09:54:38,921 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-10 09:54:39,048 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-10 09:54:39,540 [INFO]: Loading weights from model/pretrain
+2019-10-10 09:54:39,540 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\training\saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-10-10 09:54:39,596 [INFO]: Restoring parameters from model/pretrain

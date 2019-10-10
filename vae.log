@@ -1,0 +1,1658 @@
+2019-09-11 16:41:56,598 [INFO]: loading data
+2019-09-11 16:42:04,139 [INFO]: initializing sdae model
+2019-09-11 16:43:52,005 [INFO]: loading data
+2019-09-11 16:43:58,793 [INFO]: initializing sdae model
+2019-09-11 16:43:58,793 [INFO]: fitting data starts...
+2019-09-11 16:43:58,794 [INFO]: Layer 1
+2019-09-11 16:44:00,776 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-11 16:44:00,869 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-12 08:31:31,084 [INFO]: loading data
+2019-09-12 08:31:38,003 [INFO]: initializing sdae model
+2019-09-12 08:31:38,003 [INFO]: fitting data starts...
+2019-09-12 08:31:38,003 [INFO]: Layer 1
+2019-09-12 08:31:38,258 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-12 08:31:38,336 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-12 08:57:10,086 [INFO]: loading data
+2019-09-12 08:57:16,949 [INFO]: initializing sdae model
+2019-09-12 08:57:16,950 [INFO]: fitting data starts...
+2019-09-12 08:57:16,950 [INFO]: Layer 1
+2019-09-12 08:57:16,961 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-12 08:57:16,986 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-12 08:57:31,245 [INFO]: epoch 0: batch loss = 205.22537231445312
+2019-09-12 08:57:43,109 [INFO]: epoch 1: batch loss = 129.63282775878906
+2019-09-12 08:57:54,934 [INFO]: epoch 2: batch loss = 118.86343383789062
+2019-09-12 08:58:06,682 [INFO]: epoch 3: batch loss = 119.46351623535156
+2019-09-12 08:58:18,388 [INFO]: epoch 4: batch loss = 106.84426879882812
+2019-09-12 08:58:30,177 [INFO]: epoch 5: batch loss = 101.88306427001953
+2019-09-12 08:58:42,052 [INFO]: epoch 6: batch loss = 105.878173828125
+2019-09-12 08:58:53,673 [INFO]: epoch 7: batch loss = 105.3983154296875
+2019-09-12 08:59:05,499 [INFO]: epoch 8: batch loss = 97.02503204345703
+2019-09-12 08:59:17,385 [INFO]: epoch 9: batch loss = 88.5303726196289
+2019-09-12 08:59:29,205 [INFO]: epoch 10: batch loss = 86.76575469970703
+2019-09-12 08:59:41,016 [INFO]: epoch 11: batch loss = 90.89155578613281
+2019-09-12 08:59:53,429 [INFO]: epoch 12: batch loss = 81.96420288085938
+2019-09-12 09:00:04,952 [INFO]: epoch 13: batch loss = 84.2110595703125
+2019-09-12 09:00:16,543 [INFO]: epoch 14: batch loss = 86.9438705444336
+2019-09-12 09:00:28,043 [INFO]: epoch 15: batch loss = 81.7696533203125
+2019-09-12 09:00:39,631 [INFO]: epoch 16: batch loss = 80.7578353881836
+2019-09-12 09:00:51,465 [INFO]: epoch 17: batch loss = 81.25057220458984
+2019-09-12 09:01:03,172 [INFO]: epoch 18: batch loss = 74.32100677490234
+2019-09-12 09:01:15,061 [INFO]: epoch 19: batch loss = 74.83893585205078
+2019-09-12 09:01:26,573 [INFO]: epoch 20: batch loss = 77.28169250488281
+2019-09-12 09:01:38,211 [INFO]: epoch 21: batch loss = 70.20252990722656
+2019-09-12 09:01:49,671 [INFO]: epoch 22: batch loss = 72.34967041015625
+2019-09-12 09:02:01,340 [INFO]: epoch 23: batch loss = 74.94095611572266
+2019-09-12 09:02:12,938 [INFO]: epoch 24: batch loss = 72.12019348144531
+2019-09-12 09:02:24,548 [INFO]: epoch 25: batch loss = 69.81006622314453
+2019-09-12 09:02:36,073 [INFO]: epoch 26: batch loss = 68.33493041992188
+2019-09-12 09:02:47,604 [INFO]: epoch 27: batch loss = 67.89437103271484
+2019-09-12 09:02:59,128 [INFO]: epoch 28: batch loss = 67.71455383300781
+2019-09-12 09:03:10,706 [INFO]: epoch 29: batch loss = 65.29353332519531
+2019-09-12 09:03:22,305 [INFO]: epoch 30: batch loss = 63.183189392089844
+2019-09-12 09:03:33,840 [INFO]: epoch 31: batch loss = 61.74083709716797
+2019-09-12 09:03:45,500 [INFO]: epoch 32: batch loss = 65.38186645507812
+2019-09-12 09:03:57,160 [INFO]: epoch 33: batch loss = 61.140750885009766
+2019-09-12 09:04:08,717 [INFO]: epoch 34: batch loss = 61.321842193603516
+2019-09-12 09:04:20,380 [INFO]: epoch 35: batch loss = 60.05109405517578
+2019-09-12 09:04:31,904 [INFO]: epoch 36: batch loss = 60.07844543457031
+2019-09-12 09:04:43,344 [INFO]: epoch 37: batch loss = 63.839256286621094
+2019-09-12 09:04:54,934 [INFO]: epoch 38: batch loss = 62.065887451171875
+2019-09-12 09:05:06,693 [INFO]: epoch 39: batch loss = 61.10150146484375
+2019-09-12 09:05:18,253 [INFO]: epoch 40: batch loss = 58.017452239990234
+2019-09-12 09:05:29,837 [INFO]: epoch 41: batch loss = 59.882362365722656
+2019-09-12 09:05:41,520 [INFO]: epoch 42: batch loss = 57.5409049987793
+2019-09-12 09:05:53,085 [INFO]: epoch 43: batch loss = 60.27623748779297
+2019-09-12 09:06:04,623 [INFO]: epoch 44: batch loss = 55.01787567138672
+2019-09-12 09:06:16,241 [INFO]: epoch 45: batch loss = 54.64031219482422
+2019-09-12 09:06:27,923 [INFO]: epoch 46: batch loss = 55.63026428222656
+2019-09-12 09:06:39,850 [INFO]: epoch 47: batch loss = 55.479000091552734
+2019-09-12 09:06:51,832 [INFO]: epoch 48: batch loss = 56.78013610839844
+2019-09-12 09:07:03,463 [INFO]: epoch 49: batch loss = 54.67683792114258
+2019-09-12 09:07:04,094 [INFO]: Layer 2
+2019-09-12 09:07:05,344 [INFO]: epoch 0: batch loss = 116.92469787597656
+2019-09-12 09:07:06,356 [INFO]: epoch 1: batch loss = 111.544189453125
+2019-09-12 09:07:07,388 [INFO]: epoch 2: batch loss = 110.71543884277344
+2019-09-12 09:07:08,409 [INFO]: epoch 3: batch loss = 110.08316040039062
+2019-09-12 09:07:09,454 [INFO]: epoch 4: batch loss = 110.87771606445312
+2019-09-12 09:07:10,482 [INFO]: epoch 5: batch loss = 109.10202026367188
+2019-09-12 09:07:11,489 [INFO]: epoch 6: batch loss = 110.60536193847656
+2019-09-12 09:07:12,498 [INFO]: epoch 7: batch loss = 110.81169891357422
+2019-09-12 09:07:13,543 [INFO]: epoch 8: batch loss = 111.35686492919922
+2019-09-12 09:07:14,563 [INFO]: epoch 9: batch loss = 110.44294738769531
+2019-09-12 09:07:15,615 [INFO]: epoch 10: batch loss = 111.81622314453125
+2019-09-12 09:07:16,618 [INFO]: epoch 11: batch loss = 111.12696838378906
+2019-09-12 09:07:17,640 [INFO]: epoch 12: batch loss = 112.19571685791016
+2019-09-12 09:07:18,653 [INFO]: epoch 13: batch loss = 111.83201599121094
+2019-09-12 09:07:19,661 [INFO]: epoch 14: batch loss = 113.74285125732422
+2019-09-12 09:07:20,682 [INFO]: epoch 15: batch loss = 112.25739288330078
+2019-09-12 09:07:21,697 [INFO]: epoch 16: batch loss = 112.99415588378906
+2019-09-12 09:07:22,749 [INFO]: epoch 17: batch loss = 112.5972900390625
+2019-09-12 09:07:23,765 [INFO]: epoch 18: batch loss = 113.47505187988281
+2019-09-12 09:07:24,785 [INFO]: epoch 19: batch loss = 112.92810821533203
+2019-09-12 09:07:25,797 [INFO]: epoch 20: batch loss = 112.4377212524414
+2019-09-12 09:07:26,817 [INFO]: epoch 21: batch loss = 114.02677917480469
+2019-09-12 09:07:27,828 [INFO]: epoch 22: batch loss = 113.11555480957031
+2019-09-12 09:07:28,860 [INFO]: epoch 23: batch loss = 113.26324462890625
+2019-09-12 09:07:29,910 [INFO]: epoch 24: batch loss = 114.20968627929688
+2019-09-12 09:07:30,929 [INFO]: epoch 25: batch loss = 113.86448669433594
+2019-09-12 09:07:31,951 [INFO]: epoch 26: batch loss = 113.52273559570312
+2019-09-12 09:07:32,979 [INFO]: epoch 27: batch loss = 113.94944763183594
+2019-09-12 09:07:33,999 [INFO]: epoch 28: batch loss = 113.64645385742188
+2019-09-12 09:07:35,070 [INFO]: epoch 29: batch loss = 114.2798843383789
+2019-09-12 09:07:36,152 [INFO]: epoch 30: batch loss = 114.40486907958984
+2019-09-12 09:07:37,185 [INFO]: epoch 31: batch loss = 115.57917785644531
+2019-09-12 09:07:38,212 [INFO]: epoch 32: batch loss = 116.0472412109375
+2019-09-12 09:07:39,224 [INFO]: epoch 33: batch loss = 114.21897888183594
+2019-09-12 09:07:40,252 [INFO]: epoch 34: batch loss = 114.26933288574219
+2019-09-12 09:07:41,275 [INFO]: epoch 35: batch loss = 116.18901824951172
+2019-09-12 09:07:42,276 [INFO]: epoch 36: batch loss = 113.80093383789062
+2019-09-12 09:07:43,316 [INFO]: epoch 37: batch loss = 114.87367248535156
+2019-09-12 09:07:44,335 [INFO]: epoch 38: batch loss = 114.44569396972656
+2019-09-12 09:07:45,360 [INFO]: epoch 39: batch loss = 113.72578430175781
+2019-09-12 09:07:46,391 [INFO]: epoch 40: batch loss = 116.50227355957031
+2019-09-12 09:07:47,406 [INFO]: epoch 41: batch loss = 115.48859405517578
+2019-09-12 09:07:48,429 [INFO]: epoch 42: batch loss = 114.1970443725586
+2019-09-12 09:07:49,486 [INFO]: epoch 43: batch loss = 114.85347747802734
+2019-09-12 09:07:50,508 [INFO]: epoch 44: batch loss = 114.37574768066406
+2019-09-12 09:07:51,533 [INFO]: epoch 45: batch loss = 114.93253326416016
+2019-09-12 09:07:52,545 [INFO]: epoch 46: batch loss = 114.71290588378906
+2019-09-12 09:07:53,569 [INFO]: epoch 47: batch loss = 113.51019287109375
+2019-09-12 09:07:54,591 [INFO]: epoch 48: batch loss = 114.14134216308594
+2019-09-12 09:07:55,609 [INFO]: epoch 49: batch loss = 113.48048400878906
+2019-09-12 09:08:01,861 [INFO]: epoch 0: batch loss = 51.34903335571289, gen_loss=49.074424743652344, latent_loss=2.274608850479126
+2019-09-12 09:08:02,029 [INFO]: epoch 1: batch loss = 49.80781173706055, gen_loss=48.59588623046875, latent_loss=1.2119263410568237
+2019-09-12 09:08:02,179 [INFO]: epoch 2: batch loss = 48.90062713623047, gen_loss=48.395782470703125, latent_loss=0.50484299659729
+2019-09-12 09:08:02,333 [INFO]: epoch 3: batch loss = 48.77238845825195, gen_loss=48.197898864746094, latent_loss=0.5744897723197937
+2019-09-12 09:08:02,482 [INFO]: epoch 4: batch loss = 48.488037109375, gen_loss=47.88383483886719, latent_loss=0.6042007207870483
+2019-09-12 09:08:02,632 [INFO]: epoch 5: batch loss = 50.12147903442383, gen_loss=49.472137451171875, latent_loss=0.6493407487869263
+2019-09-12 09:08:02,787 [INFO]: epoch 6: batch loss = 48.7910270690918, gen_loss=48.09136962890625, latent_loss=0.6996562480926514
+2019-09-12 09:08:02,933 [INFO]: epoch 7: batch loss = 48.24138641357422, gen_loss=47.5045166015625, latent_loss=0.7368698716163635
+2019-09-12 09:08:03,094 [INFO]: epoch 8: batch loss = 48.68758773803711, gen_loss=47.90917205810547, latent_loss=0.7784162759780884
+2019-09-12 09:08:03,235 [INFO]: epoch 9: batch loss = 49.06705093383789, gen_loss=48.23017883300781, latent_loss=0.8368734121322632
+2019-09-12 09:08:03,385 [INFO]: epoch 10: batch loss = 48.94003677368164, gen_loss=48.131675720214844, latent_loss=0.8083615303039551
+2019-09-12 09:08:03,524 [INFO]: epoch 11: batch loss = 49.048553466796875, gen_loss=48.10237503051758, latent_loss=0.9461784362792969
+2019-09-12 09:08:03,662 [INFO]: epoch 12: batch loss = 48.26946258544922, gen_loss=47.46503829956055, latent_loss=0.8044250011444092
+2019-09-12 09:08:03,800 [INFO]: epoch 13: batch loss = 49.60728073120117, gen_loss=48.777122497558594, latent_loss=0.8301587104797363
+2019-09-12 09:08:03,938 [INFO]: epoch 14: batch loss = 48.23371505737305, gen_loss=47.393775939941406, latent_loss=0.8399387001991272
+2019-09-12 09:08:04,082 [INFO]: epoch 15: batch loss = 48.10298156738281, gen_loss=47.31004333496094, latent_loss=0.7929367423057556
+2019-09-12 09:08:04,239 [INFO]: epoch 16: batch loss = 48.01741027832031, gen_loss=47.19438552856445, latent_loss=0.8230235576629639
+2019-09-12 09:08:04,386 [INFO]: epoch 17: batch loss = 48.9216194152832, gen_loss=48.0692024230957, latent_loss=0.8524185419082642
+2019-09-12 09:08:04,524 [INFO]: epoch 18: batch loss = 48.47651290893555, gen_loss=47.677154541015625, latent_loss=0.7993585467338562
+2019-09-12 09:08:04,662 [INFO]: epoch 19: batch loss = 48.84427261352539, gen_loss=47.985504150390625, latent_loss=0.8587697148323059
+2019-09-12 09:08:04,802 [INFO]: epoch 20: batch loss = 48.47541046142578, gen_loss=47.585227966308594, latent_loss=0.890182614326477
+2019-09-12 09:08:04,942 [INFO]: epoch 21: batch loss = 48.31968688964844, gen_loss=47.482749938964844, latent_loss=0.8369369506835938
+2019-09-12 09:08:05,081 [INFO]: epoch 22: batch loss = 48.95853042602539, gen_loss=48.0643310546875, latent_loss=0.8941981792449951
+2019-09-12 09:08:05,227 [INFO]: epoch 23: batch loss = 48.22238540649414, gen_loss=47.47425079345703, latent_loss=0.7481338977813721
+2019-09-12 09:08:05,372 [INFO]: epoch 24: batch loss = 47.9600715637207, gen_loss=47.0621452331543, latent_loss=0.8979262113571167
+2019-09-12 09:08:05,509 [INFO]: epoch 25: batch loss = 48.460594177246094, gen_loss=47.552093505859375, latent_loss=0.9085010290145874
+2019-09-12 09:08:05,648 [INFO]: epoch 26: batch loss = 48.45162582397461, gen_loss=47.56449890136719, latent_loss=0.887127697467804
+2019-09-12 09:08:05,786 [INFO]: epoch 27: batch loss = 48.645652770996094, gen_loss=47.725318908691406, latent_loss=0.9203336238861084
+2019-09-12 09:08:05,924 [INFO]: epoch 28: batch loss = 48.65858840942383, gen_loss=47.74368667602539, latent_loss=0.9149001240730286
+2019-09-12 09:08:06,064 [INFO]: epoch 29: batch loss = 47.82954406738281, gen_loss=46.945472717285156, latent_loss=0.8840696811676025
+2019-09-12 09:08:06,204 [INFO]: epoch 30: batch loss = 48.19207763671875, gen_loss=47.33531951904297, latent_loss=0.8567594885826111
+2019-09-12 09:08:06,351 [INFO]: epoch 31: batch loss = 48.36527633666992, gen_loss=47.494773864746094, latent_loss=0.8705041408538818
+2019-09-12 09:08:06,490 [INFO]: epoch 32: batch loss = 48.371620178222656, gen_loss=47.485069274902344, latent_loss=0.886549174785614
+2019-09-12 09:08:06,627 [INFO]: epoch 33: batch loss = 48.05379867553711, gen_loss=47.26361083984375, latent_loss=0.7901872396469116
+2019-09-12 09:08:06,765 [INFO]: epoch 34: batch loss = 48.56779098510742, gen_loss=47.62071228027344, latent_loss=0.9470804333686829
+2019-09-12 09:08:06,903 [INFO]: epoch 35: batch loss = 48.15937423706055, gen_loss=47.16670608520508, latent_loss=0.9926669001579285
+2019-09-12 09:08:07,040 [INFO]: epoch 36: batch loss = 48.46574401855469, gen_loss=47.522132873535156, latent_loss=0.9436095952987671
+2019-09-12 09:08:07,178 [INFO]: epoch 37: batch loss = 47.82195281982422, gen_loss=47.02389144897461, latent_loss=0.7980626821517944
+2019-09-12 09:08:07,319 [INFO]: epoch 38: batch loss = 47.70915985107422, gen_loss=46.88356018066406, latent_loss=0.8255980610847473
+2019-09-12 09:08:07,480 [INFO]: epoch 39: batch loss = 48.19329833984375, gen_loss=47.300376892089844, latent_loss=0.8929221630096436
+2019-09-12 09:08:07,616 [INFO]: epoch 40: batch loss = 48.497337341308594, gen_loss=47.65034484863281, latent_loss=0.8469924926757812
+2019-09-12 09:08:07,749 [INFO]: epoch 41: batch loss = 48.30068588256836, gen_loss=47.38572692871094, latent_loss=0.9149589538574219
+2019-09-12 09:08:07,881 [INFO]: epoch 42: batch loss = 47.936309814453125, gen_loss=47.164302825927734, latent_loss=0.7720067501068115
+2019-09-12 09:08:08,014 [INFO]: epoch 43: batch loss = 48.5077018737793, gen_loss=47.646217346191406, latent_loss=0.8614850044250488
+2019-09-12 09:08:08,149 [INFO]: epoch 44: batch loss = 48.38758087158203, gen_loss=47.44561767578125, latent_loss=0.9419651031494141
+2019-09-12 09:08:08,285 [INFO]: epoch 45: batch loss = 48.5155029296875, gen_loss=47.67167663574219, latent_loss=0.8438267707824707
+2019-09-12 09:08:08,432 [INFO]: epoch 46: batch loss = 48.411048889160156, gen_loss=47.47772216796875, latent_loss=0.9333261251449585
+2019-09-12 09:08:08,579 [INFO]: epoch 47: batch loss = 48.012264251708984, gen_loss=47.140926361083984, latent_loss=0.8713366985321045
+2019-09-12 09:08:08,716 [INFO]: epoch 48: batch loss = 48.26864242553711, gen_loss=47.33253479003906, latent_loss=0.9361090660095215
+2019-09-12 09:08:08,850 [INFO]: epoch 49: batch loss = 48.78547286987305, gen_loss=47.93870544433594, latent_loss=0.8467685580253601
+2019-09-12 09:08:18,347 [INFO]: epoch 0: batch loss = 101.7543716430664, gen_loss=98.07711791992188, latent_loss=3.677251100540161, valid_loss=96.08739823561449
+2019-09-12 09:08:26,152 [INFO]: epoch 1: batch loss = 100.50163269042969, gen_loss=96.08171081542969, latent_loss=4.419925689697266, valid_loss=94.96571086003229
+2019-09-12 09:08:34,232 [INFO]: epoch 2: batch loss = 99.57966613769531, gen_loss=94.49528503417969, latent_loss=5.084379196166992, valid_loss=93.932673234206
+2019-09-12 09:08:42,412 [INFO]: epoch 3: batch loss = 96.47676849365234, gen_loss=91.48112487792969, latent_loss=4.995640754699707, valid_loss=93.35405173668494
+2019-09-12 09:08:50,533 [INFO]: epoch 4: batch loss = 99.2544174194336, gen_loss=93.77564239501953, latent_loss=5.478775978088379, valid_loss=93.05091094970703
+2019-09-12 09:08:58,528 [INFO]: epoch 5: batch loss = 102.67286682128906, gen_loss=97.06918334960938, latent_loss=5.603687286376953, valid_loss=92.86805079533505
+2019-09-12 09:09:06,709 [INFO]: epoch 6: batch loss = 95.37568664550781, gen_loss=89.7446517944336, latent_loss=5.631031036376953, valid_loss=92.81177374032828
+2019-09-12 09:09:14,975 [INFO]: epoch 7: batch loss = 97.99330139160156, gen_loss=92.10803985595703, latent_loss=5.885257720947266, valid_loss=92.151062305157
+2019-09-12 09:09:23,069 [INFO]: epoch 8: batch loss = 95.25031280517578, gen_loss=89.2208251953125, latent_loss=6.029487609863281, valid_loss=92.04204412607048
+2019-09-12 09:09:31,613 [INFO]: epoch 9: batch loss = 98.82014465332031, gen_loss=92.76513671875, latent_loss=6.055005073547363, valid_loss=91.75138004009538
+2019-09-12 09:09:40,377 [INFO]: epoch 10: batch loss = 100.1077651977539, gen_loss=93.83601379394531, latent_loss=6.271751880645752, valid_loss=91.6271526630108
+2019-09-12 09:09:48,611 [INFO]: epoch 11: batch loss = 97.06005096435547, gen_loss=90.97003936767578, latent_loss=6.090012073516846, valid_loss=91.47242120596079
+2019-09-12 09:09:56,527 [INFO]: epoch 12: batch loss = 97.85260009765625, gen_loss=91.66860961914062, latent_loss=6.183993816375732, valid_loss=91.39724349975586
+2019-09-12 09:10:05,026 [INFO]: epoch 13: batch loss = 98.18574523925781, gen_loss=91.33699035644531, latent_loss=6.8487548828125, valid_loss=91.05824719942534
+2019-09-12 09:10:13,791 [INFO]: epoch 14: batch loss = 96.18841552734375, gen_loss=89.63724517822266, latent_loss=6.55117130279541, valid_loss=90.90928004338193
+2019-09-12 09:10:23,261 [INFO]: epoch 15: batch loss = 95.70675659179688, gen_loss=88.85002899169922, latent_loss=6.856725692749023, valid_loss=90.66581755418045
+2019-09-12 09:10:32,812 [INFO]: epoch 16: batch loss = 95.15547180175781, gen_loss=88.20936584472656, latent_loss=6.946102142333984, valid_loss=90.96113733144908
+2019-09-12 09:10:42,304 [INFO]: epoch 17: batch loss = 94.57896423339844, gen_loss=87.73208618164062, latent_loss=6.846879005432129, valid_loss=90.8188993013822
+2019-09-12 09:10:51,217 [INFO]: epoch 18: batch loss = 96.35521697998047, gen_loss=89.51571655273438, latent_loss=6.839500427246094, valid_loss=90.74301646305962
+2019-09-12 09:11:00,466 [INFO]: epoch 19: batch loss = 93.67552185058594, gen_loss=87.0035400390625, latent_loss=6.671982765197754, valid_loss=90.688719529372
+2019-09-12 09:11:08,925 [INFO]: epoch 20: batch loss = 99.40646362304688, gen_loss=91.912353515625, latent_loss=7.494108200073242, valid_loss=90.4843840965858
+2019-09-12 09:11:16,942 [INFO]: epoch 21: batch loss = 92.71470642089844, gen_loss=85.52679443359375, latent_loss=7.187911033630371, valid_loss=90.36111156757063
+2019-09-12 09:11:24,990 [INFO]: epoch 22: batch loss = 93.85429382324219, gen_loss=86.78338623046875, latent_loss=7.070908546447754, valid_loss=90.56356253990761
+2019-09-12 09:11:33,304 [INFO]: epoch 23: batch loss = 90.8100357055664, gen_loss=83.71871948242188, latent_loss=7.091312885284424, valid_loss=90.47991591233475
+2019-09-12 09:11:41,439 [INFO]: epoch 24: batch loss = 96.32837677001953, gen_loss=88.6249008178711, latent_loss=7.703478813171387, valid_loss=90.46292789165787
+2019-09-12 09:11:49,653 [INFO]: epoch 25: batch loss = 94.1246337890625, gen_loss=86.54729461669922, latent_loss=7.577340126037598, valid_loss=90.51061982374925
+2019-09-12 09:11:57,956 [INFO]: epoch 26: batch loss = 95.1511001586914, gen_loss=87.14128112792969, latent_loss=8.009818077087402, valid_loss=90.3465502812312
+2019-09-12 09:12:06,162 [INFO]: epoch 27: batch loss = 93.3404769897461, gen_loss=85.55506896972656, latent_loss=7.78540563583374, valid_loss=90.25948744553784
+2019-09-12 09:12:13,959 [INFO]: epoch 28: batch loss = 91.85324096679688, gen_loss=84.43695068359375, latent_loss=7.416286468505859, valid_loss=90.37599006065956
+2019-09-12 09:12:21,744 [INFO]: epoch 29: batch loss = 89.05284118652344, gen_loss=81.61412048339844, latent_loss=7.438723087310791, valid_loss=90.29066878098709
+2019-09-12 09:12:29,468 [INFO]: epoch 30: batch loss = 95.30452728271484, gen_loss=87.38980865478516, latent_loss=7.914721488952637, valid_loss=90.32762468778172
+2019-09-12 09:12:37,262 [INFO]: epoch 31: batch loss = 94.02124786376953, gen_loss=85.76594543457031, latent_loss=8.255302429199219, valid_loss=89.98708666287935
+2019-09-12 09:12:45,169 [INFO]: epoch 32: batch loss = 90.5815658569336, gen_loss=82.66796875, latent_loss=7.913600444793701, valid_loss=90.16621486957257
+2019-09-12 09:12:53,311 [INFO]: epoch 33: batch loss = 87.97300720214844, gen_loss=79.96802520751953, latent_loss=8.00497817993164, valid_loss=89.98574183537411
+2019-09-12 09:13:01,190 [INFO]: epoch 34: batch loss = 97.7192611694336, gen_loss=89.05087280273438, latent_loss=8.668391227722168, valid_loss=90.16771081777719
+2019-09-12 09:13:08,884 [INFO]: epoch 35: batch loss = 89.24987030029297, gen_loss=80.8393783569336, latent_loss=8.410489082336426, valid_loss=90.1713482783391
+2019-09-12 09:13:16,546 [INFO]: epoch 36: batch loss = 89.3109359741211, gen_loss=81.13385009765625, latent_loss=8.177083969116211, valid_loss=90.12939423781175
+2019-09-12 09:13:24,572 [INFO]: epoch 37: batch loss = 90.69293975830078, gen_loss=82.27281951904297, latent_loss=8.420122146606445, valid_loss=90.10634789100061
+2019-09-12 09:13:32,638 [INFO]: epoch 38: batch loss = 90.68313598632812, gen_loss=82.57366943359375, latent_loss=8.109463691711426, valid_loss=90.23401201688326
+2019-09-12 09:13:41,062 [INFO]: epoch 39: batch loss = 85.72203826904297, gen_loss=77.62275695800781, latent_loss=8.099281311035156, valid_loss=90.35913467407225
+2019-09-12 09:13:49,499 [INFO]: epoch 40: batch loss = 94.67129516601562, gen_loss=85.89656066894531, latent_loss=8.774738311767578, valid_loss=90.24458195612982
+2019-09-12 09:13:57,761 [INFO]: epoch 41: batch loss = 89.1996078491211, gen_loss=80.92085266113281, latent_loss=8.278753280639648, valid_loss=90.09001365074747
+2019-09-12 09:14:06,021 [INFO]: epoch 42: batch loss = 88.16478729248047, gen_loss=79.58910369873047, latent_loss=8.575681686401367, valid_loss=90.1968994140625
+2019-09-12 09:14:14,198 [INFO]: epoch 43: batch loss = 90.61764526367188, gen_loss=81.896240234375, latent_loss=8.721403121948242, valid_loss=90.14960274329552
+2019-09-12 09:14:22,539 [INFO]: epoch 44: batch loss = 90.519287109375, gen_loss=81.90538024902344, latent_loss=8.61390495300293, valid_loss=90.16826482919546
+2019-09-12 09:14:30,395 [INFO]: epoch 45: batch loss = 90.96453094482422, gen_loss=82.05638885498047, latent_loss=8.90814208984375, valid_loss=90.31975350013145
+2019-09-12 09:14:38,649 [INFO]: epoch 46: batch loss = 90.89398956298828, gen_loss=82.03974914550781, latent_loss=8.854238510131836, valid_loss=90.12038744412938
+2019-09-12 09:14:46,408 [INFO]: epoch 47: batch loss = 89.42467498779297, gen_loss=80.61671447753906, latent_loss=8.807961463928223, valid_loss=90.6596805865948
+2019-09-12 09:14:54,689 [INFO]: epoch 48: batch loss = 88.93405151367188, gen_loss=80.41004943847656, latent_loss=8.524003028869629, valid_loss=90.41272735595702
+2019-09-12 09:15:03,375 [INFO]: epoch 49: batch loss = 88.61518859863281, gen_loss=80.0623550415039, latent_loss=8.552837371826172, valid_loss=90.20094123253456
+2019-09-12 09:15:11,746 [INFO]: epoch 50: batch loss = 91.06623840332031, gen_loss=81.56686401367188, latent_loss=9.499372482299805, valid_loss=90.24340321467474
+2019-09-12 09:15:20,105 [INFO]: epoch 51: batch loss = 92.16060638427734, gen_loss=82.3059310913086, latent_loss=9.8546724319458, valid_loss=90.28130311232349
+2019-09-12 09:15:28,515 [INFO]: epoch 52: batch loss = 90.46720123291016, gen_loss=81.2744140625, latent_loss=9.192787170410156, valid_loss=90.50980142446663
+2019-09-12 09:15:36,605 [INFO]: epoch 53: batch loss = 90.42266845703125, gen_loss=81.22466278076172, latent_loss=9.198005676269531, valid_loss=90.25387690617487
+2019-09-12 09:15:44,898 [INFO]: epoch 54: batch loss = 86.73920440673828, gen_loss=77.76629638671875, latent_loss=8.972906112670898, valid_loss=90.35952171912561
+2019-09-12 09:15:52,933 [INFO]: epoch 55: batch loss = 93.536865234375, gen_loss=84.10327911376953, latent_loss=9.433588981628418, valid_loss=90.38394165039062
+2019-09-12 09:16:01,187 [INFO]: epoch 56: batch loss = 88.05381774902344, gen_loss=78.34197235107422, latent_loss=9.711844444274902, valid_loss=90.72776236900917
+2019-09-12 09:16:09,016 [INFO]: epoch 57: batch loss = 90.89213562011719, gen_loss=81.38777160644531, latent_loss=9.504366874694824, valid_loss=90.49140225923978
+2019-09-12 09:16:16,840 [INFO]: epoch 58: batch loss = 90.4470443725586, gen_loss=80.93360137939453, latent_loss=9.513444900512695, valid_loss=90.48211904672476
+2019-09-12 09:16:24,956 [INFO]: epoch 59: batch loss = 87.65480041503906, gen_loss=78.63601684570312, latent_loss=9.018779754638672, valid_loss=90.51145876370944
+2019-09-12 09:16:32,897 [INFO]: epoch 60: batch loss = 90.03047180175781, gen_loss=80.56100463867188, latent_loss=9.469470024108887, valid_loss=90.55918649526743
+2019-09-12 09:16:41,151 [INFO]: epoch 61: batch loss = 88.42291259765625, gen_loss=78.52848052978516, latent_loss=9.894428253173828, valid_loss=90.67513979398286
+2019-09-12 09:16:49,333 [INFO]: epoch 62: batch loss = 93.90867614746094, gen_loss=84.11309051513672, latent_loss=9.795583724975586, valid_loss=90.52718705397385
+2019-09-12 09:16:57,213 [INFO]: epoch 63: batch loss = 86.12351989746094, gen_loss=76.67036437988281, latent_loss=9.453155517578125, valid_loss=90.54989712054913
+2019-09-12 09:17:05,389 [INFO]: epoch 64: batch loss = 87.81752014160156, gen_loss=77.52629089355469, latent_loss=10.291227340698242, valid_loss=90.5006772554838
+2019-09-12 09:17:13,564 [INFO]: epoch 65: batch loss = 83.11023712158203, gen_loss=73.58161926269531, latent_loss=9.528618812561035, valid_loss=90.8698616027832
+2019-09-12 09:17:22,194 [INFO]: epoch 66: batch loss = 87.27747344970703, gen_loss=77.71985626220703, latent_loss=9.557619094848633, valid_loss=90.46529300396259
+2019-09-12 09:17:30,975 [INFO]: epoch 67: batch loss = 84.26422882080078, gen_loss=75.48127746582031, latent_loss=8.782949447631836, valid_loss=90.96782537607046
+2019-09-12 09:17:39,410 [INFO]: epoch 68: batch loss = 88.64173889160156, gen_loss=79.4913330078125, latent_loss=9.150406837463379, valid_loss=91.0228476891151
+2019-09-12 09:17:48,463 [INFO]: epoch 69: batch loss = 86.65294647216797, gen_loss=77.11336517333984, latent_loss=9.539581298828125, valid_loss=91.000001173753
+2019-09-12 09:17:57,161 [INFO]: epoch 70: batch loss = 86.39042663574219, gen_loss=76.58524322509766, latent_loss=9.805183410644531, valid_loss=91.00069134051985
+2019-09-12 09:18:06,090 [INFO]: epoch 71: batch loss = 86.08798217773438, gen_loss=76.05471801757812, latent_loss=10.0332612991333, valid_loss=90.72293208195616
+2019-09-12 09:18:14,518 [INFO]: epoch 72: batch loss = 89.95575714111328, gen_loss=80.17195129394531, latent_loss=9.783808708190918, valid_loss=91.1515139066256
+2019-09-12 09:18:23,323 [INFO]: epoch 73: batch loss = 89.00338745117188, gen_loss=78.714111328125, latent_loss=10.289276123046875, valid_loss=90.78927582960863
+2019-09-12 09:18:31,654 [INFO]: epoch 74: batch loss = 87.0771713256836, gen_loss=77.36758422851562, latent_loss=9.709586143493652, valid_loss=91.00003667978142
+2019-09-12 09:18:39,359 [INFO]: epoch 75: batch loss = 88.58394622802734, gen_loss=78.39057922363281, latent_loss=10.193368911743164, valid_loss=90.57672940767729
+2019-09-12 09:18:47,206 [INFO]: epoch 76: batch loss = 87.27252197265625, gen_loss=77.50544738769531, latent_loss=9.767074584960938, valid_loss=90.95284770085262
+2019-09-12 09:18:54,889 [INFO]: epoch 77: batch loss = 89.29690551757812, gen_loss=78.80177307128906, latent_loss=10.495136260986328, valid_loss=90.84088105421799
+2019-09-12 09:19:02,556 [INFO]: epoch 78: batch loss = 89.57044982910156, gen_loss=79.89042663574219, latent_loss=9.680020332336426, valid_loss=90.91948025043196
+2019-09-12 09:19:10,605 [INFO]: epoch 79: batch loss = 87.03016662597656, gen_loss=77.00663757324219, latent_loss=10.02352523803711, valid_loss=90.8247803908128
+2019-09-12 09:19:18,456 [INFO]: epoch 80: batch loss = 87.44111633300781, gen_loss=77.33576965332031, latent_loss=10.105350494384766, valid_loss=90.82879198514497
+2019-09-12 09:19:26,295 [INFO]: epoch 81: batch loss = 87.99214935302734, gen_loss=77.98310852050781, latent_loss=10.009038925170898, valid_loss=90.96636199951172
+2019-09-12 09:19:34,909 [INFO]: epoch 82: batch loss = 87.67705535888672, gen_loss=77.76136016845703, latent_loss=9.915693283081055, valid_loss=91.15791819645808
+2019-09-12 09:19:43,188 [INFO]: epoch 83: batch loss = 88.29693603515625, gen_loss=78.48526000976562, latent_loss=9.811676979064941, valid_loss=90.89157867431636
+2019-09-12 09:19:52,304 [INFO]: epoch 84: batch loss = 87.73751831054688, gen_loss=76.97573852539062, latent_loss=10.76177978515625, valid_loss=91.11513372567985
+2019-09-12 09:20:00,444 [INFO]: epoch 85: batch loss = 89.65995788574219, gen_loss=79.23716735839844, latent_loss=10.422794342041016, valid_loss=91.11117905836838
+2019-09-12 09:20:08,561 [INFO]: epoch 86: batch loss = 86.024658203125, gen_loss=75.84056091308594, latent_loss=10.184101104736328, valid_loss=91.0130820641151
+2019-09-12 09:20:16,673 [INFO]: epoch 87: batch loss = 85.8538818359375, gen_loss=75.89810180664062, latent_loss=9.955780982971191, valid_loss=91.42043979351337
+2019-09-12 09:20:24,602 [INFO]: epoch 88: batch loss = 88.90312194824219, gen_loss=78.35572052001953, latent_loss=10.547399520874023, valid_loss=91.08484473595253
+2019-09-12 09:20:32,767 [INFO]: epoch 89: batch loss = 88.76343536376953, gen_loss=78.0875244140625, latent_loss=10.675910949707031, valid_loss=91.15109370304987
+2019-09-12 09:20:40,933 [INFO]: epoch 90: batch loss = 85.11433410644531, gen_loss=74.84622955322266, latent_loss=10.26810073852539, valid_loss=91.14417501596303
+2019-09-12 09:20:49,836 [INFO]: epoch 91: batch loss = 87.86723327636719, gen_loss=77.42108917236328, latent_loss=10.446145057678223, valid_loss=91.25001379159781
+2019-09-12 09:20:57,574 [INFO]: epoch 92: batch loss = 86.70661163330078, gen_loss=76.54754638671875, latent_loss=10.159067153930664, valid_loss=91.4104009775015
+2019-09-12 09:21:05,842 [INFO]: epoch 93: batch loss = 89.4088363647461, gen_loss=79.05232238769531, latent_loss=10.356511116027832, valid_loss=91.40750092726486
+2019-09-12 09:21:13,732 [INFO]: epoch 94: batch loss = 85.44275665283203, gen_loss=75.01748657226562, latent_loss=10.425268173217773, valid_loss=91.26254301804762
+2019-09-12 09:21:22,072 [INFO]: epoch 95: batch loss = 87.44596099853516, gen_loss=76.6151123046875, latent_loss=10.83084774017334, valid_loss=91.24319281944862
+2019-09-12 09:21:30,033 [INFO]: epoch 96: batch loss = 87.7347412109375, gen_loss=77.53349304199219, latent_loss=10.201248168945312, valid_loss=91.2310658968412
+2019-09-12 09:21:38,401 [INFO]: epoch 97: batch loss = 87.23701477050781, gen_loss=76.83972930908203, latent_loss=10.397281646728516, valid_loss=91.24095535278322
+2019-09-12 09:21:46,473 [INFO]: epoch 98: batch loss = 87.16352081298828, gen_loss=77.06915283203125, latent_loss=10.094369888305664, valid_loss=91.26136104877178
+2019-09-12 09:21:54,363 [INFO]: epoch 99: batch loss = 87.18507385253906, gen_loss=76.87882232666016, latent_loss=10.30624771118164, valid_loss=91.5434708228478
+2019-09-12 09:21:55,050 [INFO]: Weights saved at model/pretrain
+2019-09-12 14:37:36,267 [INFO]: loading data
+2019-09-12 14:37:43,014 [INFO]: initializing sdae model
+2019-09-12 14:37:43,014 [INFO]: fitting data starts...
+2019-09-12 14:37:43,014 [INFO]: Layer 1
+2019-09-12 14:37:44,707 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-12 14:37:44,807 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-12 14:43:15,561 [INFO]: loading data
+2019-09-12 14:43:21,937 [INFO]: initializing sdae model
+2019-09-12 14:43:21,938 [INFO]: fitting data starts...
+2019-09-12 14:43:21,938 [INFO]: Layer 1
+2019-09-12 14:43:21,947 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-12 14:43:21,972 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-12 20:24:34,905 [INFO]: loading data
+2019-09-12 20:24:43,277 [INFO]: initializing sdae model
+2019-09-12 20:24:43,307 [INFO]: fitting data starts...
+2019-09-12 20:24:43,307 [INFO]: Layer 1
+2019-09-12 20:24:44,363 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-12 20:28:24,346 [INFO]: loading data
+2019-09-12 20:28:31,073 [INFO]: initializing sdae model
+2019-09-12 20:28:31,149 [INFO]: fitting data starts...
+2019-09-12 20:28:31,197 [INFO]: Layer 1
+2019-09-12 20:28:32,347 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-12 20:28:32,453 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-12 20:28:45,771 [INFO]: epoch 0: batch loss = 205.3903350830078
+2019-09-12 20:31:14,862 [INFO]: loading data
+2019-09-12 20:31:21,444 [INFO]: initializing sdae model
+2019-09-12 20:31:21,444 [INFO]: fitting data starts...
+2019-09-12 20:31:21,444 [INFO]: Layer 1
+2019-09-12 20:31:21,507 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-12 20:31:21,534 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-12 20:32:46,995 [INFO]: loading data
+2019-09-12 20:32:53,425 [INFO]: initializing sdae model
+2019-09-12 20:32:53,425 [INFO]: fitting data starts...
+2019-09-12 20:32:53,425 [INFO]: Layer 1
+2019-09-12 20:32:53,436 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-12 20:32:53,461 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-12 20:33:05,190 [INFO]: epoch 0: batch loss = 205.3993377685547
+2019-09-12 20:33:16,587 [INFO]: epoch 1: batch loss = 129.63194274902344
+2019-09-14 15:07:33,092 [INFO]: loading data
+2019-09-14 15:08:12,499 [INFO]: loading data
+2019-09-14 15:08:55,233 [INFO]: loading data
+2019-09-14 15:09:01,845 [INFO]: initializing sdae model
+2019-09-14 15:09:01,846 [INFO]: fitting data starts...
+2019-09-14 15:09:01,846 [INFO]: Layer 1
+2019-09-14 15:09:02,079 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-14 15:09:02,160 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-14 15:26:37,613 [INFO]: loading data
+2019-09-14 15:26:44,400 [INFO]: initializing sdae model
+2019-09-14 15:26:44,401 [INFO]: fitting data starts...
+2019-09-14 15:26:44,401 [INFO]: Layer 1
+2019-09-14 15:26:44,412 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-14 15:26:44,437 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-14 15:26:56,286 [INFO]: epoch 0: batch loss = 205.3927001953125
+2019-09-14 15:27:07,585 [INFO]: epoch 1: batch loss = 129.65223693847656
+2019-09-14 15:27:18,749 [INFO]: epoch 2: batch loss = 118.84642028808594
+2019-09-14 15:27:29,983 [INFO]: epoch 3: batch loss = 119.36639404296875
+2019-09-14 15:27:41,108 [INFO]: epoch 4: batch loss = 106.8412094116211
+2019-09-14 15:28:06,189 [INFO]: loading data
+2019-09-14 15:28:12,779 [INFO]: initializing sdae model
+2019-09-14 15:28:12,779 [INFO]: fitting data starts...
+2019-09-14 15:28:12,780 [INFO]: Layer 1
+2019-09-14 15:28:12,791 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-09-14 15:28:12,817 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-09-14 15:28:24,343 [INFO]: epoch 0: batch loss = 205.472900390625
+2019-09-14 15:28:35,739 [INFO]: epoch 1: batch loss = 129.6428985595703
+2019-09-14 15:28:46,677 [INFO]: epoch 2: batch loss = 118.70355224609375
+2019-09-14 15:28:57,574 [INFO]: epoch 3: batch loss = 119.30194091796875
+2019-09-14 15:29:08,494 [INFO]: epoch 4: batch loss = 106.79131317138672
+2019-09-14 15:29:19,447 [INFO]: epoch 5: batch loss = 101.89036560058594
+2019-09-14 15:29:30,421 [INFO]: epoch 6: batch loss = 105.95988464355469
+2019-09-14 15:29:41,349 [INFO]: epoch 7: batch loss = 105.27075958251953
+2019-09-14 15:29:52,284 [INFO]: epoch 8: batch loss = 97.16728210449219
+2019-09-14 15:30:03,309 [INFO]: epoch 9: batch loss = 88.50806427001953
+2019-09-14 15:30:14,279 [INFO]: epoch 10: batch loss = 86.811279296875
+2019-09-14 15:30:25,221 [INFO]: epoch 11: batch loss = 90.75370788574219
+2019-09-14 15:30:36,140 [INFO]: epoch 12: batch loss = 81.86373138427734
+2019-09-14 15:30:47,144 [INFO]: epoch 13: batch loss = 84.31568908691406
+2019-09-14 15:30:58,072 [INFO]: epoch 14: batch loss = 86.96340942382812
+2019-09-14 15:31:08,993 [INFO]: epoch 15: batch loss = 81.77998352050781
+2019-09-14 15:31:20,143 [INFO]: epoch 16: batch loss = 80.65507507324219
+2019-09-14 15:31:31,124 [INFO]: epoch 17: batch loss = 81.4527587890625
+2019-09-14 15:31:42,190 [INFO]: epoch 18: batch loss = 74.44994354248047
+2019-09-14 15:31:53,123 [INFO]: epoch 19: batch loss = 74.79620361328125
+2019-09-14 15:32:04,151 [INFO]: epoch 20: batch loss = 77.188720703125
+2019-09-14 15:32:15,118 [INFO]: epoch 21: batch loss = 70.01091003417969
+2019-09-14 15:32:26,098 [INFO]: epoch 22: batch loss = 72.45936584472656
+2019-09-14 15:32:37,148 [INFO]: epoch 23: batch loss = 74.86158752441406
+2019-09-14 15:32:48,137 [INFO]: epoch 24: batch loss = 71.9240493774414
+2019-09-14 15:32:59,085 [INFO]: epoch 25: batch loss = 69.73056030273438
+2019-09-14 15:33:10,007 [INFO]: epoch 26: batch loss = 68.27894592285156
+2019-09-14 15:33:21,044 [INFO]: epoch 27: batch loss = 68.40306091308594
+2019-09-14 15:33:32,189 [INFO]: epoch 28: batch loss = 67.85884857177734
+2019-09-14 15:33:43,252 [INFO]: epoch 29: batch loss = 65.5795669555664
+2019-09-14 15:33:54,259 [INFO]: epoch 30: batch loss = 63.07975769042969
+2019-09-14 15:34:05,297 [INFO]: epoch 31: batch loss = 61.73085403442383
+2019-09-14 15:34:16,277 [INFO]: epoch 32: batch loss = 65.35087585449219
+2019-09-14 15:34:27,225 [INFO]: epoch 33: batch loss = 61.37281036376953
+2019-09-14 15:34:38,270 [INFO]: epoch 34: batch loss = 61.363868713378906
+2019-09-14 15:34:49,278 [INFO]: epoch 35: batch loss = 60.14167022705078
+2019-09-14 15:35:00,272 [INFO]: epoch 36: batch loss = 59.9174690246582
+2019-09-14 15:35:11,336 [INFO]: epoch 37: batch loss = 63.438751220703125
+2019-09-14 15:35:22,336 [INFO]: epoch 38: batch loss = 62.494972229003906
+2019-09-14 15:35:33,387 [INFO]: epoch 39: batch loss = 61.28023147583008
+2019-09-14 15:35:44,342 [INFO]: epoch 40: batch loss = 58.035850524902344
+2019-09-14 15:35:55,356 [INFO]: epoch 41: batch loss = 59.454368591308594
+2019-09-14 15:36:06,320 [INFO]: epoch 42: batch loss = 57.38398361206055
+2019-09-14 15:36:17,316 [INFO]: epoch 43: batch loss = 60.56570053100586
+2019-09-14 15:36:28,314 [INFO]: epoch 44: batch loss = 55.144500732421875
+2019-09-14 15:36:39,291 [INFO]: epoch 45: batch loss = 54.592254638671875
+2019-09-14 15:36:50,368 [INFO]: epoch 46: batch loss = 55.57410430908203
+2019-09-14 15:37:01,492 [INFO]: epoch 47: batch loss = 55.0743408203125
+2019-09-14 15:37:12,522 [INFO]: epoch 48: batch loss = 56.62615203857422
+2019-09-14 15:37:23,542 [INFO]: epoch 49: batch loss = 54.760189056396484
+2019-09-14 15:37:24,216 [INFO]: Layer 2
+2019-09-14 15:37:25,377 [INFO]: epoch 0: batch loss = 117.01963806152344
+2019-09-14 15:37:26,347 [INFO]: epoch 1: batch loss = 111.54539489746094
+2019-09-14 15:37:27,325 [INFO]: epoch 2: batch loss = 110.81521606445312
+2019-09-14 15:37:28,298 [INFO]: epoch 3: batch loss = 110.02550506591797
+2019-09-14 15:37:29,301 [INFO]: epoch 4: batch loss = 110.65597534179688
+2019-09-14 15:37:30,275 [INFO]: epoch 5: batch loss = 109.20866394042969
+2019-09-14 15:37:31,260 [INFO]: epoch 6: batch loss = 110.36631774902344
+2019-09-14 15:37:32,243 [INFO]: epoch 7: batch loss = 110.80060577392578
+2019-09-14 15:37:33,217 [INFO]: epoch 8: batch loss = 110.94691467285156
+2019-09-14 15:37:34,187 [INFO]: epoch 9: batch loss = 110.0870361328125
+2019-09-14 15:37:35,199 [INFO]: epoch 10: batch loss = 111.5884017944336
+2019-09-14 15:37:36,165 [INFO]: epoch 11: batch loss = 111.15003967285156
+2019-09-14 15:37:37,140 [INFO]: epoch 12: batch loss = 111.6749267578125
+2019-09-14 15:37:38,118 [INFO]: epoch 13: batch loss = 111.52122497558594
+2019-09-14 15:37:39,098 [INFO]: epoch 14: batch loss = 113.58697509765625
+2019-09-14 15:37:40,077 [INFO]: epoch 15: batch loss = 111.86650085449219
+2019-09-14 15:37:41,062 [INFO]: epoch 16: batch loss = 112.71597290039062
+2019-09-14 15:37:42,065 [INFO]: epoch 17: batch loss = 112.54652404785156
+2019-09-14 15:37:43,040 [INFO]: epoch 18: batch loss = 112.69176483154297
+2019-09-14 15:37:44,017 [INFO]: epoch 19: batch loss = 112.57919311523438
+2019-09-14 15:37:44,999 [INFO]: epoch 20: batch loss = 112.24481201171875
+2019-09-14 15:37:45,993 [INFO]: epoch 21: batch loss = 113.9434814453125
+2019-09-14 15:37:46,968 [INFO]: epoch 22: batch loss = 112.7719497680664
+2019-09-14 15:37:47,947 [INFO]: epoch 23: batch loss = 113.22500610351562
+2019-09-14 15:37:48,951 [INFO]: epoch 24: batch loss = 113.71139526367188
+2019-09-14 15:37:49,918 [INFO]: epoch 25: batch loss = 113.55496215820312
+2019-09-14 15:37:50,895 [INFO]: epoch 26: batch loss = 113.03031921386719
+2019-09-14 15:37:51,872 [INFO]: epoch 27: batch loss = 113.63383483886719
+2019-09-14 15:37:52,850 [INFO]: epoch 28: batch loss = 113.19963073730469
+2019-09-14 15:37:53,822 [INFO]: epoch 29: batch loss = 113.40338897705078
+2019-09-14 15:37:54,824 [INFO]: epoch 30: batch loss = 113.99653625488281
+2019-09-14 15:37:55,804 [INFO]: epoch 31: batch loss = 115.23757934570312
+2019-09-14 15:37:56,787 [INFO]: epoch 32: batch loss = 115.609375
+2019-09-14 15:37:57,768 [INFO]: epoch 33: batch loss = 113.77867889404297
+2019-09-14 15:37:58,817 [INFO]: epoch 34: batch loss = 114.03487396240234
+2019-09-14 15:37:59,794 [INFO]: epoch 35: batch loss = 115.23745727539062
+2019-09-14 15:38:00,781 [INFO]: epoch 36: batch loss = 113.37139892578125
+2019-09-14 15:38:01,789 [INFO]: epoch 37: batch loss = 114.11150360107422
+2019-09-14 15:38:02,759 [INFO]: epoch 38: batch loss = 114.22573852539062
+2019-09-14 15:38:03,755 [INFO]: epoch 39: batch loss = 113.5281753540039
+2019-09-14 15:38:04,745 [INFO]: epoch 40: batch loss = 116.09213256835938
+2019-09-14 15:38:05,726 [INFO]: epoch 41: batch loss = 114.70573425292969
+2019-09-14 15:38:06,703 [INFO]: epoch 42: batch loss = 113.73234558105469
+2019-09-14 15:38:07,701 [INFO]: epoch 43: batch loss = 114.29647827148438
+2019-09-14 15:38:08,682 [INFO]: epoch 44: batch loss = 113.44535827636719
+2019-09-14 15:38:09,662 [INFO]: epoch 45: batch loss = 114.826171875
+2019-09-14 15:38:10,641 [INFO]: epoch 46: batch loss = 113.87862396240234
+2019-09-14 15:38:11,614 [INFO]: epoch 47: batch loss = 113.22442626953125
+2019-09-14 15:38:12,584 [INFO]: epoch 48: batch loss = 113.12416076660156
+2019-09-14 15:38:13,554 [INFO]: epoch 49: batch loss = 112.89212036132812
+2019-09-14 15:38:19,354 [INFO]: epoch 0: batch loss = 52.550655364990234, gen_loss=49.78814697265625, latent_loss=2.762507438659668
+2019-09-14 15:38:19,516 [INFO]: epoch 1: batch loss = 50.71760940551758, gen_loss=49.54848098754883, latent_loss=1.1691293716430664
+2019-09-14 15:38:19,685 [INFO]: epoch 2: batch loss = 49.702247619628906, gen_loss=49.22610855102539, latent_loss=0.4761374592781067
+2019-09-14 15:38:19,844 [INFO]: epoch 3: batch loss = 49.93788146972656, gen_loss=49.325042724609375, latent_loss=0.6128382086753845
+2019-09-14 15:38:20,004 [INFO]: epoch 4: batch loss = 49.642086029052734, gen_loss=48.978973388671875, latent_loss=0.6631121039390564
+2019-10-04 18:07:00,467 [INFO]: loading data
+2019-10-04 18:28:15,681 [INFO]: loading data
+2019-10-04 18:37:41,397 [INFO]: loading data
+2019-10-05 09:04:04,205 [INFO]: loading data
+2019-10-05 09:04:10,640 [INFO]: initializing sdae model
+2019-10-05 09:04:10,640 [INFO]: fitting data starts...
+2019-10-05 09:04:10,640 [INFO]: Layer 1
+2019-10-05 09:04:10,882 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-05 09:04:10,919 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-05 10:07:39,426 [INFO]: loading data
+2019-10-05 10:08:13,874 [INFO]: loading data
+2019-10-05 10:25:24,695 [INFO]: loading data
+2019-10-05 10:28:55,770 [INFO]: loading data
+2019-10-05 10:29:27,093 [INFO]: initializing sdae model
+2019-10-05 10:29:27,093 [INFO]: fitting data starts...
+2019-10-05 10:29:27,093 [INFO]: Layer 1
+2019-10-05 10:31:38,746 [INFO]: loading data
+2019-10-05 10:32:09,071 [INFO]: initializing sdae model
+2019-10-05 10:32:09,071 [INFO]: fitting data starts...
+2019-10-05 10:32:09,072 [INFO]: Layer 1
+2019-10-05 10:32:21,044 [INFO]: loading data
+2019-10-05 10:32:34,787 [INFO]: loading data
+2019-10-05 10:32:39,219 [INFO]: loading data
+2019-10-05 10:34:01,657 [INFO]: loading data
+2019-10-05 10:34:32,410 [INFO]: initializing sdae model
+2019-10-05 10:34:32,410 [INFO]: fitting data starts...
+2019-10-05 10:34:32,410 [INFO]: Layer 1
+2019-10-05 10:42:21,017 [INFO]: loading data
+2019-10-05 10:42:52,424 [INFO]: initializing sdae model
+2019-10-05 10:42:52,425 [INFO]: fitting data starts...
+2019-10-05 10:42:52,425 [INFO]: Layer 1
+2019-10-05 10:42:52,445 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-05 10:42:52,480 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-05 10:53:08,273 [INFO]: loading data
+2019-10-05 10:53:39,318 [INFO]: initializing sdae model
+2019-10-05 10:53:39,318 [INFO]: fitting data starts...
+2019-10-05 10:53:39,318 [INFO]: Layer 1
+2019-10-05 10:53:39,337 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-05 10:53:39,372 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-05 10:58:53,855 [INFO]: loading data
+2019-10-05 10:59:25,417 [INFO]: initializing sdae model
+2019-10-05 10:59:25,417 [INFO]: fitting data starts...
+2019-10-05 10:59:25,417 [INFO]: Layer 1
+2019-10-05 10:59:25,436 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-05 10:59:25,471 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-05 12:11:04,135 [INFO]: epoch 0: batch loss = 40.01341247558594
+2019-10-05 13:30:42,739 [INFO]: epoch 1: batch loss = 37.153160095214844
+2019-10-05 14:43:42,319 [INFO]: epoch 2: batch loss = 29.51275634765625
+2019-10-05 17:55:37,719 [INFO]: loading data
+2019-10-05 17:56:08,052 [INFO]: initializing sdae model
+2019-10-05 17:56:08,052 [INFO]: fitting data starts...
+2019-10-05 17:56:08,052 [INFO]: Layer 1
+2019-10-05 17:56:08,072 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-05 17:56:08,098 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-05 17:57:06,231 [INFO]: loading data
+2019-10-05 17:57:35,736 [INFO]: initializing sdae model
+2019-10-05 17:57:35,737 [INFO]: fitting data starts...
+2019-10-05 17:57:35,737 [INFO]: Layer 1
+2019-10-05 17:57:35,757 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-05 17:57:35,783 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-05 18:02:15,116 [INFO]: epoch 0: batch loss = 32.77507781982422
+2019-10-05 18:06:52,076 [INFO]: epoch 1: batch loss = 29.94017791748047
+2019-10-05 18:11:32,295 [INFO]: epoch 2: batch loss = 22.56092643737793
+2019-10-05 18:16:35,970 [INFO]: epoch 3: batch loss = 21.633956909179688
+2019-10-05 18:21:53,512 [INFO]: epoch 4: batch loss = 22.37814712524414
+2019-10-05 18:27:09,778 [INFO]: epoch 5: batch loss = 22.440595626831055
+2019-10-05 18:32:35,627 [INFO]: epoch 6: batch loss = 19.963796615600586
+2019-10-05 18:37:54,262 [INFO]: epoch 7: batch loss = 19.12554931640625
+2019-10-05 18:43:16,414 [INFO]: epoch 8: batch loss = 21.439579010009766
+2019-10-05 18:48:08,115 [INFO]: epoch 9: batch loss = 20.977645874023438
+2019-10-05 18:52:47,215 [INFO]: epoch 10: batch loss = 19.413776397705078
+2019-10-05 18:57:26,425 [INFO]: epoch 11: batch loss = 20.690113067626953
+2019-10-05 19:02:08,955 [INFO]: epoch 12: batch loss = 19.247486114501953
+2019-10-05 19:06:48,005 [INFO]: epoch 13: batch loss = 21.45403289794922
+2019-10-05 19:11:29,583 [INFO]: epoch 14: batch loss = 22.101890563964844
+2019-10-05 19:16:12,900 [INFO]: epoch 15: batch loss = 21.141313552856445
+2019-10-05 19:20:54,222 [INFO]: epoch 16: batch loss = 19.698110580444336
+2019-10-05 19:25:36,321 [INFO]: epoch 17: batch loss = 19.711166381835938
+2019-10-05 19:30:19,616 [INFO]: epoch 18: batch loss = 19.053974151611328
+2019-10-05 19:35:02,915 [INFO]: epoch 19: batch loss = 20.154767990112305
+2019-10-05 19:39:48,727 [INFO]: epoch 20: batch loss = 19.464813232421875
+2019-10-05 19:44:31,455 [INFO]: epoch 21: batch loss = 19.028717041015625
+2019-10-05 19:49:14,250 [INFO]: epoch 22: batch loss = 21.92181396484375
+2019-10-05 19:53:54,820 [INFO]: epoch 23: batch loss = 18.815799713134766
+2019-10-05 19:58:33,564 [INFO]: epoch 24: batch loss = 20.702880859375
+2019-10-05 20:03:11,544 [INFO]: epoch 25: batch loss = 20.63655662536621
+2019-10-05 20:07:48,208 [INFO]: epoch 26: batch loss = 20.50262451171875
+2019-10-05 20:12:25,513 [INFO]: epoch 27: batch loss = 21.179550170898438
+2019-10-05 20:17:06,863 [INFO]: epoch 28: batch loss = 19.193113327026367
+2019-10-05 20:21:48,055 [INFO]: epoch 29: batch loss = 19.740985870361328
+2019-10-05 20:26:29,251 [INFO]: epoch 30: batch loss = 22.748756408691406
+2019-10-05 20:31:10,739 [INFO]: epoch 31: batch loss = 21.642332077026367
+2019-10-05 20:35:51,298 [INFO]: epoch 32: batch loss = 20.257488250732422
+2019-10-05 20:40:31,648 [INFO]: epoch 33: batch loss = 18.0882625579834
+2019-10-05 20:45:12,586 [INFO]: epoch 34: batch loss = 20.409486770629883
+2019-10-05 20:49:53,154 [INFO]: epoch 35: batch loss = 21.699676513671875
+2019-10-05 20:54:35,989 [INFO]: epoch 36: batch loss = 20.012556076049805
+2019-10-05 20:59:15,832 [INFO]: epoch 37: batch loss = 20.663301467895508
+2019-10-05 21:03:55,803 [INFO]: epoch 38: batch loss = 21.231586456298828
+2019-10-05 21:08:36,070 [INFO]: epoch 39: batch loss = 19.709671020507812
+2019-10-05 21:13:16,263 [INFO]: epoch 40: batch loss = 21.11932945251465
+2019-10-05 21:17:56,740 [INFO]: epoch 41: batch loss = 22.470840454101562
+2019-10-05 21:22:37,454 [INFO]: epoch 42: batch loss = 19.55194854736328
+2019-10-05 21:27:18,514 [INFO]: epoch 43: batch loss = 22.047321319580078
+2019-10-05 21:31:59,627 [INFO]: epoch 44: batch loss = 21.158058166503906
+2019-10-05 21:36:40,558 [INFO]: epoch 45: batch loss = 19.03386116027832
+2019-10-05 21:41:21,259 [INFO]: epoch 46: batch loss = 19.201595306396484
+2019-10-05 21:46:02,063 [INFO]: epoch 47: batch loss = 19.98975372314453
+2019-10-05 21:50:42,920 [INFO]: epoch 48: batch loss = 19.332595825195312
+2019-10-05 21:55:23,724 [INFO]: epoch 49: batch loss = 21.72620964050293
+2019-10-06 09:28:50,387 [INFO]: loading data
+2019-10-06 09:29:20,585 [INFO]: initializing sdae model
+2019-10-06 09:29:20,585 [INFO]: fitting data starts...
+2019-10-06 09:29:20,585 [INFO]: Layer 1
+2019-10-06 09:29:20,597 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 09:29:20,621 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-06 09:29:32,371 [INFO]: epoch 0: batch loss = 238.8779296875
+2019-10-06 09:36:24,298 [INFO]: loading data
+2019-10-06 09:42:07,969 [INFO]: loading data
+2019-10-06 09:43:33,845 [INFO]: loading data
+2019-10-06 09:44:10,436 [INFO]: initializing sdae model
+2019-10-06 09:44:10,436 [INFO]: fitting data starts...
+2019-10-06 09:44:10,436 [INFO]: Layer 1
+2019-10-06 09:44:10,607 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 09:44:10,659 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-06 09:45:09,537 [INFO]: epoch 0: batch loss = 218.4324951171875
+2019-10-06 09:46:06,923 [INFO]: epoch 1: batch loss = 221.09054565429688
+2019-10-06 09:47:04,345 [INFO]: epoch 2: batch loss = 229.00326538085938
+2019-10-06 09:48:01,858 [INFO]: epoch 3: batch loss = 197.49905395507812
+2019-10-06 09:48:58,973 [INFO]: epoch 4: batch loss = 233.92156982421875
+2019-10-06 09:49:58,144 [INFO]: epoch 5: batch loss = 189.09942626953125
+2019-10-06 09:50:56,685 [INFO]: epoch 6: batch loss = 221.0127716064453
+2019-10-06 09:51:54,357 [INFO]: epoch 7: batch loss = 237.7080841064453
+2019-10-06 09:52:52,020 [INFO]: epoch 8: batch loss = 239.4266357421875
+2019-10-06 09:53:50,033 [INFO]: epoch 9: batch loss = 233.96954345703125
+2019-10-06 09:54:48,132 [INFO]: epoch 10: batch loss = 230.10650634765625
+2019-10-06 09:55:45,609 [INFO]: epoch 11: batch loss = 245.18881225585938
+2019-10-06 09:56:43,156 [INFO]: epoch 12: batch loss = 246.18634033203125
+2019-10-06 09:57:40,639 [INFO]: epoch 13: batch loss = 221.01470947265625
+2019-10-06 09:58:37,802 [INFO]: epoch 14: batch loss = 265.3076171875
+2019-10-06 09:59:35,530 [INFO]: epoch 15: batch loss = 221.29293823242188
+2019-10-06 10:00:32,615 [INFO]: epoch 16: batch loss = 195.5989990234375
+2019-10-06 10:01:29,650 [INFO]: epoch 17: batch loss = 274.96392822265625
+2019-10-06 10:02:30,524 [INFO]: epoch 18: batch loss = 206.77810668945312
+2019-10-06 10:03:29,908 [INFO]: epoch 19: batch loss = 236.996826171875
+2019-10-06 10:04:28,669 [INFO]: epoch 20: batch loss = 270.12701416015625
+2019-10-06 10:05:30,134 [INFO]: loading data
+2019-10-06 10:06:07,878 [INFO]: initializing sdae model
+2019-10-06 10:06:07,878 [INFO]: fitting data starts...
+2019-10-06 10:06:07,878 [INFO]: Layer 1
+2019-10-06 10:06:07,895 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 10:06:07,927 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-06 10:06:56,881 [INFO]: epoch 0: batch loss = 210.77847290039062
+2019-10-06 10:07:45,212 [INFO]: epoch 1: batch loss = 211.94387817382812
+2019-10-06 10:08:34,225 [INFO]: epoch 2: batch loss = 217.1220245361328
+2019-10-06 10:09:23,371 [INFO]: epoch 3: batch loss = 210.66616821289062
+2019-10-06 10:10:15,615 [INFO]: epoch 4: batch loss = 211.82022094726562
+2019-10-06 10:11:06,219 [INFO]: epoch 5: batch loss = 205.51315307617188
+2019-10-06 10:11:54,916 [INFO]: epoch 6: batch loss = 199.6820831298828
+2019-10-06 10:12:43,533 [INFO]: epoch 7: batch loss = 217.4543914794922
+2019-10-06 10:13:32,197 [INFO]: epoch 8: batch loss = 210.656005859375
+2019-10-06 10:14:20,787 [INFO]: epoch 9: batch loss = 218.0773468017578
+2019-10-06 10:15:09,304 [INFO]: epoch 10: batch loss = 205.135986328125
+2019-10-06 10:15:57,799 [INFO]: epoch 11: batch loss = 212.43569946289062
+2019-10-06 10:16:46,321 [INFO]: epoch 12: batch loss = 211.8635711669922
+2019-10-06 10:17:34,908 [INFO]: epoch 13: batch loss = 208.48013305664062
+2019-10-06 10:18:24,699 [INFO]: epoch 14: batch loss = 212.0496368408203
+2019-10-06 10:19:13,650 [INFO]: epoch 15: batch loss = 215.9325408935547
+2019-10-06 10:20:02,795 [INFO]: epoch 16: batch loss = 203.4727020263672
+2019-10-06 10:20:51,765 [INFO]: epoch 17: batch loss = 217.41171264648438
+2019-10-06 10:21:40,557 [INFO]: epoch 18: batch loss = 208.339599609375
+2019-10-06 10:22:29,321 [INFO]: epoch 19: batch loss = 212.7246856689453
+2019-10-06 10:23:18,049 [INFO]: epoch 20: batch loss = 205.8972930908203
+2019-10-06 10:24:06,770 [INFO]: epoch 21: batch loss = 209.32192993164062
+2019-10-06 10:24:55,473 [INFO]: epoch 22: batch loss = 203.00820922851562
+2019-10-06 10:25:44,134 [INFO]: epoch 23: batch loss = 210.2627410888672
+2019-10-06 10:26:32,779 [INFO]: epoch 24: batch loss = 214.40310668945312
+2019-10-06 10:27:21,328 [INFO]: epoch 25: batch loss = 210.22463989257812
+2019-10-06 10:28:09,963 [INFO]: epoch 26: batch loss = 204.64974975585938
+2019-10-06 10:28:58,591 [INFO]: epoch 27: batch loss = 214.122314453125
+2019-10-06 10:29:48,219 [INFO]: epoch 28: batch loss = 195.8528289794922
+2019-10-06 10:30:37,262 [INFO]: epoch 29: batch loss = 212.247314453125
+2019-10-06 10:31:25,916 [INFO]: epoch 30: batch loss = 207.8961639404297
+2019-10-06 10:32:14,745 [INFO]: epoch 31: batch loss = 210.56045532226562
+2019-10-06 10:33:03,691 [INFO]: epoch 32: batch loss = 210.5947265625
+2019-10-06 10:33:52,820 [INFO]: epoch 33: batch loss = 221.7165985107422
+2019-10-06 10:34:42,291 [INFO]: epoch 34: batch loss = 224.30233764648438
+2019-10-06 10:35:32,712 [INFO]: epoch 35: batch loss = 209.5497589111328
+2019-10-06 10:36:22,895 [INFO]: epoch 36: batch loss = 201.48570251464844
+2019-10-06 10:37:15,745 [INFO]: epoch 37: batch loss = 202.7120819091797
+2019-10-06 10:38:06,581 [INFO]: epoch 38: batch loss = 215.8650665283203
+2019-10-06 10:38:56,011 [INFO]: epoch 39: batch loss = 201.99575805664062
+2019-10-06 10:39:45,910 [INFO]: epoch 40: batch loss = 191.1981964111328
+2019-10-06 10:40:36,027 [INFO]: epoch 41: batch loss = 203.17616271972656
+2019-10-06 10:41:25,828 [INFO]: epoch 42: batch loss = 200.14590454101562
+2019-10-06 10:42:15,064 [INFO]: epoch 43: batch loss = 212.146240234375
+2019-10-06 10:43:05,027 [INFO]: epoch 44: batch loss = 208.4873809814453
+2019-10-06 10:43:55,246 [INFO]: epoch 45: batch loss = 206.6412353515625
+2019-10-06 10:44:45,021 [INFO]: epoch 46: batch loss = 205.8362579345703
+2019-10-06 10:45:34,981 [INFO]: epoch 47: batch loss = 207.5419921875
+2019-10-06 10:46:24,941 [INFO]: epoch 48: batch loss = 200.251953125
+2019-10-06 10:47:14,592 [INFO]: epoch 49: batch loss = 199.97561645507812
+2019-10-06 10:47:17,968 [INFO]: Layer 2
+2019-10-06 10:58:15,114 [INFO]: loading data
+2019-10-06 10:58:53,295 [INFO]: initializing sdae model
+2019-10-06 10:58:53,295 [INFO]: fitting data starts...
+2019-10-06 10:58:53,295 [INFO]: Layer 1
+2019-10-06 10:58:53,315 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 10:58:53,338 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-06 10:59:53,453 [INFO]: epoch 0: batch loss = 218.4872283935547
+2019-10-06 11:00:51,690 [INFO]: epoch 1: batch loss = 221.22805786132812
+2019-10-06 11:00:55,098 [INFO]: Layer 2
+2019-10-06 11:05:14,134 [INFO]: loading data
+2019-10-06 11:05:52,574 [INFO]: initializing sdae model
+2019-10-06 11:05:52,574 [INFO]: fitting data starts...
+2019-10-06 11:05:52,574 [INFO]: Layer 1
+2019-10-06 11:05:52,592 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 11:05:52,617 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-06 11:06:50,701 [INFO]: epoch 0: batch loss = 218.59033203125
+2019-10-06 11:06:54,891 [INFO]: Layer 2
+2019-10-06 11:07:02,309 [INFO]: epoch 0: batch loss = 0.0022868637461215258
+2019-10-06 11:49:21,995 [INFO]: loading data
+2019-10-06 11:50:05,716 [INFO]: initializing sdae model
+2019-10-06 11:50:05,716 [INFO]: fitting data starts...
+2019-10-06 11:50:05,716 [INFO]: Layer 1
+2019-10-06 11:50:05,742 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 11:50:05,769 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-06 11:50:58,678 [INFO]: epoch 0: batch loss = 201.6306610107422
+2019-10-06 11:51:52,869 [INFO]: epoch 1: batch loss = 197.33087158203125
+2019-10-06 11:52:44,696 [INFO]: epoch 2: batch loss = 218.0623779296875
+2019-10-06 11:53:37,375 [INFO]: epoch 3: batch loss = 201.2428741455078
+2019-10-06 11:54:29,909 [INFO]: epoch 4: batch loss = 217.8138427734375
+2019-10-06 11:55:24,243 [INFO]: epoch 5: batch loss = 219.55465698242188
+2019-10-06 11:56:21,745 [INFO]: epoch 6: batch loss = 214.06268310546875
+2019-10-06 11:57:20,917 [INFO]: epoch 7: batch loss = 212.60836791992188
+2019-10-06 11:58:20,017 [INFO]: epoch 8: batch loss = 193.05189514160156
+2019-10-06 11:59:18,414 [INFO]: epoch 9: batch loss = 206.38009643554688
+2019-10-06 12:00:18,993 [INFO]: epoch 10: batch loss = 204.32235717773438
+2019-10-06 12:01:18,311 [INFO]: epoch 11: batch loss = 250.84304809570312
+2019-10-06 12:02:17,197 [INFO]: epoch 12: batch loss = 191.03793334960938
+2019-10-06 12:03:16,543 [INFO]: epoch 13: batch loss = 215.44607543945312
+2019-10-06 12:04:16,458 [INFO]: epoch 14: batch loss = 207.4662322998047
+2019-10-06 12:05:16,690 [INFO]: epoch 15: batch loss = 195.20101928710938
+2019-10-06 12:06:16,987 [INFO]: epoch 16: batch loss = 191.7611083984375
+2019-10-06 12:07:17,779 [INFO]: epoch 17: batch loss = 225.605224609375
+2019-10-06 12:08:19,099 [INFO]: epoch 18: batch loss = 200.21456909179688
+2019-10-06 12:09:20,587 [INFO]: epoch 19: batch loss = 210.10214233398438
+2019-10-06 12:10:16,170 [INFO]: epoch 20: batch loss = 245.3704833984375
+2019-10-06 12:11:08,200 [INFO]: epoch 21: batch loss = 232.47479248046875
+2019-10-06 12:12:00,541 [INFO]: epoch 22: batch loss = 220.01602172851562
+2019-10-06 12:12:52,675 [INFO]: epoch 23: batch loss = 214.39561462402344
+2019-10-06 12:13:54,296 [INFO]: epoch 24: batch loss = 233.6409454345703
+2019-10-06 12:14:55,149 [INFO]: epoch 25: batch loss = 231.2665252685547
+2019-10-06 12:15:55,419 [INFO]: epoch 26: batch loss = 239.67135620117188
+2019-10-06 12:16:55,419 [INFO]: epoch 27: batch loss = 241.6031494140625
+2019-10-06 12:17:55,437 [INFO]: epoch 28: batch loss = 213.33700561523438
+2019-10-06 12:18:57,065 [INFO]: epoch 29: batch loss = 245.04100036621094
+2019-10-06 12:19:58,186 [INFO]: epoch 30: batch loss = 233.44329833984375
+2019-10-06 12:20:57,580 [INFO]: epoch 31: batch loss = 228.52447509765625
+2019-10-06 12:21:57,349 [INFO]: epoch 32: batch loss = 213.58132934570312
+2019-10-06 12:22:57,176 [INFO]: epoch 33: batch loss = 214.3395233154297
+2019-10-06 12:23:56,235 [INFO]: epoch 34: batch loss = 219.6060028076172
+2019-10-06 12:24:57,134 [INFO]: epoch 35: batch loss = 215.0015869140625
+2019-10-06 12:25:58,615 [INFO]: epoch 36: batch loss = 238.85711669921875
+2019-10-06 12:27:01,172 [INFO]: epoch 37: batch loss = 239.65170288085938
+2019-10-06 12:28:03,172 [INFO]: epoch 38: batch loss = 213.43467712402344
+2019-10-06 12:29:04,065 [INFO]: epoch 39: batch loss = 226.61965942382812
+2019-10-06 12:30:04,864 [INFO]: epoch 40: batch loss = 234.30209350585938
+2019-10-06 12:30:56,991 [INFO]: epoch 41: batch loss = 236.45367431640625
+2019-10-06 12:31:49,129 [INFO]: epoch 42: batch loss = 240.0670166015625
+2019-10-06 12:32:41,137 [INFO]: epoch 43: batch loss = 235.5863037109375
+2019-10-06 12:33:33,257 [INFO]: epoch 44: batch loss = 240.3103790283203
+2019-10-06 12:34:25,426 [INFO]: epoch 45: batch loss = 236.4475860595703
+2019-10-06 12:35:17,627 [INFO]: epoch 46: batch loss = 248.04275512695312
+2019-10-06 12:36:10,380 [INFO]: epoch 47: batch loss = 240.89231872558594
+2019-10-06 12:37:02,230 [INFO]: epoch 48: batch loss = 247.89630126953125
+2019-10-06 12:37:54,213 [INFO]: epoch 49: batch loss = 253.0703887939453
+2019-10-06 12:37:57,465 [INFO]: Layer 2
+2019-10-06 12:38:03,426 [INFO]: epoch 0: batch loss = 0.0021206240635365248
+2019-10-06 12:38:09,172 [INFO]: epoch 1: batch loss = 0.0016997504280880094
+2019-10-06 12:38:15,078 [INFO]: epoch 2: batch loss = 0.0013306763721629977
+2019-10-06 12:38:20,936 [INFO]: epoch 3: batch loss = 0.0010430233087390661
+2019-10-06 12:38:26,780 [INFO]: epoch 4: batch loss = 0.0008219485753215849
+2019-10-06 12:38:32,565 [INFO]: epoch 5: batch loss = 0.0006537439185194671
+2019-10-06 12:38:38,350 [INFO]: epoch 6: batch loss = 0.0005227923975326121
+2019-10-06 12:38:44,187 [INFO]: epoch 7: batch loss = 0.0004241467104293406
+2019-10-06 12:38:49,966 [INFO]: epoch 8: batch loss = 0.0003448725037742406
+2019-10-06 12:38:55,795 [INFO]: epoch 9: batch loss = 0.00028234723140485585
+2019-10-06 12:39:01,593 [INFO]: epoch 10: batch loss = 0.00023394824529532343
+2019-10-06 12:39:07,403 [INFO]: epoch 11: batch loss = 0.00019246341253165156
+2019-10-06 12:39:13,247 [INFO]: epoch 12: batch loss = 0.0001611113693797961
+2019-10-06 12:39:19,056 [INFO]: epoch 13: batch loss = 0.00013512374425772578
+2019-10-06 12:39:24,885 [INFO]: epoch 14: batch loss = 0.00011330843699397519
+2019-10-06 12:39:30,778 [INFO]: epoch 15: batch loss = 9.500981104793027e-05
+2019-10-06 12:39:36,747 [INFO]: epoch 16: batch loss = 8.028746378840879e-05
+2019-10-06 12:39:42,649 [INFO]: epoch 17: batch loss = 6.711483729304746e-05
+2019-10-06 12:39:48,469 [INFO]: epoch 18: batch loss = 5.7160857977578416e-05
+2019-10-06 12:39:54,277 [INFO]: epoch 19: batch loss = 4.8577789129922166e-05
+2019-10-06 12:40:00,128 [INFO]: epoch 20: batch loss = 4.13060188293457e-05
+2019-10-06 12:40:05,938 [INFO]: epoch 21: batch loss = 3.6776065826416016e-05
+2019-10-06 12:40:11,825 [INFO]: epoch 22: batch loss = 2.968311309814453e-05
+2019-10-06 12:40:17,749 [INFO]: epoch 23: batch loss = 2.676248550415039e-05
+2019-10-06 12:40:23,694 [INFO]: epoch 24: batch loss = 2.491474151611328e-05
+2019-10-06 12:40:29,568 [INFO]: epoch 25: batch loss = 2.193450927734375e-05
+2019-10-06 12:40:35,428 [INFO]: epoch 26: batch loss = 1.811981201171875e-05
+2019-10-06 12:40:41,277 [INFO]: epoch 27: batch loss = 1.6033649444580078e-05
+2019-10-06 12:40:47,108 [INFO]: epoch 28: batch loss = 1.3709068298339844e-05
+2019-10-06 12:40:52,943 [INFO]: epoch 29: batch loss = 1.1861324310302734e-05
+2019-10-06 12:40:58,806 [INFO]: epoch 30: batch loss = 9.417533874511719e-06
+2019-10-06 12:41:04,669 [INFO]: epoch 31: batch loss = 8.225440979003906e-06
+2019-10-06 12:41:10,553 [INFO]: epoch 32: batch loss = 5.900859832763672e-06
+2019-10-06 12:41:16,424 [INFO]: epoch 33: batch loss = 4.589557647705078e-06
+2019-10-06 12:41:22,243 [INFO]: epoch 34: batch loss = 4.470348358154297e-06
+2019-10-06 12:41:28,204 [INFO]: epoch 35: batch loss = 2.9802322387695312e-06
+2019-10-06 12:41:34,290 [INFO]: epoch 36: batch loss = 2.086162567138672e-06
+2019-10-06 12:41:40,363 [INFO]: epoch 37: batch loss = 1.5497207641601562e-06
+2019-10-06 12:41:46,220 [INFO]: epoch 38: batch loss = 2.980232238769531e-07
+2019-10-06 12:41:52,087 [INFO]: epoch 39: batch loss = 5.960464477539063e-08
+2019-10-06 12:41:57,941 [INFO]: epoch 40: batch loss = 5.960464477539063e-08
+2019-10-06 12:42:03,804 [INFO]: epoch 41: batch loss = -0.0
+2019-10-06 12:42:09,632 [INFO]: epoch 42: batch loss = -0.0
+2019-10-06 12:42:15,495 [INFO]: epoch 43: batch loss = -0.0
+2019-10-06 12:42:21,348 [INFO]: epoch 44: batch loss = -0.0
+2019-10-06 12:42:27,236 [INFO]: epoch 45: batch loss = -0.0
+2019-10-06 12:42:33,086 [INFO]: epoch 46: batch loss = -0.0
+2019-10-06 12:42:38,936 [INFO]: epoch 47: batch loss = -0.0
+2019-10-06 12:42:44,804 [INFO]: epoch 48: batch loss = -0.0
+2019-10-06 12:42:50,666 [INFO]: epoch 49: batch loss = -0.0
+2019-10-06 12:42:57,736 [INFO]: epoch 0: batch loss = 4.572218894958496, gen_loss=1.4408183097839355, latent_loss=3.1314003467559814
+2019-10-06 12:42:58,819 [INFO]: epoch 1: batch loss = 4.586577892303467, gen_loss=1.164228081703186, latent_loss=3.422349691390991
+2019-10-06 12:42:59,911 [INFO]: epoch 2: batch loss = 2.6438183784484863, gen_loss=0.3827683925628662, latent_loss=2.26104998588562
+2019-10-06 12:43:01,022 [INFO]: epoch 3: batch loss = 2.1076135635375977, gen_loss=0.34039682149887085, latent_loss=1.7672168016433716
+2019-10-06 12:43:02,118 [INFO]: epoch 4: batch loss = 1.4069619178771973, gen_loss=0.30251702666282654, latent_loss=1.1044448614120483
+2019-10-06 12:43:03,218 [INFO]: epoch 5: batch loss = 1.320458173751831, gen_loss=0.46145451068878174, latent_loss=0.8590036034584045
+2019-10-06 12:43:04,309 [INFO]: epoch 6: batch loss = 1.0588734149932861, gen_loss=0.1969769150018692, latent_loss=0.8618965148925781
+2019-10-06 12:43:05,400 [INFO]: epoch 7: batch loss = 1.2865524291992188, gen_loss=0.46437984704971313, latent_loss=0.8221726417541504
+2019-10-06 12:43:06,499 [INFO]: epoch 8: batch loss = 1.0402355194091797, gen_loss=0.045873284339904785, latent_loss=0.9943622350692749
+2019-10-06 12:43:07,598 [INFO]: epoch 9: batch loss = 0.672958254814148, gen_loss=0.25167834758758545, latent_loss=0.4212798774242401
+2019-10-06 12:43:08,705 [INFO]: epoch 10: batch loss = 0.4408499002456665, gen_loss=0.09550248086452484, latent_loss=0.34534743428230286
+2019-10-06 12:43:09,799 [INFO]: epoch 11: batch loss = 0.1629820466041565, gen_loss=0.13761532306671143, latent_loss=0.02536672353744507
+2019-10-06 12:43:10,927 [INFO]: epoch 12: batch loss = 0.06476946920156479, gen_loss=0.060090892016887665, latent_loss=0.004678577184677124
+2019-10-06 12:43:12,025 [INFO]: epoch 13: batch loss = 0.04946580529212952, gen_loss=0.0437169075012207, latent_loss=0.0057488977909088135
+2019-10-06 12:43:13,148 [INFO]: epoch 14: batch loss = 0.038012921810150146, gen_loss=0.03297698497772217, latent_loss=0.0050359368324279785
+2019-10-06 12:43:14,273 [INFO]: epoch 15: batch loss = 0.028662657365202904, gen_loss=0.025568699464201927, latent_loss=0.0030939579010009766
+2019-10-06 12:43:15,383 [INFO]: epoch 16: batch loss = 0.03119337186217308, gen_loss=0.021269556134939194, latent_loss=0.009923815727233887
+2019-10-06 12:43:16,504 [INFO]: epoch 17: batch loss = 0.03845103830099106, gen_loss=0.01743859052658081, latent_loss=0.021012447774410248
+2019-10-06 12:43:17,621 [INFO]: epoch 18: batch loss = 0.04815247654914856, gen_loss=0.014525322243571281, latent_loss=0.03362715244293213
+2019-10-06 12:43:18,745 [INFO]: epoch 19: batch loss = 0.045515768229961395, gen_loss=0.012012964114546776, latent_loss=0.03350280225276947
+2019-10-06 12:43:19,853 [INFO]: epoch 20: batch loss = 0.045074839144945145, gen_loss=0.010070460848510265, latent_loss=0.035004377365112305
+2019-10-06 12:43:20,980 [INFO]: epoch 21: batch loss = 0.03152715787291527, gen_loss=0.0084760757163167, latent_loss=0.023051083087921143
+2019-10-06 12:43:22,108 [INFO]: epoch 22: batch loss = 0.026601307094097137, gen_loss=0.00714458990842104, latent_loss=0.019456718116998672
+2019-10-06 12:43:23,237 [INFO]: epoch 23: batch loss = 0.03834431245923042, gen_loss=0.0060235895216465, latent_loss=0.03232072293758392
+2019-10-06 12:43:24,352 [INFO]: epoch 24: batch loss = 0.021103378385305405, gen_loss=0.005100931506603956, latent_loss=0.01600244641304016
+2019-10-06 12:43:25,483 [INFO]: epoch 25: batch loss = 0.01749044843018055, gen_loss=0.004322768654674292, latent_loss=0.01316767930984497
+2019-10-06 12:43:26,569 [INFO]: epoch 26: batch loss = 0.03859184309840202, gen_loss=0.003673176746815443, latent_loss=0.03491866588592529
+2019-10-06 12:43:27,669 [INFO]: epoch 27: batch loss = 0.03141726553440094, gen_loss=0.003125919960439205, latent_loss=0.02829134464263916
+2019-10-06 12:43:28,757 [INFO]: epoch 28: batch loss = 0.03021734207868576, gen_loss=0.00266070244833827, latent_loss=0.027556639164686203
+2019-10-06 12:43:29,838 [INFO]: epoch 29: batch loss = 0.04080349951982498, gen_loss=0.0022644491400569677, latent_loss=0.03853905200958252
+2019-10-06 12:43:30,935 [INFO]: epoch 30: batch loss = 0.03747833892703056, gen_loss=0.0019299420528113842, latent_loss=0.03554839640855789
+2019-10-06 12:43:32,018 [INFO]: epoch 31: batch loss = 0.07136055827140808, gen_loss=0.0016491173300892115, latent_loss=0.06971143931150436
+2019-10-06 12:43:33,102 [INFO]: epoch 32: batch loss = 0.04771143198013306, gen_loss=0.0014072188641875982, latent_loss=0.046304214745759964
+2019-10-06 12:43:34,184 [INFO]: epoch 33: batch loss = 0.026206662878394127, gen_loss=0.0012008454650640488, latent_loss=0.025005817413330078
+2019-10-06 12:43:35,281 [INFO]: epoch 34: batch loss = 0.027201242744922638, gen_loss=0.0010257258545607328, latent_loss=0.026175517588853836
+2019-10-06 12:43:36,360 [INFO]: epoch 35: batch loss = 0.03875163942575455, gen_loss=0.0008763298392295837, latent_loss=0.03787530958652496
+2019-10-06 12:43:37,444 [INFO]: epoch 36: batch loss = 0.027113426476716995, gen_loss=0.0007475694874301553, latent_loss=0.02636585757136345
+2019-10-06 12:43:38,529 [INFO]: epoch 37: batch loss = 0.06607115268707275, gen_loss=0.0006388395559042692, latent_loss=0.06543231010437012
+2019-10-06 12:43:39,622 [INFO]: epoch 38: batch loss = 0.025627903640270233, gen_loss=0.0005474619101732969, latent_loss=0.025080442428588867
+2019-10-06 12:43:40,722 [INFO]: epoch 39: batch loss = 0.043752409517765045, gen_loss=0.0004679482663050294, latent_loss=0.04328446090221405
+2019-10-06 12:43:41,812 [INFO]: epoch 40: batch loss = 0.020843831822276115, gen_loss=0.0004007502575404942, latent_loss=0.020443081855773926
+2019-10-06 12:43:42,907 [INFO]: epoch 41: batch loss = 0.05125923454761505, gen_loss=0.00034302883432246745, latent_loss=0.05091620609164238
+2019-10-06 12:43:43,988 [INFO]: epoch 42: batch loss = 0.04614187777042389, gen_loss=0.0002930755144916475, latent_loss=0.04584880173206329
+2019-10-06 12:43:45,064 [INFO]: epoch 43: batch loss = 0.04356781765818596, gen_loss=0.00025072693824768066, latent_loss=0.04331709071993828
+2019-10-06 12:43:46,152 [INFO]: epoch 44: batch loss = 0.021752145141363144, gen_loss=0.00021406573068816215, latent_loss=0.021538078784942627
+2019-10-06 12:43:47,240 [INFO]: epoch 45: batch loss = 0.027134502306580544, gen_loss=0.0001822170743253082, latent_loss=0.026952285319566727
+2019-10-06 12:43:48,327 [INFO]: epoch 46: batch loss = 0.016179611906409264, gen_loss=0.00015606597298756242, latent_loss=0.01602354645729065
+2019-10-06 12:43:49,407 [INFO]: epoch 47: batch loss = 0.03988061100244522, gen_loss=0.00013325489999260753, latent_loss=0.03974735736846924
+2019-10-06 12:43:50,487 [INFO]: epoch 48: batch loss = 0.020913749933242798, gen_loss=0.00011399445793358609, latent_loss=0.020799756050109863
+2019-10-06 12:43:51,568 [INFO]: epoch 49: batch loss = 0.012174645438790321, gen_loss=9.737393702380359e-05, latent_loss=0.012077271938323975
+2019-10-06 12:44:26,289 [INFO]: epoch 0: batch loss = 227.91415405273438, gen_loss=227.91415405273438, latent_loss=-2.9802322387695312e-08, valid_loss=219.60350936498398
+2019-10-06 12:44:58,063 [INFO]: epoch 1: batch loss = 217.05755615234375, gen_loss=217.05755615234375, latent_loss=2.8014183044433594e-06, valid_loss=219.19196730393625
+2019-10-06 12:45:29,951 [INFO]: epoch 2: batch loss = 207.2158203125, gen_loss=207.2158203125, latent_loss=1.4901161193847656e-06, valid_loss=218.5622278849284
+2019-10-06 12:46:02,159 [INFO]: epoch 3: batch loss = 224.87762451171875, gen_loss=224.87762451171875, latent_loss=-3.8743019104003906e-07, valid_loss=218.8049885676457
+2019-10-06 12:46:34,445 [INFO]: epoch 4: batch loss = 223.95838928222656, gen_loss=223.95811462402344, latent_loss=0.00026732683181762695, valid_loss=218.55082604823963
+2019-10-06 12:47:06,177 [INFO]: epoch 5: batch loss = 218.45497131347656, gen_loss=218.44683837890625, latent_loss=0.008136749267578125, valid_loss=218.379645714393
+2019-10-06 12:47:38,614 [INFO]: epoch 6: batch loss = 209.8475799560547, gen_loss=209.8333740234375, latent_loss=0.01420295238494873, valid_loss=218.13573397122897
+2019-10-06 12:48:10,541 [INFO]: epoch 7: batch loss = 209.715087890625, gen_loss=209.69161987304688, latent_loss=0.023467063903808594, valid_loss=218.1463996691581
+2019-10-06 12:48:42,324 [INFO]: epoch 8: batch loss = 224.27984619140625, gen_loss=224.23855590820312, latent_loss=0.04129047691822052, valid_loss=217.70351507724868
+2019-10-06 12:49:14,075 [INFO]: epoch 9: batch loss = 228.6068572998047, gen_loss=228.58998107910156, latent_loss=0.016880810260772705, valid_loss=218.18004060402902
+2019-10-06 12:49:46,281 [INFO]: epoch 10: batch loss = 226.79176330566406, gen_loss=226.78541564941406, latent_loss=0.006350874900817871, valid_loss=218.29058074951166
+2019-10-06 12:50:18,156 [INFO]: epoch 11: batch loss = 240.10693359375, gen_loss=240.0818328857422, latent_loss=0.025098979473114014, valid_loss=218.24213194235776
+2019-10-06 12:50:50,153 [INFO]: epoch 12: batch loss = 218.74122619628906, gen_loss=218.71482849121094, latent_loss=0.026403646916151047, valid_loss=217.90906485533105
+2019-10-06 12:51:21,786 [INFO]: epoch 13: batch loss = 207.3865509033203, gen_loss=207.35018920898438, latent_loss=0.03635835647583008, valid_loss=218.18797400058853
+2019-10-06 12:51:53,920 [INFO]: epoch 14: batch loss = 233.60447692871094, gen_loss=233.58261108398438, latent_loss=0.021871447563171387, valid_loss=218.05263499724552
+2019-10-06 12:52:25,959 [INFO]: epoch 15: batch loss = 207.29623413085938, gen_loss=207.23397827148438, latent_loss=0.06225559115409851, valid_loss=217.98978424072268
+2019-10-06 12:52:57,656 [INFO]: epoch 16: batch loss = 207.1986846923828, gen_loss=207.16519165039062, latent_loss=0.033488571643829346, valid_loss=218.22407766488885
+2019-10-06 12:53:29,325 [INFO]: epoch 17: batch loss = 216.09397888183594, gen_loss=216.08145141601562, latent_loss=0.012525945901870728, valid_loss=218.0694478352864
+2019-10-06 12:54:01,815 [INFO]: epoch 18: batch loss = 216.48435974121094, gen_loss=216.43862915039062, latent_loss=0.0457301139831543, valid_loss=218.06368196927582
+2019-10-06 12:54:33,388 [INFO]: epoch 19: batch loss = 219.47012329101562, gen_loss=219.444091796875, latent_loss=0.026036720722913742, valid_loss=218.07926217103613
+2019-10-06 12:55:04,991 [INFO]: epoch 20: batch loss = 215.26124572753906, gen_loss=215.24832153320312, latent_loss=0.012925177812576294, valid_loss=218.05193270169767
+2019-10-06 12:55:37,214 [INFO]: epoch 21: batch loss = 206.2216339111328, gen_loss=206.18551635742188, latent_loss=0.03611612319946289, valid_loss=217.93898421067468
+2019-10-06 12:56:08,821 [INFO]: epoch 22: batch loss = 229.9359588623047, gen_loss=229.92559814453125, latent_loss=0.010356932878494263, valid_loss=218.06827271290317
+2019-10-06 12:56:41,021 [INFO]: epoch 23: batch loss = 203.10765075683594, gen_loss=203.0718994140625, latent_loss=0.03575444221496582, valid_loss=218.17143934200965
+2019-10-06 12:57:12,637 [INFO]: epoch 24: batch loss = 210.39071655273438, gen_loss=210.36904907226562, latent_loss=0.021666407585144043, valid_loss=217.92353820800778
+2019-10-06 12:57:44,771 [INFO]: epoch 25: batch loss = 244.53099060058594, gen_loss=244.51214599609375, latent_loss=0.01884019374847412, valid_loss=218.0840841440054
+2019-10-06 12:58:16,558 [INFO]: epoch 26: batch loss = 198.62698364257812, gen_loss=198.583740234375, latent_loss=0.04323892295360565, valid_loss=218.31933750250408
+2019-10-06 12:58:48,716 [INFO]: epoch 27: batch loss = 217.96792602539062, gen_loss=217.92929077148438, latent_loss=0.038628287613391876, valid_loss=218.0187561817659
+2019-10-06 12:59:20,417 [INFO]: epoch 28: batch loss = 201.6768798828125, gen_loss=201.65402221679688, latent_loss=0.022861741483211517, valid_loss=218.07402645013264
+2019-10-06 12:59:52,965 [INFO]: epoch 29: batch loss = 212.63369750976562, gen_loss=212.60824584960938, latent_loss=0.025452911853790283, valid_loss=218.1384660769732
+2019-10-06 13:00:24,571 [INFO]: epoch 30: batch loss = 235.33480834960938, gen_loss=235.3076934814453, latent_loss=0.027117550373077393, valid_loss=218.76721700032553
+2019-10-06 13:00:56,229 [INFO]: epoch 31: batch loss = 205.6613006591797, gen_loss=205.63906860351562, latent_loss=0.022237956523895264, valid_loss=217.87086310753443
+2019-10-06 13:01:28,332 [INFO]: epoch 32: batch loss = 231.85366821289062, gen_loss=231.81890869140625, latent_loss=0.034758925437927246, valid_loss=218.39001073592755
+2019-10-06 13:02:00,047 [INFO]: epoch 33: batch loss = 221.79922485351562, gen_loss=221.7877197265625, latent_loss=0.011500239372253418, valid_loss=218.08579078087445
+2019-10-06 13:02:32,264 [INFO]: epoch 34: batch loss = 226.87091064453125, gen_loss=226.80294799804688, latent_loss=0.06795886158943176, valid_loss=217.99386048928287
+2019-10-06 13:03:03,958 [INFO]: epoch 35: batch loss = 221.82754516601562, gen_loss=221.80776977539062, latent_loss=0.019775986671447754, valid_loss=218.0343772692558
+2019-10-06 13:03:35,710 [INFO]: epoch 36: batch loss = 232.6686553955078, gen_loss=232.6270751953125, latent_loss=0.041580092161893845, valid_loss=218.18092307066314
+2019-10-06 13:04:07,751 [INFO]: epoch 37: batch loss = 201.16172790527344, gen_loss=201.14129638671875, latent_loss=0.020425379276275635, valid_loss=218.13945750701126
+2019-10-06 13:04:39,839 [INFO]: epoch 38: batch loss = 220.56906127929688, gen_loss=220.55653381347656, latent_loss=0.0125332772731781, valid_loss=217.98003602639224
+2019-10-06 13:05:11,479 [INFO]: epoch 39: batch loss = 219.62197875976562, gen_loss=219.5885009765625, latent_loss=0.033484458923339844, valid_loss=218.17495923164557
+2019-10-06 13:05:43,799 [INFO]: epoch 40: batch loss = 201.63526916503906, gen_loss=201.5945281982422, latent_loss=0.04074811935424805, valid_loss=218.10053214048722
+2019-10-06 13:06:15,638 [INFO]: epoch 41: batch loss = 216.5959014892578, gen_loss=216.57672119140625, latent_loss=0.019176840782165527, valid_loss=218.01989765656307
+2019-10-06 13:06:47,226 [INFO]: epoch 42: batch loss = 192.3880157470703, gen_loss=192.38400268554688, latent_loss=0.004016757011413574, valid_loss=218.14481803698413
+2019-10-06 13:07:18,877 [INFO]: epoch 43: batch loss = 248.2419891357422, gen_loss=248.188232421875, latent_loss=0.0537494421005249, valid_loss=218.01777101174383
+2019-10-06 13:07:51,068 [INFO]: epoch 44: batch loss = 213.0834197998047, gen_loss=213.05189514160156, latent_loss=0.031519532203674316, valid_loss=217.90510500394382
+2019-10-06 13:08:22,888 [INFO]: epoch 45: batch loss = 208.1071319580078, gen_loss=208.10031127929688, latent_loss=0.006818652153015137, valid_loss=218.05003043932797
+2019-10-06 13:08:54,917 [INFO]: epoch 46: batch loss = 213.48245239257812, gen_loss=213.4681396484375, latent_loss=0.014316648244857788, valid_loss=217.9690659351838
+2019-10-06 13:09:26,468 [INFO]: epoch 47: batch loss = 215.9026641845703, gen_loss=215.84512329101562, latent_loss=0.057534731924533844, valid_loss=218.43991480118186
+2019-10-06 13:09:58,610 [INFO]: epoch 48: batch loss = 213.42630004882812, gen_loss=213.40090942382812, latent_loss=0.025397181510925293, valid_loss=218.13438356839697
+2019-10-06 13:10:30,574 [INFO]: epoch 49: batch loss = 221.7075958251953, gen_loss=221.69528198242188, latent_loss=0.012312978506088257, valid_loss=218.18372990534854
+2019-10-06 13:11:02,309 [INFO]: epoch 50: batch loss = 202.9105682373047, gen_loss=202.90896606445312, latent_loss=0.0016023814678192139, valid_loss=218.0209194085537
+2019-10-06 13:11:33,910 [INFO]: epoch 51: batch loss = 215.7966766357422, gen_loss=215.76559448242188, latent_loss=0.03108423948287964, valid_loss=218.18326959854514
+2019-10-06 13:12:06,457 [INFO]: epoch 52: batch loss = 196.62367248535156, gen_loss=196.549072265625, latent_loss=0.07459640502929688, valid_loss=218.58909078744745
+2019-10-06 13:12:38,038 [INFO]: epoch 53: batch loss = 221.21853637695312, gen_loss=221.19110107421875, latent_loss=0.027440190315246582, valid_loss=218.16583525828824
+2019-10-06 13:13:09,913 [INFO]: epoch 54: batch loss = 208.9103546142578, gen_loss=208.88864135742188, latent_loss=0.02171093225479126, valid_loss=217.90628990760223
+2019-10-06 13:13:42,928 [INFO]: epoch 55: batch loss = 183.6385955810547, gen_loss=183.62525939941406, latent_loss=0.01333850622177124, valid_loss=217.98798350798776
+2019-10-06 13:14:15,447 [INFO]: epoch 56: batch loss = 230.1851348876953, gen_loss=230.177490234375, latent_loss=0.007648080587387085, valid_loss=218.2848882430639
+2019-10-06 13:14:48,392 [INFO]: epoch 57: batch loss = 206.9038848876953, gen_loss=206.8671875, latent_loss=0.0366903692483902, valid_loss=218.46128473526392
+2019-10-06 13:15:20,877 [INFO]: epoch 58: batch loss = 219.89659118652344, gen_loss=219.82650756835938, latent_loss=0.07008924335241318, valid_loss=218.31108973576465
+2019-10-06 13:15:53,776 [INFO]: epoch 59: batch loss = 224.7822723388672, gen_loss=224.74681091308594, latent_loss=0.035465821623802185, valid_loss=217.9485761202299
+2019-10-06 13:16:26,445 [INFO]: epoch 60: batch loss = 202.63644409179688, gen_loss=202.62997436523438, latent_loss=0.006462275981903076, valid_loss=217.90826220390113
+2019-10-06 13:16:59,233 [INFO]: epoch 61: batch loss = 217.22970581054688, gen_loss=217.21900939941406, latent_loss=0.01069137454032898, valid_loss=218.08006325746194
+2019-10-06 13:17:31,779 [INFO]: epoch 62: batch loss = 190.8980255126953, gen_loss=190.8927001953125, latent_loss=0.005327969789505005, valid_loss=218.03031530135712
+2019-10-06 13:18:05,014 [INFO]: epoch 63: batch loss = 249.96383666992188, gen_loss=249.93634033203125, latent_loss=0.02750074863433838, valid_loss=218.12277299929895
+2019-10-06 13:18:37,536 [INFO]: epoch 64: batch loss = 204.7602996826172, gen_loss=204.7549285888672, latent_loss=0.005373835563659668, valid_loss=218.08233486077725
+2019-10-06 13:19:10,003 [INFO]: epoch 65: batch loss = 213.91949462890625, gen_loss=213.89793395996094, latent_loss=0.02155470848083496, valid_loss=217.97725384051998
+2019-10-06 13:19:43,018 [INFO]: epoch 66: batch loss = 221.26870727539062, gen_loss=221.23292541503906, latent_loss=0.03578943759202957, valid_loss=218.0052384596604
+2019-10-06 13:20:15,548 [INFO]: epoch 67: batch loss = 229.43392944335938, gen_loss=229.3946533203125, latent_loss=0.03926898166537285, valid_loss=218.149761689015
+2019-10-06 13:20:49,164 [INFO]: epoch 68: batch loss = 210.8688507080078, gen_loss=210.84335327148438, latent_loss=0.02550339698791504, valid_loss=218.11115890894183
+2019-10-06 13:21:21,895 [INFO]: epoch 69: batch loss = 231.78250122070312, gen_loss=231.7628936767578, latent_loss=0.019605781883001328, valid_loss=218.1583721454326
+2019-10-06 13:21:54,906 [INFO]: epoch 70: batch loss = 213.22068786621094, gen_loss=213.18270874023438, latent_loss=0.037982821464538574, valid_loss=217.81780790671323
+2019-10-06 13:22:27,451 [INFO]: epoch 71: batch loss = 229.21054077148438, gen_loss=229.1977081298828, latent_loss=0.012825071811676025, valid_loss=218.01084684714286
+2019-10-06 13:23:00,155 [INFO]: epoch 72: batch loss = 227.26712036132812, gen_loss=227.255126953125, latent_loss=0.012000739574432373, valid_loss=218.18579277625457
+2019-10-06 13:23:32,680 [INFO]: epoch 73: batch loss = 224.39993286132812, gen_loss=224.35491943359375, latent_loss=0.045016635209321976, valid_loss=218.05185347336987
+2019-10-06 13:24:05,864 [INFO]: epoch 74: batch loss = 231.2235870361328, gen_loss=231.1830596923828, latent_loss=0.040524840354919434, valid_loss=218.0555672278772
+2019-10-06 13:24:38,323 [INFO]: epoch 75: batch loss = 218.50750732421875, gen_loss=218.47430419921875, latent_loss=0.03320656716823578, valid_loss=217.896611727201
+2019-10-06 13:25:10,805 [INFO]: epoch 76: batch loss = 206.9466094970703, gen_loss=206.9282684326172, latent_loss=0.01833367347717285, valid_loss=217.94612395457733
+2019-10-06 13:25:43,810 [INFO]: epoch 77: batch loss = 231.7394256591797, gen_loss=231.6977996826172, latent_loss=0.041628360748291016, valid_loss=218.13246800349302
+2019-10-06 13:26:16,309 [INFO]: epoch 78: batch loss = 224.61459350585938, gen_loss=224.56570434570312, latent_loss=0.04888356849551201, valid_loss=217.83329283885462
+2019-10-06 13:26:49,740 [INFO]: epoch 79: batch loss = 218.2801971435547, gen_loss=218.25543212890625, latent_loss=0.024767696857452393, valid_loss=218.06123019487424
+2019-10-06 13:27:22,154 [INFO]: epoch 80: batch loss = 198.1931610107422, gen_loss=198.14662170410156, latent_loss=0.04654623195528984, valid_loss=218.35954402043274
+2019-10-06 13:27:55,024 [INFO]: epoch 81: batch loss = 211.7791748046875, gen_loss=211.76654052734375, latent_loss=0.012634187936782837, valid_loss=218.0268791394356
+2019-10-06 13:28:27,652 [INFO]: epoch 82: batch loss = 201.26296997070312, gen_loss=201.22625732421875, latent_loss=0.03670793026685715, valid_loss=218.22003721579532
+2019-10-06 13:29:00,478 [INFO]: epoch 83: batch loss = 230.13572692871094, gen_loss=230.10348510742188, latent_loss=0.032243624329566956, valid_loss=218.04898403852405
+2019-10-06 13:29:32,987 [INFO]: epoch 84: batch loss = 224.6252899169922, gen_loss=224.568115234375, latent_loss=0.0571821928024292, valid_loss=218.07383669339694
+2019-10-06 13:30:06,140 [INFO]: epoch 85: batch loss = 219.50108337402344, gen_loss=219.45614624023438, latent_loss=0.04493255913257599, valid_loss=218.27947548108227
+2019-10-06 13:30:38,500 [INFO]: epoch 86: batch loss = 199.45388793945312, gen_loss=199.4169921875, latent_loss=0.036892905831336975, valid_loss=218.03377885084893
+2019-10-06 13:31:10,934 [INFO]: epoch 87: batch loss = 202.96621704101562, gen_loss=202.93490600585938, latent_loss=0.03131605684757233, valid_loss=218.11362105149502
+2019-10-06 13:31:44,061 [INFO]: epoch 88: batch loss = 219.6312713623047, gen_loss=219.5955352783203, latent_loss=0.035736083984375, valid_loss=218.1102797679412
+2019-10-06 13:32:16,516 [INFO]: epoch 89: batch loss = 205.165771484375, gen_loss=205.14773559570312, latent_loss=0.01804351806640625, valid_loss=218.14079519418567
+2019-10-06 13:32:49,330 [INFO]: epoch 90: batch loss = 203.40220642089844, gen_loss=203.3748321533203, latent_loss=0.027370553463697433, valid_loss=218.0079670441457
+2019-10-06 13:33:21,753 [INFO]: epoch 91: batch loss = 222.30218505859375, gen_loss=222.25125122070312, latent_loss=0.05093802139163017, valid_loss=218.16925166203433
+2019-10-06 13:33:54,457 [INFO]: epoch 92: batch loss = 221.09524536132812, gen_loss=221.08120727539062, latent_loss=0.014043211936950684, valid_loss=217.99809069511218
+2019-10-06 13:34:27,004 [INFO]: epoch 93: batch loss = 209.05203247070312, gen_loss=209.02255249023438, latent_loss=0.029483258724212646, valid_loss=217.92858280279685
+2019-10-06 13:34:59,798 [INFO]: epoch 94: batch loss = 219.1647186279297, gen_loss=219.15264892578125, latent_loss=0.012071430683135986, valid_loss=217.94006288968598
+2019-10-06 13:35:32,273 [INFO]: epoch 95: batch loss = 232.6446533203125, gen_loss=232.61288452148438, latent_loss=0.03176826238632202, valid_loss=218.0458278166942
+2019-10-06 13:36:05,388 [INFO]: epoch 96: batch loss = 189.23744201660156, gen_loss=189.16000366210938, latent_loss=0.07743526250123978, valid_loss=217.8886094704653
+2019-10-06 13:36:37,742 [INFO]: epoch 97: batch loss = 216.5843048095703, gen_loss=216.54443359375, latent_loss=0.039871107786893845, valid_loss=217.96464284261063
+2019-10-06 13:37:10,245 [INFO]: epoch 98: batch loss = 209.8097381591797, gen_loss=209.7704620361328, latent_loss=0.03926987200975418, valid_loss=218.05228463197355
+2019-10-06 13:37:43,053 [INFO]: epoch 99: batch loss = 229.1938018798828, gen_loss=229.17300415039062, latent_loss=0.020803235471248627, valid_loss=217.86461482903903
+2019-10-06 13:37:43,641 [INFO]: Weights saved at model/pretrain
+2019-10-07 10:00:29,293 [INFO]: loading data
+2019-10-07 10:00:36,112 [INFO]: initializing sdae model
+2019-10-07 10:00:36,113 [INFO]: fitting data starts...
+2019-10-07 10:00:36,113 [INFO]: Layer 1
+2019-10-07 10:00:36,124 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 10:00:36,148 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-07 10:00:45,203 [INFO]: epoch 0: batch loss = 177.225341796875
+2019-10-07 10:00:53,890 [INFO]: epoch 1: batch loss = 142.1688232421875
+2019-10-07 10:01:02,596 [INFO]: epoch 2: batch loss = 135.80113220214844
+2019-10-07 10:01:11,293 [INFO]: epoch 3: batch loss = 122.22373962402344
+2019-10-07 10:01:19,988 [INFO]: epoch 4: batch loss = 138.16920471191406
+2019-10-07 10:01:28,657 [INFO]: epoch 5: batch loss = 131.26235961914062
+2019-10-07 10:01:37,343 [INFO]: epoch 6: batch loss = 114.88665008544922
+2019-10-07 10:01:46,033 [INFO]: epoch 7: batch loss = 108.14604187011719
+2019-10-07 10:01:54,708 [INFO]: epoch 8: batch loss = 118.27239227294922
+2019-10-07 10:02:03,417 [INFO]: epoch 9: batch loss = 107.74467468261719
+2019-10-07 10:02:12,113 [INFO]: epoch 10: batch loss = 105.47551727294922
+2019-10-07 10:02:20,785 [INFO]: epoch 11: batch loss = 110.35191345214844
+2019-10-07 10:02:29,464 [INFO]: epoch 12: batch loss = 99.80638122558594
+2019-10-07 10:02:38,119 [INFO]: epoch 13: batch loss = 101.28587341308594
+2019-10-07 10:02:46,788 [INFO]: epoch 14: batch loss = 101.72996520996094
+2019-10-07 10:02:55,454 [INFO]: epoch 15: batch loss = 99.78323364257812
+2019-10-07 10:04:02,174 [INFO]: loading data
+2019-10-07 10:04:16,934 [INFO]: loading data
+2019-10-07 10:04:51,296 [INFO]: initializing sdae model
+2019-10-07 10:04:51,296 [INFO]: fitting data starts...
+2019-10-07 10:04:51,296 [INFO]: Layer 1
+2019-10-07 10:04:51,309 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 10:04:51,333 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-07 10:05:01,218 [INFO]: epoch 0: batch loss = 222.33782958984375
+2019-10-07 10:05:10,110 [INFO]: epoch 1: batch loss = 208.00537109375
+2019-10-07 10:05:18,793 [INFO]: epoch 2: batch loss = 202.9085235595703
+2019-10-07 10:05:27,476 [INFO]: epoch 3: batch loss = 220.87786865234375
+2019-10-07 10:05:36,240 [INFO]: epoch 4: batch loss = 199.96510314941406
+2019-10-07 10:05:44,941 [INFO]: epoch 5: batch loss = 188.1337127685547
+2019-10-07 10:05:53,634 [INFO]: epoch 6: batch loss = 203.16696166992188
+2019-10-07 10:06:02,333 [INFO]: epoch 7: batch loss = 208.48617553710938
+2019-10-07 10:06:11,040 [INFO]: epoch 8: batch loss = 208.1168212890625
+2019-10-07 10:06:19,759 [INFO]: epoch 9: batch loss = 203.9500732421875
+2019-10-07 10:06:28,461 [INFO]: epoch 10: batch loss = 207.12481689453125
+2019-10-07 10:06:37,160 [INFO]: epoch 11: batch loss = 212.02955627441406
+2019-10-07 10:06:45,870 [INFO]: epoch 12: batch loss = 204.14598083496094
+2019-10-07 10:06:54,567 [INFO]: epoch 13: batch loss = 206.35980224609375
+2019-10-07 10:07:03,260 [INFO]: epoch 14: batch loss = 222.8658447265625
+2019-10-07 10:07:11,997 [INFO]: epoch 15: batch loss = 224.0703887939453
+2019-10-07 10:07:20,705 [INFO]: epoch 16: batch loss = 202.6506805419922
+2019-10-07 10:07:29,396 [INFO]: epoch 17: batch loss = 200.37301635742188
+2019-10-07 10:07:38,091 [INFO]: epoch 18: batch loss = 214.1068115234375
+2019-10-07 10:07:46,800 [INFO]: epoch 19: batch loss = 188.8346710205078
+2019-10-07 10:07:55,510 [INFO]: epoch 20: batch loss = 207.21951293945312
+2019-10-07 10:08:04,239 [INFO]: epoch 21: batch loss = 197.0457000732422
+2019-10-07 10:08:12,947 [INFO]: epoch 22: batch loss = 214.3496856689453
+2019-10-07 10:08:21,646 [INFO]: epoch 23: batch loss = 195.5708770751953
+2019-10-07 10:08:30,346 [INFO]: epoch 24: batch loss = 211.91558837890625
+2019-10-07 10:08:39,066 [INFO]: epoch 25: batch loss = 199.20025634765625
+2019-10-07 10:08:47,752 [INFO]: epoch 26: batch loss = 204.81427001953125
+2019-10-07 10:08:56,473 [INFO]: epoch 27: batch loss = 220.86956787109375
+2019-10-07 10:09:05,183 [INFO]: epoch 28: batch loss = 220.39175415039062
+2019-10-07 10:09:13,898 [INFO]: epoch 29: batch loss = 207.48797607421875
+2019-10-07 10:09:22,613 [INFO]: epoch 30: batch loss = 218.9188232421875
+2019-10-07 10:09:31,341 [INFO]: epoch 31: batch loss = 219.2476348876953
+2019-10-07 10:09:40,057 [INFO]: epoch 32: batch loss = 204.9488525390625
+2019-10-07 10:09:48,769 [INFO]: epoch 33: batch loss = 210.02926635742188
+2019-10-07 10:09:57,505 [INFO]: epoch 34: batch loss = 216.396484375
+2019-10-07 10:10:06,201 [INFO]: epoch 35: batch loss = 219.0502471923828
+2019-10-07 10:10:14,878 [INFO]: epoch 36: batch loss = 222.28753662109375
+2019-10-07 10:10:23,555 [INFO]: epoch 37: batch loss = 212.69912719726562
+2019-10-07 10:10:32,239 [INFO]: epoch 38: batch loss = 204.22154235839844
+2019-10-07 10:10:40,922 [INFO]: epoch 39: batch loss = 183.70010375976562
+2019-10-07 10:10:49,600 [INFO]: epoch 40: batch loss = 192.87066650390625
+2019-10-07 10:10:58,268 [INFO]: epoch 41: batch loss = 208.98532104492188
+2019-10-07 10:11:06,960 [INFO]: epoch 42: batch loss = 209.26968383789062
+2019-10-07 10:11:15,638 [INFO]: epoch 43: batch loss = 205.35311889648438
+2019-10-07 10:11:24,311 [INFO]: epoch 44: batch loss = 212.25222778320312
+2019-10-07 10:11:32,996 [INFO]: epoch 45: batch loss = 215.34156799316406
+2019-10-07 10:11:41,698 [INFO]: epoch 46: batch loss = 216.06787109375
+2019-10-07 10:11:50,377 [INFO]: epoch 47: batch loss = 214.137939453125
+2019-10-07 10:11:59,064 [INFO]: epoch 48: batch loss = 217.60305786132812
+2019-10-07 10:12:07,745 [INFO]: epoch 49: batch loss = 217.22015380859375
+2019-10-07 10:12:08,305 [INFO]: Layer 2
+2019-10-07 10:12:09,406 [INFO]: epoch 0: batch loss = 0.003512473776936531
+2019-10-07 10:12:10,283 [INFO]: epoch 1: batch loss = 0.003214744385331869
+2019-10-07 10:12:11,158 [INFO]: epoch 2: batch loss = 0.0031339756678789854
+2019-10-07 10:12:12,049 [INFO]: epoch 3: batch loss = 0.003037058049812913
+2019-10-07 10:12:12,939 [INFO]: epoch 4: batch loss = 0.0029202918522059917
+2019-10-07 10:12:13,836 [INFO]: epoch 5: batch loss = 0.002768889768049121
+2019-10-07 10:12:14,735 [INFO]: epoch 6: batch loss = 0.0026269706431776285
+2019-10-07 10:12:15,617 [INFO]: epoch 7: batch loss = 0.0024991778191179037
+2019-10-07 10:12:16,501 [INFO]: epoch 8: batch loss = 0.0023794895969331264
+2019-10-07 10:12:17,390 [INFO]: epoch 9: batch loss = 0.0022627830039709806
+2019-10-07 10:12:18,277 [INFO]: epoch 10: batch loss = 0.002152096014469862
+2019-10-07 10:12:19,171 [INFO]: epoch 11: batch loss = 0.00204599741846323
+2019-10-07 10:12:20,072 [INFO]: epoch 12: batch loss = 0.0019437744049355388
+2019-10-07 10:12:20,962 [INFO]: epoch 13: batch loss = 0.001846737926825881
+2019-10-07 10:12:21,859 [INFO]: epoch 14: batch loss = 0.0017552442150190473
+2019-10-07 10:12:22,742 [INFO]: epoch 15: batch loss = 0.0016706037567928433
+2019-10-07 10:12:23,624 [INFO]: epoch 16: batch loss = 0.0015874544624239206
+2019-10-07 10:12:24,524 [INFO]: epoch 17: batch loss = 0.0015108623774722219
+2019-10-07 10:12:25,417 [INFO]: epoch 18: batch loss = 0.0014367735711857677
+2019-10-07 10:12:26,356 [INFO]: epoch 19: batch loss = 0.0013683474389836192
+2019-10-07 10:12:27,259 [INFO]: epoch 20: batch loss = 0.0013037953758612275
+2019-10-07 10:12:28,156 [INFO]: epoch 21: batch loss = 0.0012426998000591993
+2019-10-07 10:12:29,054 [INFO]: epoch 22: batch loss = 0.0011852406896650791
+2019-10-07 10:12:29,947 [INFO]: epoch 23: batch loss = 0.001131357392296195
+2019-10-07 10:12:30,869 [INFO]: epoch 24: batch loss = 0.0010791437234729528
+2019-10-07 10:12:31,781 [INFO]: epoch 25: batch loss = 0.0010313409147784114
+2019-10-07 10:12:32,682 [INFO]: epoch 26: batch loss = 0.0009846704779192805
+2019-10-07 10:12:33,587 [INFO]: epoch 27: batch loss = 0.0009404434822499752
+2019-10-07 10:12:34,479 [INFO]: epoch 28: batch loss = 0.0009000911377370358
+2019-10-07 10:12:35,372 [INFO]: epoch 29: batch loss = 0.0008615268743596971
+2019-10-07 10:12:36,274 [INFO]: epoch 30: batch loss = 0.0008239155868068337
+2019-10-07 10:12:37,194 [INFO]: epoch 31: batch loss = 0.0007901196950115263
+2019-10-07 10:12:38,155 [INFO]: epoch 32: batch loss = 0.0007573371403850615
+2019-10-07 10:12:39,081 [INFO]: epoch 33: batch loss = 0.0007257467368617654
+2019-10-07 10:12:39,982 [INFO]: epoch 34: batch loss = 0.0006963019841350615
+2019-10-07 10:12:40,903 [INFO]: epoch 35: batch loss = 0.0006673341267742217
+2019-10-07 10:12:41,816 [INFO]: epoch 36: batch loss = 0.0006420018034987152
+2019-10-07 10:12:42,756 [INFO]: epoch 37: batch loss = 0.0006154777365736663
+2019-10-07 10:12:43,726 [INFO]: epoch 38: batch loss = 0.0005914570647291839
+2019-10-07 10:12:44,640 [INFO]: epoch 39: batch loss = 0.0005684496718458831
+2019-10-07 10:12:45,553 [INFO]: epoch 40: batch loss = 0.0005456806975416839
+2019-10-07 10:12:46,530 [INFO]: epoch 41: batch loss = 0.0005254747229628265
+2019-10-07 10:12:47,432 [INFO]: epoch 42: batch loss = 0.0005043150740675628
+2019-10-07 10:12:48,338 [INFO]: epoch 43: batch loss = 0.0004851818666793406
+2019-10-07 10:12:49,265 [INFO]: epoch 44: batch loss = 0.00046712165931239724
+2019-10-07 10:12:50,215 [INFO]: epoch 45: batch loss = 0.00044935947516933084
+2019-10-07 10:12:51,159 [INFO]: epoch 46: batch loss = 0.0004330278025008738
+2019-10-07 10:12:52,088 [INFO]: epoch 47: batch loss = 0.0004159808740951121
+2019-10-07 10:12:53,028 [INFO]: epoch 48: batch loss = 0.00040251019527204335
+2019-10-07 10:12:53,964 [INFO]: epoch 49: batch loss = 0.00038725140620954335
+2019-10-07 10:12:55,235 [INFO]: epoch 0: batch loss = 9.357414245605469, gen_loss=3.3228681087493896, latent_loss=6.0345458984375
+2019-10-07 10:12:55,347 [INFO]: epoch 1: batch loss = 6.777763843536377, gen_loss=1.5232305526733398, latent_loss=5.254533290863037
+2019-10-07 10:12:55,457 [INFO]: epoch 2: batch loss = 6.271915435791016, gen_loss=1.846548318862915, latent_loss=4.42536735534668
+2019-10-07 10:12:55,562 [INFO]: epoch 3: batch loss = 5.218868255615234, gen_loss=1.8012378215789795, latent_loss=3.417630672454834
+2019-10-07 10:12:55,660 [INFO]: epoch 4: batch loss = 7.604142189025879, gen_loss=5.08929443359375, latent_loss=2.51484751701355
+2019-10-07 10:12:55,906 [INFO]: epoch 5: batch loss = 5.355891227722168, gen_loss=3.1313326358795166, latent_loss=2.2245585918426514
+2019-10-07 10:12:56,015 [INFO]: epoch 6: batch loss = 23.96392822265625, gen_loss=0.020915621891617775, latent_loss=23.943012237548828
+2019-10-07 10:12:56,107 [INFO]: epoch 7: batch loss = 4.560276031494141, gen_loss=1.179821491241455, latent_loss=3.3804547786712646
+2019-10-07 10:12:56,200 [INFO]: epoch 8: batch loss = 3.7051713466644287, gen_loss=0.7754383683204651, latent_loss=2.9297330379486084
+2019-10-07 10:12:56,291 [INFO]: epoch 9: batch loss = 3.526486396789551, gen_loss=1.0722787380218506, latent_loss=2.4542076587677
+2019-10-07 10:12:56,383 [INFO]: epoch 10: batch loss = 3.5255143642425537, gen_loss=0.8758158683776855, latent_loss=2.649698495864868
+2019-10-07 10:12:56,474 [INFO]: epoch 11: batch loss = 3.153257369995117, gen_loss=0.6403127908706665, latent_loss=2.5129446983337402
+2019-10-07 10:12:56,566 [INFO]: epoch 12: batch loss = 3.4032158851623535, gen_loss=0.5873282551765442, latent_loss=2.815887689590454
+2019-10-07 10:12:56,658 [INFO]: epoch 13: batch loss = 3.7049217224121094, gen_loss=1.2643134593963623, latent_loss=2.440608263015747
+2019-10-07 10:12:56,749 [INFO]: epoch 14: batch loss = 3.2363839149475098, gen_loss=1.1942851543426514, latent_loss=2.0420987606048584
+2019-10-07 10:12:56,839 [INFO]: epoch 15: batch loss = 2.8517117500305176, gen_loss=0.3532758951187134, latent_loss=2.4984357357025146
+2019-10-07 10:12:56,929 [INFO]: epoch 16: batch loss = 2.7715306282043457, gen_loss=0.5484777688980103, latent_loss=2.223052978515625
+2019-10-07 10:12:57,020 [INFO]: epoch 17: batch loss = 2.865705728530884, gen_loss=0.7591273784637451, latent_loss=2.1065783500671387
+2019-10-07 10:12:57,112 [INFO]: epoch 18: batch loss = 2.771221876144409, gen_loss=0.48385217785835266, latent_loss=2.287369728088379
+2019-10-07 10:12:57,220 [INFO]: epoch 19: batch loss = 3.0157337188720703, gen_loss=0.8405045866966248, latent_loss=2.175229072570801
+2019-10-07 10:12:57,313 [INFO]: epoch 20: batch loss = 2.6136722564697266, gen_loss=1.0648484230041504, latent_loss=1.5488239526748657
+2019-10-07 10:12:57,410 [INFO]: epoch 21: batch loss = 2.9687204360961914, gen_loss=1.1809700727462769, latent_loss=1.7877503633499146
+2019-10-07 10:12:57,507 [INFO]: epoch 22: batch loss = 2.8205952644348145, gen_loss=0.40833818912506104, latent_loss=2.412257194519043
+2019-10-07 10:12:57,606 [INFO]: epoch 23: batch loss = 2.505553960800171, gen_loss=0.45006924867630005, latent_loss=2.0554847717285156
+2019-10-07 10:12:57,696 [INFO]: epoch 24: batch loss = 2.725485324859619, gen_loss=0.8659805059432983, latent_loss=1.8595048189163208
+2019-10-07 10:12:57,794 [INFO]: epoch 25: batch loss = 2.042447805404663, gen_loss=0.34031111001968384, latent_loss=1.702136754989624
+2019-10-07 10:12:57,884 [INFO]: epoch 26: batch loss = 2.214949369430542, gen_loss=0.6900890469551086, latent_loss=1.5248602628707886
+2019-10-07 10:12:57,981 [INFO]: epoch 27: batch loss = 2.2482376098632812, gen_loss=0.3437958061695099, latent_loss=1.9044418334960938
+2019-10-07 10:12:58,090 [INFO]: epoch 28: batch loss = 2.0832931995391846, gen_loss=0.38372084498405457, latent_loss=1.6995724439620972
+2019-10-07 10:12:58,181 [INFO]: epoch 29: batch loss = 1.8021018505096436, gen_loss=0.5665133595466614, latent_loss=1.2355884313583374
+2019-10-07 10:12:58,277 [INFO]: epoch 30: batch loss = 1.819576621055603, gen_loss=0.46027278900146484, latent_loss=1.3593038320541382
+2019-10-07 10:12:58,368 [INFO]: epoch 31: batch loss = 2.2172436714172363, gen_loss=0.11850117146968842, latent_loss=2.0987424850463867
+2019-10-07 10:12:58,458 [INFO]: epoch 32: batch loss = 2.390467643737793, gen_loss=1.2807326316833496, latent_loss=1.1097348928451538
+2019-10-07 10:12:58,547 [INFO]: epoch 33: batch loss = 1.646589756011963, gen_loss=0.4655992388725281, latent_loss=1.1809905767440796
+2019-10-07 10:12:58,638 [INFO]: epoch 34: batch loss = 1.8634047508239746, gen_loss=0.37283754348754883, latent_loss=1.4905672073364258
+2019-10-07 10:12:58,727 [INFO]: epoch 35: batch loss = 1.3350908756256104, gen_loss=0.19569091498851776, latent_loss=1.1394000053405762
+2019-10-07 10:12:58,818 [INFO]: epoch 36: batch loss = 1.9444996118545532, gen_loss=0.5310051441192627, latent_loss=1.4134944677352905
+2019-10-07 10:12:58,907 [INFO]: epoch 37: batch loss = 1.5957306623458862, gen_loss=0.24961306154727936, latent_loss=1.346117615699768
+2019-10-07 10:12:59,002 [INFO]: epoch 38: batch loss = 1.2716000080108643, gen_loss=0.4031308889389038, latent_loss=0.8684691190719604
+2019-10-07 10:12:59,110 [INFO]: epoch 39: batch loss = 1.3647860288619995, gen_loss=0.6808851957321167, latent_loss=0.6839008331298828
+2019-10-07 10:12:59,202 [INFO]: epoch 40: batch loss = 1.309898853302002, gen_loss=0.5740893483161926, latent_loss=0.7358095049858093
+2019-10-07 10:12:59,299 [INFO]: epoch 41: batch loss = 1.1313929557800293, gen_loss=0.44700121879577637, latent_loss=0.6843916773796082
+2019-10-07 10:12:59,396 [INFO]: epoch 42: batch loss = 1.101386547088623, gen_loss=0.49748003482818604, latent_loss=0.6039065718650818
+2019-10-07 10:12:59,492 [INFO]: epoch 43: batch loss = 0.9599955677986145, gen_loss=0.46703487634658813, latent_loss=0.49296069145202637
+2019-10-07 10:12:59,590 [INFO]: epoch 44: batch loss = 0.9701228737831116, gen_loss=0.2903895378112793, latent_loss=0.6797333359718323
+2019-10-07 10:12:59,684 [INFO]: epoch 45: batch loss = 0.9671202898025513, gen_loss=0.534614622592926, latent_loss=0.43250563740730286
+2019-10-07 10:12:59,782 [INFO]: epoch 46: batch loss = 0.8497002124786377, gen_loss=0.277678906917572, latent_loss=0.5720213055610657
+2019-10-07 10:12:59,877 [INFO]: epoch 47: batch loss = 0.9229238033294678, gen_loss=0.5258119702339172, latent_loss=0.3971118628978729
+2019-10-07 10:12:59,971 [INFO]: epoch 48: batch loss = 0.7863301634788513, gen_loss=0.3248547613620758, latent_loss=0.4614754021167755
+2019-10-07 10:13:00,081 [INFO]: epoch 49: batch loss = 0.6799203157424927, gen_loss=0.3421098589897156, latent_loss=0.3378104269504547
+2019-10-07 10:13:07,319 [INFO]: epoch 0: batch loss = 200.56307983398438, gen_loss=200.47201538085938, latent_loss=0.09105727821588516, valid_loss=218.83761596679688
+2019-10-07 10:13:12,773 [INFO]: epoch 1: batch loss = 223.39401245117188, gen_loss=223.38809204101562, latent_loss=0.005922912620007992, valid_loss=217.92337036132812
+2019-10-07 10:13:18,204 [INFO]: epoch 2: batch loss = 235.67584228515625, gen_loss=235.66592407226562, latent_loss=0.009924113750457764, valid_loss=217.92186443622296
+2019-10-07 10:13:23,576 [INFO]: epoch 3: batch loss = 226.7919464111328, gen_loss=226.75094604492188, latent_loss=0.04100000858306885, valid_loss=218.14609703650845
+2019-10-07 10:13:28,968 [INFO]: epoch 4: batch loss = 227.25753784179688, gen_loss=227.2574462890625, latent_loss=9.396672248840332e-05, valid_loss=217.90370647723856
+2019-10-07 10:13:34,411 [INFO]: epoch 5: batch loss = 225.67469787597656, gen_loss=225.6746826171875, latent_loss=1.6775447875261307e-05, valid_loss=218.15973252516525
+2019-10-07 15:05:14,773 [INFO]: loading data
+2019-10-07 15:07:39,141 [INFO]: loading data
+2019-10-07 15:10:04,904 [INFO]: loading data
+2019-10-07 15:11:07,794 [INFO]: loading data
+2019-10-07 15:28:39,119 [INFO]: loading data
+2019-10-07 15:29:13,493 [INFO]: initializing sdae model
+2019-10-07 15:29:13,493 [INFO]: fitting data starts...
+2019-10-07 15:29:13,493 [INFO]: Layer 1
+2019-10-07 15:29:13,505 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 15:29:13,530 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-07 15:29:23,562 [INFO]: epoch 0: batch loss = 37.999542236328125
+2019-10-07 15:29:33,154 [INFO]: epoch 1: batch loss = 35.30342483520508
+2019-10-07 15:29:42,715 [INFO]: epoch 2: batch loss = 38.043678283691406
+2019-10-07 15:29:52,140 [INFO]: epoch 3: batch loss = 36.57492446899414
+2019-10-07 15:30:01,779 [INFO]: epoch 4: batch loss = 38.098793029785156
+2019-10-07 15:30:11,275 [INFO]: epoch 5: batch loss = 38.41901397705078
+2019-10-07 15:30:21,334 [INFO]: epoch 6: batch loss = 39.16716003417969
+2019-10-07 15:30:30,964 [INFO]: epoch 7: batch loss = 36.60968017578125
+2019-10-07 15:30:40,461 [INFO]: epoch 8: batch loss = 37.659664154052734
+2019-10-07 15:30:50,041 [INFO]: epoch 9: batch loss = 36.94037628173828
+2019-10-07 15:30:59,545 [INFO]: epoch 10: batch loss = 38.5922737121582
+2019-10-07 15:31:09,215 [INFO]: epoch 11: batch loss = 39.197532653808594
+2019-10-07 15:31:19,078 [INFO]: epoch 12: batch loss = 38.359771728515625
+2019-10-07 15:31:28,747 [INFO]: epoch 13: batch loss = 36.560367584228516
+2019-10-07 15:31:38,308 [INFO]: epoch 14: batch loss = 35.79347229003906
+2019-10-07 15:31:47,866 [INFO]: epoch 15: batch loss = 36.961734771728516
+2019-10-07 15:31:57,427 [INFO]: epoch 16: batch loss = 35.23771667480469
+2019-10-07 15:32:06,970 [INFO]: epoch 17: batch loss = 35.079132080078125
+2019-10-07 15:32:16,481 [INFO]: epoch 18: batch loss = 35.993141174316406
+2019-10-07 15:32:25,947 [INFO]: epoch 19: batch loss = 37.92186737060547
+2019-10-07 15:32:35,497 [INFO]: epoch 20: batch loss = 35.00444030761719
+2019-10-07 15:32:45,199 [INFO]: epoch 21: batch loss = 35.328948974609375
+2019-10-07 15:32:54,697 [INFO]: epoch 22: batch loss = 33.912086486816406
+2019-10-07 15:33:04,266 [INFO]: epoch 23: batch loss = 33.44908142089844
+2019-10-07 15:33:13,921 [INFO]: epoch 24: batch loss = 36.179691314697266
+2019-10-07 15:33:23,418 [INFO]: epoch 25: batch loss = 33.86583709716797
+2019-10-07 15:33:32,919 [INFO]: epoch 26: batch loss = 34.089202880859375
+2019-10-07 15:33:42,378 [INFO]: epoch 27: batch loss = 33.32276916503906
+2019-10-07 15:33:51,879 [INFO]: epoch 28: batch loss = 35.503028869628906
+2019-10-07 15:34:01,414 [INFO]: epoch 29: batch loss = 32.40030288696289
+2019-10-07 15:52:48,374 [INFO]: loading data
+2019-10-07 15:53:22,149 [INFO]: initializing sdae model
+2019-10-07 15:53:22,150 [INFO]: fitting data starts...
+2019-10-07 15:53:22,150 [INFO]: Layer 1
+2019-10-07 15:53:22,161 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 15:53:22,187 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-07 15:53:32,113 [INFO]: epoch 0: batch loss = 38.00604248046875
+2019-10-07 15:53:41,613 [INFO]: epoch 1: batch loss = 35.30220031738281
+2019-10-07 15:53:51,078 [INFO]: epoch 2: batch loss = 38.0471305847168
+2019-10-07 15:54:00,576 [INFO]: epoch 3: batch loss = 36.574283599853516
+2019-10-07 15:54:10,030 [INFO]: epoch 4: batch loss = 38.10187530517578
+2019-10-07 15:54:19,496 [INFO]: epoch 5: batch loss = 38.418853759765625
+2019-10-07 15:54:28,984 [INFO]: epoch 6: batch loss = 39.17039489746094
+2019-10-07 15:54:38,443 [INFO]: epoch 7: batch loss = 36.610809326171875
+2019-10-07 15:54:47,883 [INFO]: epoch 8: batch loss = 37.65782165527344
+2019-10-07 15:54:57,360 [INFO]: epoch 9: batch loss = 36.93937683105469
+2019-10-07 15:55:06,831 [INFO]: epoch 10: batch loss = 38.59711456298828
+2019-10-07 15:55:16,310 [INFO]: epoch 11: batch loss = 39.20001983642578
+2019-10-07 15:55:25,992 [INFO]: epoch 12: batch loss = 38.34984588623047
+2019-10-07 15:55:35,463 [INFO]: epoch 13: batch loss = 36.55946350097656
+2019-10-07 15:55:44,939 [INFO]: epoch 14: batch loss = 35.77186965942383
+2019-10-07 15:55:54,827 [INFO]: epoch 15: batch loss = 36.9581298828125
+2019-10-07 15:56:04,793 [INFO]: epoch 16: batch loss = 35.224609375
+2019-10-07 15:56:14,301 [INFO]: epoch 17: batch loss = 35.08500289916992
+2019-10-07 15:56:23,931 [INFO]: epoch 18: batch loss = 35.999263763427734
+2019-10-07 15:56:33,805 [INFO]: epoch 19: batch loss = 37.915931701660156
+2019-10-07 15:56:44,074 [INFO]: epoch 20: batch loss = 34.99919128417969
+2019-10-07 15:56:53,775 [INFO]: epoch 21: batch loss = 35.30042266845703
+2019-10-07 15:57:03,668 [INFO]: epoch 22: batch loss = 33.87079620361328
+2019-10-07 15:57:13,521 [INFO]: epoch 23: batch loss = 33.487918853759766
+2019-10-07 15:57:23,067 [INFO]: epoch 24: batch loss = 36.1524772644043
+2019-10-07 15:57:32,613 [INFO]: epoch 25: batch loss = 33.861080169677734
+2019-10-07 15:57:42,205 [INFO]: epoch 26: batch loss = 34.08759689331055
+2019-10-07 15:57:51,878 [INFO]: epoch 27: batch loss = 33.25011444091797
+2019-10-07 15:58:01,487 [INFO]: epoch 28: batch loss = 35.380889892578125
+2019-10-07 15:58:11,005 [INFO]: epoch 29: batch loss = 32.41675567626953
+2019-10-07 15:58:20,698 [INFO]: epoch 30: batch loss = 30.03390884399414
+2019-10-07 15:58:30,305 [INFO]: epoch 31: batch loss = 33.572364807128906
+2019-10-07 15:58:40,146 [INFO]: epoch 32: batch loss = 30.680805206298828
+2019-10-07 15:58:49,963 [INFO]: epoch 33: batch loss = 29.427078247070312
+2019-10-07 15:58:59,778 [INFO]: epoch 34: batch loss = 32.069580078125
+2019-10-07 15:59:09,487 [INFO]: epoch 35: batch loss = 32.134464263916016
+2019-10-07 15:59:19,206 [INFO]: epoch 36: batch loss = 30.625789642333984
+2019-10-07 15:59:28,767 [INFO]: epoch 37: batch loss = 30.068561553955078
+2019-10-07 15:59:38,294 [INFO]: epoch 38: batch loss = 30.32693099975586
+2019-10-07 15:59:47,839 [INFO]: epoch 39: batch loss = 28.130348205566406
+2019-10-07 15:59:57,537 [INFO]: epoch 40: batch loss = 32.51485061645508
+2019-10-07 16:00:07,461 [INFO]: epoch 41: batch loss = 31.752349853515625
+2019-10-07 16:00:17,283 [INFO]: epoch 42: batch loss = 30.230539321899414
+2019-10-07 16:00:26,830 [INFO]: epoch 43: batch loss = 28.13204574584961
+2019-10-07 16:00:36,744 [INFO]: epoch 44: batch loss = 27.481731414794922
+2019-10-07 16:00:46,546 [INFO]: epoch 45: batch loss = 28.308231353759766
+2019-10-07 16:00:56,080 [INFO]: epoch 46: batch loss = 26.682353973388672
+2019-10-07 16:01:05,618 [INFO]: epoch 47: batch loss = 29.508777618408203
+2019-10-07 16:01:15,155 [INFO]: epoch 48: batch loss = 27.57487678527832
+2019-10-07 16:01:24,671 [INFO]: epoch 49: batch loss = 25.674602508544922
+2019-10-07 16:01:25,218 [INFO]: Layer 2
+2019-10-07 16:01:26,359 [INFO]: epoch 0: batch loss = 129.49453735351562
+2019-10-07 16:01:27,305 [INFO]: epoch 1: batch loss = 127.65864562988281
+2019-10-07 16:01:28,250 [INFO]: epoch 2: batch loss = 128.86630249023438
+2019-10-07 16:01:29,198 [INFO]: epoch 3: batch loss = 129.57421875
+2019-10-07 16:01:30,154 [INFO]: epoch 4: batch loss = 129.1117401123047
+2019-10-07 16:01:31,104 [INFO]: epoch 5: batch loss = 129.17945861816406
+2019-10-07 16:01:32,061 [INFO]: epoch 6: batch loss = 129.13467407226562
+2019-10-07 16:01:33,022 [INFO]: epoch 7: batch loss = 130.02066040039062
+2019-10-07 16:01:33,980 [INFO]: epoch 8: batch loss = 128.8304901123047
+2019-10-07 16:01:34,929 [INFO]: epoch 9: batch loss = 130.01295471191406
+2019-10-07 16:01:35,876 [INFO]: epoch 10: batch loss = 129.36685180664062
+2019-10-07 16:01:36,830 [INFO]: epoch 11: batch loss = 129.5130615234375
+2019-10-07 16:01:37,807 [INFO]: epoch 12: batch loss = 128.91818237304688
+2019-10-07 16:01:38,768 [INFO]: epoch 13: batch loss = 128.9980926513672
+2019-10-07 16:01:39,723 [INFO]: epoch 14: batch loss = 128.98507690429688
+2019-10-07 16:01:40,679 [INFO]: epoch 15: batch loss = 128.73654174804688
+2019-10-07 16:01:41,638 [INFO]: epoch 16: batch loss = 128.90435791015625
+2019-10-07 16:01:42,608 [INFO]: epoch 17: batch loss = 128.2489471435547
+2019-10-07 16:01:43,561 [INFO]: epoch 18: batch loss = 129.1885986328125
+2019-10-07 16:01:44,516 [INFO]: epoch 19: batch loss = 129.30816650390625
+2019-10-07 16:01:45,462 [INFO]: epoch 20: batch loss = 127.94454956054688
+2019-10-07 16:01:46,423 [INFO]: epoch 21: batch loss = 128.67694091796875
+2019-10-07 16:01:47,377 [INFO]: epoch 22: batch loss = 128.74896240234375
+2019-10-07 16:01:48,339 [INFO]: epoch 23: batch loss = 128.65029907226562
+2019-10-07 16:01:49,291 [INFO]: epoch 24: batch loss = 128.68283081054688
+2019-10-07 16:01:50,250 [INFO]: epoch 25: batch loss = 128.25997924804688
+2019-10-07 16:01:51,212 [INFO]: epoch 26: batch loss = 128.91033935546875
+2019-10-07 16:01:52,167 [INFO]: epoch 27: batch loss = 127.55017852783203
+2019-10-07 16:01:53,128 [INFO]: epoch 28: batch loss = 127.7244644165039
+2019-10-07 16:01:54,098 [INFO]: epoch 29: batch loss = 127.93165588378906
+2019-10-07 16:01:55,077 [INFO]: epoch 30: batch loss = 128.79486083984375
+2019-10-07 16:01:56,035 [INFO]: epoch 31: batch loss = 128.5096893310547
+2019-10-07 16:01:56,991 [INFO]: epoch 32: batch loss = 128.11895751953125
+2019-10-07 16:01:57,943 [INFO]: epoch 33: batch loss = 127.88214111328125
+2019-10-07 16:01:58,901 [INFO]: epoch 34: batch loss = 128.17056274414062
+2019-10-07 16:01:59,852 [INFO]: epoch 35: batch loss = 127.94007873535156
+2019-10-07 16:02:00,816 [INFO]: epoch 36: batch loss = 128.62477111816406
+2019-10-07 16:02:01,781 [INFO]: epoch 37: batch loss = 128.0305633544922
+2019-10-07 16:02:02,739 [INFO]: epoch 38: batch loss = 128.1517791748047
+2019-10-07 16:02:03,703 [INFO]: epoch 39: batch loss = 128.25694274902344
+2019-10-07 16:02:04,670 [INFO]: epoch 40: batch loss = 127.88017272949219
+2019-10-07 16:02:05,633 [INFO]: epoch 41: batch loss = 127.48977661132812
+2019-10-07 16:02:06,583 [INFO]: epoch 42: batch loss = 127.95677185058594
+2019-10-07 16:02:07,544 [INFO]: epoch 43: batch loss = 127.28583526611328
+2019-10-07 16:02:08,507 [INFO]: epoch 44: batch loss = 128.2136993408203
+2019-10-07 16:02:09,471 [INFO]: epoch 45: batch loss = 129.0056915283203
+2019-10-07 16:02:10,431 [INFO]: epoch 46: batch loss = 127.68028259277344
+2019-10-07 16:02:11,391 [INFO]: epoch 47: batch loss = 127.80561828613281
+2019-10-07 16:02:12,349 [INFO]: epoch 48: batch loss = 127.63774108886719
+2019-10-07 16:02:13,314 [INFO]: epoch 49: batch loss = 128.11349487304688
+2019-10-07 16:02:14,572 [INFO]: epoch 0: batch loss = 18.53726577758789, gen_loss=15.029683113098145, latent_loss=3.507582187652588
+2019-10-07 16:02:14,736 [INFO]: epoch 1: batch loss = 17.719390869140625, gen_loss=14.462858200073242, latent_loss=3.256533622741699
+2019-10-07 16:02:14,897 [INFO]: epoch 2: batch loss = 18.572906494140625, gen_loss=15.407657623291016, latent_loss=3.165248394012451
+2019-10-07 16:02:15,057 [INFO]: epoch 3: batch loss = 17.447437286376953, gen_loss=14.707988739013672, latent_loss=2.7394490242004395
+2019-10-07 16:02:15,211 [INFO]: epoch 4: batch loss = 16.0902042388916, gen_loss=13.666725158691406, latent_loss=2.4234793186187744
+2019-10-07 16:02:15,367 [INFO]: epoch 5: batch loss = 15.97646713256836, gen_loss=13.957107543945312, latent_loss=2.019359827041626
+2019-10-07 16:02:15,524 [INFO]: epoch 6: batch loss = 15.372395515441895, gen_loss=13.813871383666992, latent_loss=1.5585241317749023
+2019-10-07 16:02:15,680 [INFO]: epoch 7: batch loss = 13.75034236907959, gen_loss=12.519912719726562, latent_loss=1.230429768562317
+2019-10-07 16:02:15,837 [INFO]: epoch 8: batch loss = 13.2134370803833, gen_loss=12.038155555725098, latent_loss=1.1752815246582031
+2019-10-07 16:02:15,991 [INFO]: epoch 9: batch loss = 14.02051830291748, gen_loss=12.972077369689941, latent_loss=1.0484411716461182
+2019-10-07 16:02:16,148 [INFO]: epoch 10: batch loss = 13.835115432739258, gen_loss=12.763289451599121, latent_loss=1.0718257427215576
+2019-10-07 16:02:16,298 [INFO]: epoch 11: batch loss = 13.653865814208984, gen_loss=12.695802688598633, latent_loss=0.958063542842865
+2019-10-07 16:02:16,452 [INFO]: epoch 12: batch loss = 13.848231315612793, gen_loss=13.00454330444336, latent_loss=0.8436881303787231
+2019-10-07 16:02:16,604 [INFO]: epoch 13: batch loss = 13.05472183227539, gen_loss=12.279195785522461, latent_loss=0.7755255699157715
+2019-10-07 16:02:16,758 [INFO]: epoch 14: batch loss = 13.287830352783203, gen_loss=12.664278030395508, latent_loss=0.623552680015564
+2019-10-07 16:02:16,909 [INFO]: epoch 15: batch loss = 13.62621021270752, gen_loss=13.138938903808594, latent_loss=0.4872710704803467
+2019-10-07 16:02:17,059 [INFO]: epoch 16: batch loss = 12.355623245239258, gen_loss=11.983263969421387, latent_loss=0.3723595142364502
+2019-10-07 16:02:17,210 [INFO]: epoch 17: batch loss = 12.97369384765625, gen_loss=12.626230239868164, latent_loss=0.3474634289741516
+2019-10-07 16:02:17,363 [INFO]: epoch 18: batch loss = 12.745079040527344, gen_loss=12.354398727416992, latent_loss=0.39067983627319336
+2019-10-07 16:02:17,513 [INFO]: epoch 19: batch loss = 13.451480865478516, gen_loss=13.045404434204102, latent_loss=0.40607595443725586
+2019-10-07 16:02:17,666 [INFO]: epoch 20: batch loss = 12.705315589904785, gen_loss=12.327219009399414, latent_loss=0.378096342086792
+2019-10-07 16:02:17,815 [INFO]: epoch 21: batch loss = 13.459102630615234, gen_loss=12.970647811889648, latent_loss=0.48845455050468445
+2019-10-07 16:02:17,971 [INFO]: epoch 22: batch loss = 12.186341285705566, gen_loss=11.798757553100586, latent_loss=0.38758349418640137
+2019-10-07 16:02:18,124 [INFO]: epoch 23: batch loss = 13.516860008239746, gen_loss=12.98738956451416, latent_loss=0.5294705033302307
+2019-10-07 16:02:18,272 [INFO]: epoch 24: batch loss = 12.36679744720459, gen_loss=12.00589370727539, latent_loss=0.3609035611152649
+2019-10-07 16:02:18,426 [INFO]: epoch 25: batch loss = 12.97704029083252, gen_loss=12.539201736450195, latent_loss=0.4378387928009033
+2019-10-07 16:02:18,577 [INFO]: epoch 26: batch loss = 12.675495147705078, gen_loss=12.228996276855469, latent_loss=0.4464992880821228
+2019-10-07 16:02:18,728 [INFO]: epoch 27: batch loss = 12.741743087768555, gen_loss=12.289373397827148, latent_loss=0.4523693919181824
+2019-10-07 16:02:18,880 [INFO]: epoch 28: batch loss = 12.407990455627441, gen_loss=11.988813400268555, latent_loss=0.41917669773101807
+2019-10-07 16:02:19,030 [INFO]: epoch 29: batch loss = 13.451812744140625, gen_loss=12.877921104431152, latent_loss=0.5738921165466309
+2019-10-07 16:02:19,183 [INFO]: epoch 30: batch loss = 12.67037296295166, gen_loss=12.188518524169922, latent_loss=0.4818546772003174
+2019-10-07 16:02:19,334 [INFO]: epoch 31: batch loss = 13.357888221740723, gen_loss=12.78285026550293, latent_loss=0.5750383734703064
+2019-10-07 16:02:19,487 [INFO]: epoch 32: batch loss = 12.42180347442627, gen_loss=11.914745330810547, latent_loss=0.5070578455924988
+2019-10-07 16:02:19,638 [INFO]: epoch 33: batch loss = 12.713336944580078, gen_loss=12.227279663085938, latent_loss=0.48605766892433167
+2019-10-07 16:02:19,791 [INFO]: epoch 34: batch loss = 13.415166854858398, gen_loss=12.863391876220703, latent_loss=0.5517752170562744
+2019-10-07 16:02:19,944 [INFO]: epoch 35: batch loss = 11.807137489318848, gen_loss=11.365211486816406, latent_loss=0.4419263005256653
+2019-10-07 16:02:20,095 [INFO]: epoch 36: batch loss = 12.95691967010498, gen_loss=12.461637496948242, latent_loss=0.4952821731567383
+2019-10-07 16:02:20,250 [INFO]: epoch 37: batch loss = 11.940223693847656, gen_loss=11.48142147064209, latent_loss=0.45880192518234253
+2019-10-07 16:02:20,402 [INFO]: epoch 38: batch loss = 12.68075180053711, gen_loss=12.219523429870605, latent_loss=0.46122807264328003
+2019-10-07 16:02:20,553 [INFO]: epoch 39: batch loss = 13.00410270690918, gen_loss=12.506288528442383, latent_loss=0.4978145658969879
+2019-10-07 16:02:20,703 [INFO]: epoch 40: batch loss = 12.705946922302246, gen_loss=12.148432731628418, latent_loss=0.5575143098831177
+2019-10-07 16:02:20,854 [INFO]: epoch 41: batch loss = 12.32962417602539, gen_loss=11.788037300109863, latent_loss=0.5415873527526855
+2019-10-07 16:02:21,006 [INFO]: epoch 42: batch loss = 12.512612342834473, gen_loss=11.943694114685059, latent_loss=0.5689186453819275
+2019-10-07 16:02:21,154 [INFO]: epoch 43: batch loss = 12.660027503967285, gen_loss=12.101997375488281, latent_loss=0.5580305457115173
+2019-10-07 16:02:21,306 [INFO]: epoch 44: batch loss = 12.683286666870117, gen_loss=12.149507522583008, latent_loss=0.5337790846824646
+2019-10-07 16:02:21,458 [INFO]: epoch 45: batch loss = 12.7173433303833, gen_loss=12.165149688720703, latent_loss=0.5521939992904663
+2019-10-07 16:02:21,609 [INFO]: epoch 46: batch loss = 12.411015510559082, gen_loss=11.910364151000977, latent_loss=0.5006510019302368
+2019-10-07 16:02:21,759 [INFO]: epoch 47: batch loss = 13.031306266784668, gen_loss=12.472469329833984, latent_loss=0.5588369369506836
+2019-10-07 16:02:21,911 [INFO]: epoch 48: batch loss = 12.363938331604004, gen_loss=11.807801246643066, latent_loss=0.5561371445655823
+2019-10-07 16:02:22,060 [INFO]: epoch 49: batch loss = 12.551214218139648, gen_loss=12.002099990844727, latent_loss=0.5491146445274353
+2019-10-07 16:02:29,587 [INFO]: epoch 0: batch loss = 38.151607513427734, gen_loss=37.341548919677734, latent_loss=0.8100589513778687, valid_loss=36.917963908268845
+2019-10-07 16:02:35,731 [INFO]: epoch 1: batch loss = 36.81438064575195, gen_loss=35.635589599609375, latent_loss=1.1787893772125244, valid_loss=36.32182018573468
+2019-10-07 16:02:42,062 [INFO]: epoch 2: batch loss = 35.983699798583984, gen_loss=34.961334228515625, latent_loss=1.0223643779754639, valid_loss=36.090105937077446
+2019-10-07 16:02:48,359 [INFO]: epoch 3: batch loss = 35.20939636230469, gen_loss=33.921844482421875, latent_loss=1.2875523567199707, valid_loss=35.86872834425706
+2019-10-07 16:02:54,922 [INFO]: epoch 4: batch loss = 36.37337112426758, gen_loss=34.9368896484375, latent_loss=1.4364800453186035, valid_loss=35.63315054086538
+2019-10-07 16:03:01,107 [INFO]: epoch 5: batch loss = 36.85004806518555, gen_loss=35.262786865234375, latent_loss=1.5872604846954346, valid_loss=35.59690372760479
+2019-10-07 16:03:07,301 [INFO]: epoch 6: batch loss = 38.06390380859375, gen_loss=36.532920837402344, latent_loss=1.5309815406799316, valid_loss=35.39764580359826
+2019-10-07 16:03:13,419 [INFO]: epoch 7: batch loss = 37.39932632446289, gen_loss=35.740177154541016, latent_loss=1.6591477394104004, valid_loss=35.31516192509577
+2019-10-07 16:03:19,538 [INFO]: epoch 8: batch loss = 37.33583068847656, gen_loss=35.79582977294922, latent_loss=1.539999008178711, valid_loss=35.31399477445162
+2019-10-07 16:03:25,658 [INFO]: epoch 9: batch loss = 36.117435455322266, gen_loss=34.54656219482422, latent_loss=1.5708730220794678, valid_loss=35.19493425809421
+2019-10-07 16:03:31,791 [INFO]: epoch 10: batch loss = 35.25503921508789, gen_loss=33.633052825927734, latent_loss=1.6219863891601562, valid_loss=35.186670303344734
+2019-10-07 16:03:37,916 [INFO]: epoch 11: batch loss = 35.65145492553711, gen_loss=34.029380798339844, latent_loss=1.6220743656158447, valid_loss=34.981198824368995
+2019-10-07 16:03:44,072 [INFO]: epoch 12: batch loss = 36.42316436767578, gen_loss=34.68144989013672, latent_loss=1.7417155504226685, valid_loss=34.97138522221491
+2019-10-07 16:03:50,192 [INFO]: epoch 13: batch loss = 35.988807678222656, gen_loss=33.95005416870117, latent_loss=2.038754463195801, valid_loss=34.90679564842811
+2019-10-07 16:03:56,313 [INFO]: epoch 14: batch loss = 35.69085693359375, gen_loss=33.60450744628906, latent_loss=2.086347818374634, valid_loss=34.74553695091835
+2019-10-07 16:04:02,458 [INFO]: epoch 15: batch loss = 36.26553726196289, gen_loss=34.376617431640625, latent_loss=1.8889182806015015, valid_loss=34.82515481802133
+2019-10-07 16:04:08,603 [INFO]: epoch 16: batch loss = 36.25816345214844, gen_loss=34.294708251953125, latent_loss=1.9634535312652588, valid_loss=34.79880479665903
+2019-10-07 16:04:14,742 [INFO]: epoch 17: batch loss = 36.35078430175781, gen_loss=34.29802703857422, latent_loss=2.0527584552764893, valid_loss=34.660383077768174
+2019-10-07 16:04:20,906 [INFO]: epoch 18: batch loss = 34.61522674560547, gen_loss=32.67531967163086, latent_loss=1.9399067163467407, valid_loss=34.59644948519193
+2019-10-07 16:04:27,025 [INFO]: epoch 19: batch loss = 34.91722869873047, gen_loss=33.0523796081543, latent_loss=1.8648481369018555, valid_loss=34.582851703350364
+2019-10-07 16:04:33,145 [INFO]: epoch 20: batch loss = 36.310665130615234, gen_loss=34.302574157714844, latent_loss=2.0080904960632324, valid_loss=34.4995277111347
+2019-10-07 16:04:39,278 [INFO]: epoch 21: batch loss = 35.96823501586914, gen_loss=33.87800598144531, latent_loss=2.0902278423309326, valid_loss=34.53447239215558
+2019-10-07 16:04:45,405 [INFO]: epoch 22: batch loss = 37.58692169189453, gen_loss=35.193424224853516, latent_loss=2.393498420715332, valid_loss=34.478122124305145
+2019-10-07 16:04:51,530 [INFO]: epoch 23: batch loss = 35.88148498535156, gen_loss=34.16581726074219, latent_loss=1.715667724609375, valid_loss=34.512050481942985
+2019-10-07 16:04:57,654 [INFO]: epoch 24: batch loss = 36.33198165893555, gen_loss=34.144248962402344, latent_loss=2.1877336502075195, valid_loss=34.40204994495099
+2019-10-07 16:05:03,771 [INFO]: epoch 25: batch loss = 36.169403076171875, gen_loss=34.288360595703125, latent_loss=1.8810415267944336, valid_loss=34.28661441802979
+2019-10-07 16:05:09,894 [INFO]: epoch 26: batch loss = 35.79759216308594, gen_loss=33.82190704345703, latent_loss=1.9756863117218018, valid_loss=34.42992305755616
+2019-10-07 16:05:16,004 [INFO]: epoch 27: batch loss = 36.99853515625, gen_loss=34.57133483886719, latent_loss=2.427198886871338, valid_loss=34.05761960836558
+2019-10-07 16:05:22,117 [INFO]: epoch 28: batch loss = 34.046993255615234, gen_loss=31.710277557373047, latent_loss=2.3367161750793457, valid_loss=34.217111587524414
+2019-10-07 16:05:28,241 [INFO]: epoch 29: batch loss = 35.30609893798828, gen_loss=33.01631164550781, latent_loss=2.2897861003875732, valid_loss=34.10103475130522
+2019-10-07 16:05:34,370 [INFO]: epoch 30: batch loss = 35.43510818481445, gen_loss=32.967735290527344, latent_loss=2.467371940612793, valid_loss=34.12389703897329
+2019-10-07 16:05:40,486 [INFO]: epoch 31: batch loss = 35.31163024902344, gen_loss=32.87655258178711, latent_loss=2.4350762367248535, valid_loss=34.08736236278828
+2019-10-07 16:05:46,613 [INFO]: epoch 32: batch loss = 36.317630767822266, gen_loss=34.04750442504883, latent_loss=2.2701268196105957, valid_loss=33.92729054964505
+2019-10-07 16:05:52,759 [INFO]: epoch 33: batch loss = 35.190696716308594, gen_loss=32.740989685058594, latent_loss=2.44970703125, valid_loss=34.00772153414212
+2019-10-07 16:05:59,055 [INFO]: epoch 34: batch loss = 34.82868957519531, gen_loss=32.62019348144531, latent_loss=2.2084970474243164, valid_loss=34.08729964036207
+2019-10-07 16:06:05,449 [INFO]: epoch 35: batch loss = 36.139427185058594, gen_loss=33.79652404785156, latent_loss=2.3429017066955566, valid_loss=33.979579852177544
+2019-10-07 16:06:11,707 [INFO]: epoch 36: batch loss = 36.30331802368164, gen_loss=33.8967399597168, latent_loss=2.406578540802002, valid_loss=33.93446702223558
+2019-10-07 16:06:18,009 [INFO]: epoch 37: batch loss = 34.03758239746094, gen_loss=31.532276153564453, latent_loss=2.505308151245117, valid_loss=33.79882585085356
+2019-10-07 16:06:24,281 [INFO]: epoch 38: batch loss = 35.19768524169922, gen_loss=32.751888275146484, latent_loss=2.4457969665527344, valid_loss=33.86866760253906
+2019-10-07 16:06:30,539 [INFO]: epoch 39: batch loss = 37.85615921020508, gen_loss=35.260284423828125, latent_loss=2.5958738327026367, valid_loss=33.80449991959792
+2019-10-07 16:06:36,750 [INFO]: epoch 40: batch loss = 35.22126770019531, gen_loss=32.670780181884766, latent_loss=2.5504865646362305, valid_loss=33.81638482900767
+2019-10-07 16:06:43,232 [INFO]: epoch 41: batch loss = 37.64985275268555, gen_loss=34.9857177734375, latent_loss=2.6641345024108887, valid_loss=33.678718346815835
+2019-10-07 16:06:49,476 [INFO]: epoch 42: batch loss = 34.25825119018555, gen_loss=31.653074264526367, latent_loss=2.6051783561706543, valid_loss=33.705169824453506
+2019-10-07 16:06:55,694 [INFO]: epoch 43: batch loss = 34.94511795043945, gen_loss=32.14626693725586, latent_loss=2.798851251602173, valid_loss=33.75407277620756
+2019-10-07 16:07:02,001 [INFO]: epoch 44: batch loss = 34.023704528808594, gen_loss=31.48855209350586, latent_loss=2.535151958465576, valid_loss=33.631474128136276
+2019-10-07 16:07:08,122 [INFO]: epoch 45: batch loss = 35.78764343261719, gen_loss=33.251399993896484, latent_loss=2.536243438720703, valid_loss=33.653308428250824
+2019-10-07 16:07:14,245 [INFO]: epoch 46: batch loss = 36.11683654785156, gen_loss=33.229042053222656, latent_loss=2.887794256210327, valid_loss=33.515275441683265
+2019-10-07 16:07:20,369 [INFO]: epoch 47: batch loss = 35.29194259643555, gen_loss=32.44874572753906, latent_loss=2.8431971073150635, valid_loss=33.58978484227107
+2019-10-07 16:07:26,497 [INFO]: epoch 48: batch loss = 34.484580993652344, gen_loss=31.688106536865234, latent_loss=2.796475410461426, valid_loss=33.48721584906945
+2019-10-07 16:07:32,648 [INFO]: epoch 49: batch loss = 35.600685119628906, gen_loss=32.51353454589844, latent_loss=3.0871524810791016, valid_loss=33.45820845090425
+2019-10-07 16:07:38,765 [INFO]: epoch 50: batch loss = 36.39210510253906, gen_loss=33.39087677001953, latent_loss=3.001229763031006, valid_loss=33.416286395146294
+2019-10-07 16:07:44,910 [INFO]: epoch 51: batch loss = 34.57614517211914, gen_loss=31.86546516418457, latent_loss=2.710679292678833, valid_loss=33.49683145376352
+2019-10-07 16:07:51,045 [INFO]: epoch 52: batch loss = 36.62356948852539, gen_loss=33.955909729003906, latent_loss=2.667660713195801, valid_loss=33.45394442631647
+2019-10-07 16:07:57,179 [INFO]: epoch 53: batch loss = 36.72218704223633, gen_loss=34.06953430175781, latent_loss=2.6526522636413574, valid_loss=33.420315962571365
+2019-10-07 16:08:03,307 [INFO]: epoch 54: batch loss = 36.24018859863281, gen_loss=33.27993392944336, latent_loss=2.960256338119507, valid_loss=33.42791571983924
+2019-10-07 16:08:09,659 [INFO]: epoch 55: batch loss = 35.0775260925293, gen_loss=32.31330108642578, latent_loss=2.7642245292663574, valid_loss=33.36746479914739
+2019-10-07 16:08:15,844 [INFO]: epoch 56: batch loss = 35.27589416503906, gen_loss=32.54283905029297, latent_loss=2.733053684234619, valid_loss=33.49042525658241
+2019-10-07 16:08:21,977 [INFO]: epoch 57: batch loss = 34.83084487915039, gen_loss=31.84131622314453, latent_loss=2.9895272254943848, valid_loss=33.404836948101334
+2019-10-07 16:08:28,097 [INFO]: epoch 58: batch loss = 35.343849182128906, gen_loss=32.42837905883789, latent_loss=2.9154715538024902, valid_loss=33.311176593487076
+2019-10-07 16:08:34,222 [INFO]: epoch 59: batch loss = 35.9523811340332, gen_loss=32.883827209472656, latent_loss=3.0685553550720215, valid_loss=33.39851731520433
+2019-10-07 16:08:40,341 [INFO]: epoch 60: batch loss = 36.522743225097656, gen_loss=33.429100036621094, latent_loss=3.0936450958251953, valid_loss=33.35841523683988
+2019-10-07 16:08:46,494 [INFO]: epoch 61: batch loss = 35.7135124206543, gen_loss=32.94742965698242, latent_loss=2.7660818099975586, valid_loss=33.367597139798676
+2019-10-07 16:08:52,613 [INFO]: epoch 62: batch loss = 34.266944885253906, gen_loss=31.178043365478516, latent_loss=3.088901996612549, valid_loss=33.20686017549954
+2019-10-07 16:08:58,747 [INFO]: epoch 63: batch loss = 34.16694259643555, gen_loss=31.25387191772461, latent_loss=2.913071870803833, valid_loss=33.311465556804954
+2019-10-07 16:09:04,909 [INFO]: epoch 64: batch loss = 34.998756408691406, gen_loss=31.636795043945312, latent_loss=3.3619625568389893, valid_loss=33.27994155883789
+2019-10-07 16:09:11,035 [INFO]: epoch 65: batch loss = 35.349464416503906, gen_loss=32.420204162597656, latent_loss=2.9292616844177246, valid_loss=33.24688507960393
+2019-10-07 16:09:17,168 [INFO]: epoch 66: batch loss = 34.29722595214844, gen_loss=31.258216857910156, latent_loss=3.0390076637268066, valid_loss=33.22544860839844
+2019-10-07 16:09:23,299 [INFO]: epoch 67: batch loss = 34.91526794433594, gen_loss=31.926219940185547, latent_loss=2.989048480987549, valid_loss=33.15235233306885
+2019-10-07 16:09:29,440 [INFO]: epoch 68: batch loss = 35.999473571777344, gen_loss=32.79991912841797, latent_loss=3.1995558738708496, valid_loss=33.10148591261644
+2019-10-07 16:09:35,576 [INFO]: epoch 69: batch loss = 34.8265266418457, gen_loss=31.68751335144043, latent_loss=3.1390137672424316, valid_loss=33.17039680480957
+2019-10-07 16:09:41,710 [INFO]: epoch 70: batch loss = 36.63154602050781, gen_loss=33.27861785888672, latent_loss=3.3529300689697266, valid_loss=33.09529113769532
+2019-10-07 16:09:47,872 [INFO]: epoch 71: batch loss = 34.202552795410156, gen_loss=30.81651496887207, latent_loss=3.3860363960266113, valid_loss=32.92943374927227
+2019-10-07 16:09:54,005 [INFO]: epoch 72: batch loss = 33.522037506103516, gen_loss=30.368803024291992, latent_loss=3.153233766555786, valid_loss=33.035707253676186
+2019-10-07 16:10:00,135 [INFO]: epoch 73: batch loss = 34.25177001953125, gen_loss=31.002391815185547, latent_loss=3.2493793964385986, valid_loss=33.12229574643649
+2019-10-07 16:10:06,270 [INFO]: epoch 74: batch loss = 34.04799270629883, gen_loss=30.69516372680664, latent_loss=3.352827548980713, valid_loss=32.94059005150429
+2019-10-07 16:10:12,385 [INFO]: epoch 75: batch loss = 35.29088592529297, gen_loss=32.001197814941406, latent_loss=3.2896885871887207, valid_loss=33.05728017366849
+2019-10-07 16:10:18,527 [INFO]: epoch 76: batch loss = 34.0611457824707, gen_loss=30.849477767944336, latent_loss=3.21166729927063, valid_loss=33.06075521615835
+2019-10-07 16:10:24,670 [INFO]: epoch 77: batch loss = 35.48265838623047, gen_loss=32.286598205566406, latent_loss=3.1960597038269043, valid_loss=33.089674802926865
+2019-10-07 16:10:30,796 [INFO]: epoch 78: batch loss = 33.7409782409668, gen_loss=30.545642852783203, latent_loss=3.1953346729278564, valid_loss=32.98245400648851
+2019-10-07 16:10:36,927 [INFO]: epoch 79: batch loss = 35.67729949951172, gen_loss=32.20179748535156, latent_loss=3.475503444671631, valid_loss=33.03623742323655
+2019-10-07 16:10:43,061 [INFO]: epoch 80: batch loss = 35.74184799194336, gen_loss=32.52782440185547, latent_loss=3.2140235900878906, valid_loss=32.97732228499193
+2019-10-07 16:10:49,177 [INFO]: epoch 81: batch loss = 35.723838806152344, gen_loss=32.407310485839844, latent_loss=3.316528797149658, valid_loss=33.095195696904106
+2019-10-07 16:10:55,336 [INFO]: epoch 82: batch loss = 33.00889205932617, gen_loss=29.46894073486328, latent_loss=3.539952278137207, valid_loss=32.915224001957824
+2019-10-07 16:11:01,458 [INFO]: epoch 83: batch loss = 34.04568099975586, gen_loss=30.64586067199707, latent_loss=3.3998217582702637, valid_loss=33.028192740220284
+2019-10-07 16:11:07,584 [INFO]: epoch 84: batch loss = 34.85069274902344, gen_loss=31.530933380126953, latent_loss=3.3197598457336426, valid_loss=32.90761793576754
+2019-10-07 16:11:13,741 [INFO]: epoch 85: batch loss = 33.957916259765625, gen_loss=30.59877586364746, latent_loss=3.359139919281006, valid_loss=32.881868655865
+2019-10-07 16:11:19,876 [INFO]: epoch 86: batch loss = 34.57843017578125, gen_loss=31.277427673339844, latent_loss=3.3010027408599854, valid_loss=32.89953143780049
+2019-10-07 16:11:26,024 [INFO]: epoch 87: batch loss = 33.79262161254883, gen_loss=30.33713150024414, latent_loss=3.4554905891418457, valid_loss=32.85048668201153
+2019-10-07 16:11:32,207 [INFO]: epoch 88: batch loss = 34.690757751464844, gen_loss=31.19190216064453, latent_loss=3.498857021331787, valid_loss=32.8737217096182
+2019-10-07 16:11:38,526 [INFO]: epoch 89: batch loss = 34.95868682861328, gen_loss=31.548202514648438, latent_loss=3.4104862213134766, valid_loss=32.85237569075365
+2019-10-07 16:11:44,834 [INFO]: epoch 90: batch loss = 34.51628875732422, gen_loss=31.116703033447266, latent_loss=3.3995859622955322, valid_loss=32.87443190354568
+2019-10-07 16:11:51,087 [INFO]: epoch 91: batch loss = 36.05216979980469, gen_loss=32.478790283203125, latent_loss=3.573378086090088, valid_loss=32.87484902601975
+2019-10-07 16:11:57,242 [INFO]: epoch 92: batch loss = 34.10637664794922, gen_loss=30.508689880371094, latent_loss=3.5976884365081787, valid_loss=32.869782447814934
+2019-10-07 16:12:03,419 [INFO]: epoch 93: batch loss = 35.51430892944336, gen_loss=32.07265853881836, latent_loss=3.4416489601135254, valid_loss=32.91360825758714
+2019-10-07 16:12:09,559 [INFO]: epoch 94: batch loss = 36.59139633178711, gen_loss=32.98479461669922, latent_loss=3.606602668762207, valid_loss=32.833633569570694
+2019-10-07 16:12:15,680 [INFO]: epoch 95: batch loss = 34.926639556884766, gen_loss=31.21609878540039, latent_loss=3.710541248321533, valid_loss=32.878154167762176
+2019-10-07 16:12:21,809 [INFO]: epoch 96: batch loss = 34.962738037109375, gen_loss=31.412939071655273, latent_loss=3.5497994422912598, valid_loss=32.93064586932843
+2019-10-07 16:12:27,936 [INFO]: epoch 97: batch loss = 35.77530288696289, gen_loss=31.98724365234375, latent_loss=3.7880587577819824, valid_loss=32.80718913445106
+2019-10-07 16:12:34,060 [INFO]: epoch 98: batch loss = 36.38115310668945, gen_loss=32.70478820800781, latent_loss=3.6763663291931152, valid_loss=32.89607965029204
+2019-10-07 16:12:40,198 [INFO]: epoch 99: batch loss = 36.54757308959961, gen_loss=33.074432373046875, latent_loss=3.4731390476226807, valid_loss=32.8521527510423
+2019-10-07 16:12:40,596 [INFO]: Weights saved at model/pretrain
+2019-10-08 19:18:33,380 [INFO]: loading data
+2019-10-08 19:19:34,330 [INFO]: loading data
+2019-10-08 19:19:58,698 [INFO]: initializing sdae model
+2019-10-08 19:19:58,720 [INFO]: fitting data starts...
+2019-10-08 19:19:58,721 [INFO]: Layer 1
+2019-10-08 19:19:59,327 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-08 19:19:59,404 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-08 19:21:18,982 [INFO]: epoch 0: batch loss = 0.07085997611284256
+2019-10-08 19:22:42,862 [INFO]: loading data
+2019-10-08 19:23:15,079 [INFO]: initializing sdae model
+2019-10-08 19:23:15,102 [INFO]: fitting data starts...
+2019-10-08 19:23:15,104 [INFO]: Layer 1
+2019-10-08 19:23:15,949 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-08 19:23:16,018 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-08 19:24:37,290 [INFO]: epoch 0: batch loss = 34.500526428222656
+2019-10-08 19:26:00,264 [INFO]: epoch 1: batch loss = 35.709800720214844
+2019-10-08 19:27:22,547 [INFO]: epoch 2: batch loss = 35.35435104370117
+2019-10-08 19:28:45,665 [INFO]: epoch 3: batch loss = 33.06169128417969
+2019-10-08 19:30:08,732 [INFO]: epoch 4: batch loss = 28.599023818969727
+2019-10-08 19:31:27,652 [INFO]: epoch 5: batch loss = 29.64291000366211
+2019-10-08 19:32:49,672 [INFO]: epoch 6: batch loss = 29.163522720336914
+2019-10-08 19:34:12,071 [INFO]: epoch 7: batch loss = 25.864866256713867
+2019-10-08 19:35:34,074 [INFO]: epoch 8: batch loss = 23.140674591064453
+2019-10-08 19:36:54,222 [INFO]: epoch 9: batch loss = 26.664661407470703
+2019-10-08 19:38:12,156 [INFO]: epoch 10: batch loss = 20.976795196533203
+2019-10-08 19:39:29,853 [INFO]: epoch 11: batch loss = 22.753442764282227
+2019-10-08 19:40:48,171 [INFO]: epoch 12: batch loss = 21.35480499267578
+2019-10-08 19:42:07,436 [INFO]: epoch 13: batch loss = 20.053142547607422
+2019-10-08 19:43:28,345 [INFO]: epoch 14: batch loss = 20.729026794433594
+2019-10-08 19:44:48,965 [INFO]: epoch 15: batch loss = 20.66094207763672
+2019-10-08 19:46:09,663 [INFO]: epoch 16: batch loss = 19.451595306396484
+2019-10-08 19:47:30,356 [INFO]: epoch 17: batch loss = 18.275741577148438
+2019-10-08 19:48:50,960 [INFO]: epoch 18: batch loss = 20.713651657104492
+2019-10-08 19:50:11,455 [INFO]: epoch 19: batch loss = 19.672256469726562
+2019-10-08 19:51:31,970 [INFO]: epoch 20: batch loss = 20.652053833007812
+2019-10-08 19:52:52,836 [INFO]: epoch 21: batch loss = 20.27377700805664
+2019-10-08 19:54:13,261 [INFO]: epoch 22: batch loss = 20.354108810424805
+2019-10-08 19:55:33,801 [INFO]: epoch 23: batch loss = 21.878005981445312
+2019-10-08 19:56:54,380 [INFO]: epoch 24: batch loss = 19.807788848876953
+2019-10-08 19:58:15,175 [INFO]: epoch 25: batch loss = 20.421043395996094
+2019-10-08 19:59:34,666 [INFO]: epoch 26: batch loss = 20.78780174255371
+2019-10-08 20:00:53,535 [INFO]: epoch 27: batch loss = 21.470684051513672
+2019-10-08 20:02:12,367 [INFO]: epoch 28: batch loss = 21.217056274414062
+2019-10-08 20:03:31,503 [INFO]: epoch 29: batch loss = 18.674617767333984
+2019-10-08 20:04:50,437 [INFO]: epoch 30: batch loss = 21.083206176757812
+2019-10-08 20:06:09,393 [INFO]: epoch 31: batch loss = 19.962127685546875
+2019-10-08 20:07:28,466 [INFO]: epoch 32: batch loss = 21.76020622253418
+2019-10-08 20:08:47,540 [INFO]: epoch 33: batch loss = 20.782291412353516
+2019-10-08 20:10:06,653 [INFO]: epoch 34: batch loss = 18.685588836669922
+2019-10-08 20:11:26,432 [INFO]: epoch 35: batch loss = 21.082353591918945
+2019-10-08 20:12:48,251 [INFO]: epoch 36: batch loss = 21.028764724731445
+2019-10-08 20:14:08,749 [INFO]: epoch 37: batch loss = 19.551265716552734
+2019-10-08 20:15:28,603 [INFO]: epoch 38: batch loss = 19.2183837890625
+2019-10-08 20:16:48,253 [INFO]: epoch 39: batch loss = 19.097135543823242
+2019-10-08 20:18:07,824 [INFO]: epoch 40: batch loss = 18.70812225341797
+2019-10-08 20:19:27,532 [INFO]: epoch 41: batch loss = 19.66368865966797
+2019-10-08 20:20:47,239 [INFO]: epoch 42: batch loss = 20.809192657470703
+2019-10-08 20:22:06,952 [INFO]: epoch 43: batch loss = 20.833580017089844
+2019-10-08 20:23:26,695 [INFO]: epoch 44: batch loss = 20.485755920410156
+2019-10-08 20:24:46,512 [INFO]: epoch 45: batch loss = 18.65350914001465
+2019-10-08 20:26:06,371 [INFO]: epoch 46: batch loss = 21.122817993164062
+2019-10-08 20:27:26,182 [INFO]: epoch 47: batch loss = 18.267173767089844
+2019-10-08 20:28:45,351 [INFO]: epoch 48: batch loss = 20.148300170898438
+2019-10-08 20:30:06,934 [INFO]: epoch 49: batch loss = 20.938127517700195
+2019-10-09 08:26:38,604 [INFO]: loading data
+2019-10-09 08:27:02,680 [INFO]: initializing sdae model
+2019-10-09 08:27:02,680 [INFO]: fitting data starts...
+2019-10-09 08:27:02,680 [INFO]: Layer 1
+2019-10-09 08:27:02,699 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-09 08:27:02,726 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-09 08:28:19,444 [INFO]: epoch 0: batch loss = 34.500701904296875
+2019-10-09 08:29:34,723 [INFO]: epoch 1: batch loss = 35.74634552001953
+2019-10-09 08:30:49,459 [INFO]: epoch 2: batch loss = 35.34452438354492
+2019-10-09 08:32:04,207 [INFO]: epoch 3: batch loss = 33.094390869140625
+2019-10-09 08:33:19,559 [INFO]: epoch 4: batch loss = 28.56216812133789
+2019-10-09 08:34:34,002 [INFO]: epoch 5: batch loss = 29.707286834716797
+2019-10-09 08:35:48,126 [INFO]: epoch 6: batch loss = 29.266788482666016
+2019-10-09 08:37:02,277 [INFO]: epoch 7: batch loss = 26.035247802734375
+2019-10-09 08:38:16,478 [INFO]: epoch 8: batch loss = 23.260555267333984
+2019-10-09 08:39:30,747 [INFO]: epoch 9: batch loss = 26.81781768798828
+2019-10-09 08:40:45,034 [INFO]: epoch 10: batch loss = 21.04685401916504
+2019-10-09 08:41:59,222 [INFO]: epoch 11: batch loss = 22.839801788330078
+2019-10-09 08:43:13,699 [INFO]: epoch 12: batch loss = 21.23202133178711
+2019-10-09 08:44:28,366 [INFO]: epoch 13: batch loss = 19.956188201904297
+2019-10-09 08:45:42,782 [INFO]: epoch 14: batch loss = 20.776710510253906
+2019-10-09 08:46:57,327 [INFO]: epoch 15: batch loss = 20.64031982421875
+2019-10-09 08:48:11,914 [INFO]: epoch 16: batch loss = 19.485883712768555
+2019-10-09 08:49:26,491 [INFO]: epoch 17: batch loss = 18.23571014404297
+2019-10-09 08:50:41,012 [INFO]: epoch 18: batch loss = 20.6976318359375
+2019-10-09 08:51:55,653 [INFO]: epoch 19: batch loss = 19.67884063720703
+2019-10-09 08:53:10,212 [INFO]: epoch 20: batch loss = 20.537145614624023
+2019-10-09 08:54:24,826 [INFO]: epoch 21: batch loss = 20.304149627685547
+2019-10-09 08:55:39,409 [INFO]: epoch 22: batch loss = 20.370033264160156
+2019-10-09 08:56:54,070 [INFO]: epoch 23: batch loss = 21.722965240478516
+2019-10-09 08:58:08,724 [INFO]: epoch 24: batch loss = 19.780595779418945
+2019-10-09 08:59:23,358 [INFO]: epoch 25: batch loss = 20.510177612304688
+2019-10-09 09:00:37,995 [INFO]: epoch 26: batch loss = 20.72811508178711
+2019-10-09 09:01:52,614 [INFO]: epoch 27: batch loss = 21.38666534423828
+2019-10-09 09:03:07,271 [INFO]: epoch 28: batch loss = 21.201047897338867
+2019-10-09 09:04:21,792 [INFO]: epoch 29: batch loss = 18.70008087158203
+2019-10-09 09:05:36,330 [INFO]: epoch 30: batch loss = 21.045982360839844
+2019-10-09 09:06:50,925 [INFO]: epoch 31: batch loss = 19.965869903564453
+2019-10-09 09:08:05,744 [INFO]: epoch 32: batch loss = 21.719947814941406
+2019-10-09 09:09:20,688 [INFO]: epoch 33: batch loss = 20.664884567260742
+2019-10-09 09:10:35,560 [INFO]: epoch 34: batch loss = 18.79290199279785
+2019-10-09 09:11:50,233 [INFO]: epoch 35: batch loss = 21.197158813476562
+2019-10-09 09:13:06,204 [INFO]: epoch 36: batch loss = 20.928211212158203
+2019-10-09 09:14:21,037 [INFO]: epoch 37: batch loss = 19.558856964111328
+2019-10-09 09:15:35,555 [INFO]: epoch 38: batch loss = 19.317964553833008
+2019-10-09 09:16:50,045 [INFO]: epoch 39: batch loss = 19.253061294555664
+2019-10-09 09:18:04,609 [INFO]: epoch 40: batch loss = 18.788253784179688
+2019-10-09 09:19:19,321 [INFO]: epoch 41: batch loss = 19.73318099975586
+2019-10-09 09:20:33,959 [INFO]: epoch 42: batch loss = 20.926666259765625
+2019-10-09 09:21:48,530 [INFO]: epoch 43: batch loss = 20.80234718322754
+2019-10-09 09:23:03,208 [INFO]: epoch 44: batch loss = 20.506881713867188
+2019-10-09 09:24:18,209 [INFO]: epoch 45: batch loss = 18.60649871826172
+2019-10-09 09:25:33,151 [INFO]: epoch 46: batch loss = 21.134872436523438
+2019-10-09 09:26:48,259 [INFO]: epoch 47: batch loss = 18.088634490966797
+2019-10-09 09:28:03,017 [INFO]: epoch 48: batch loss = 20.20261573791504
+2019-10-09 09:29:19,643 [INFO]: epoch 49: batch loss = 20.790637969970703
+2019-10-09 10:24:26,687 [INFO]: loading data
+2019-10-10 10:05:32,139 [INFO]: loading data
+2019-10-10 10:05:57,892 [INFO]: initializing sdae model
+2019-10-10 10:05:57,903 [INFO]: fitting data starts...
+2019-10-10 10:05:57,903 [INFO]: Layer 1
+2019-10-10 10:05:58,728 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-10 10:05:58,827 [WARNING]: From D:\Python36\Lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-10-10 10:07:20,036 [INFO]: epoch 0: batch loss = 34.49782180786133
